@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-01T16:12:00-06:00",
+ "generated_at": "2026-11-01T20:12:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-01T16:12:00-06:00",
-  "next_scan": "2026-11-01T20:00:00-06:00",
+  "last_scan": "2026-11-01T20:12:00-06:00",
+  "next_scan": "2026-11-02T08:00:00-06:00",
   "activity": [
-   "Open campaigns: Quip Quest and Mindshare end Mon 11/2 7:00 AM CST (official, under 24 hours); GenLayer Season 2 points run until mainnet (registered)",
-   "AI: Amadeus officially started its road to TGE (Magnum Opus draw now 140 winners, no TGE date); Flop team FAQ relayed by an unofficial fan account; QWEN airdrop spam ignored",
-   "Quantum: Quip official quiet, participant posts only; Asentum and Starknet PQ chatter, nothing new",
-   "SafeTrade: 51 bases; no AI or quantum additions"
+   "Open campaigns: Quip Quest and Mindshare end Mon 11/2 7:00 AM CST with the final points payout (official); GenLayer Season 2 points run until mainnet (registered)",
+   "Quantum: Quip official quiet, community recaps of its testnet numbers only; new on radar: Ixios says its post-quantum (ML-DSA-87) upgrade is live on mainnet, no CoinGecko listing and tiny engagement",
+   "AI: no new legitimate launches; QWEN airdrop and Ptah agent posts are spam or promo, ignored",
+   "SafeTrade: 52 bases; no AI or quantum additions"
   ],
-  "x_reads_left_today": 947
+  "x_reads_left_today": 985
  },
  "watchlist": [
   {
@@ -877,6 +877,13 @@
    "score": 40,
    "reason": "Sells a \"post-quantum privacy network\" but today uses elliptic-curve ring signatures; PQ fork planned about Feb 2027 and marked \"planned, not final\" (third-party check of its own docs). Listed on SafeTrade 10/29",
    "at": "2026-11-01T08:20:00-06:00"
+  },
+  {
+   "name": "Ixios",
+   "theme": "Quantum",
+   "score": 38,
+   "reason": "Official @ixios_io says APQ upgrade (ML-DSA-87 signatures) is live on mainnet, but no CoinGecko listing, no DEX route found, about 4.3k followers with 2 likes on the post, team and code unconfirmed. Radar only.",
+   "at": "2026-11-01T20:12:00-06:00"
   }
  ],
  "snapshot_note": "CoinGecko prices and SafeTrade tickers 8:04 AM CST Sun Nov 1; X sweep since 8:08 PM CDT Sat Oct 31; GitHub org pushes 8:06 AM CST.",
