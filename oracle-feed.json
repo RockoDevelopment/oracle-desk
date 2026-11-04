@@ -1366,7 +1366,7 @@
     "score": 81,
     "tier": "Benchmark",
     "dex": "Rhea Finance (NEAR)",
-    "note": "SafeTrade ticker QUANTUS (QTC there is Qubitcoin). DEX route: Rhea Finance on NEAR, and now swaps inside the Quantus wallet via NEAR Intents",
+    "note": "SafeTrade ticker QUANTUS (the QTC ticker there is a different coin). DEX route: Rhea Finance on NEAR, and now swaps inside the Quantus wallet via NEAR Intents",
     "pair": "QUANTUS/USDT"
    },
    {
