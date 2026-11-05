@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-04T18:05:00-06:00",
+ "generated_at": "2026-11-05T08:30:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-04T18:05:00-06:00",
-  "next_scan": "2026-11-04T20:00:00-06:00",
+  "last_scan": "2026-11-05T08:30:00-06:00",
+  "next_scan": "2026-11-05T12:00:00-06:00",
   "activity": [
-   "Catch-up morning digest (run late after usage reset): no new HIGH PRIORITY (0 of 3)",
-   "Window since the 11/3 8:14 AM report; 6 scheduled runs missed",
-   "Open campaigns: GenLayer Season 2 + Pre-Mainnet Staking; Amadeus Road to TGE (trading required); Quip campaigns closed 11/2",
-   "AI: Amadeus SDK 1.5.0; TermiX $30M agent volume; Flop devnet",
-   "Quantum: Quantus to @Chance_; Quip Node Manager update; Stellar Bell testnet",
-   "SafeTrade: 49 bases, no new AI or quantum listings"
+   "Morning digest: no new HIGH PRIORITY (0 of 3)",
+   "Open campaigns: Quip Points (live), GenLayer Season 2 + Pre-Mainnet Staking, Amadeus Road to TGE (trading required)",
+   "AI: TermiX Set and Earn closes Thu 11/5; Flop verifiable-inference post; GenLayer GitHub busy",
+   "Quantum: Soqucoin SOQ/USDT on Biconomy opens Fri 11/6 6:00 AM CST; Quantus x NEAR fireside in Mumbai",
+   "SafeTrade: 48 bases, no new AI or quantum listings; no @safetrade posts",
+   "Watchlist Page not refreshed this run (Page edit tool unavailable)"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
@@ -55,7 +55,7 @@
    "fdv": 500900000.0,
    "volume_24h": 1350469,
    "dex_route": "Rhea Finance (NEAR) qtc.omft.near (~$9.9M liq); InstaSwap via NEAR Intents. Solana/Base QTC tokens are impostors",
-   "next_milestone": "Quantus at Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official). Quantus coming to @Chance_ (announced Wed 11/4, undated). Offline key product teased 'soon' (undated)",
+   "next_milestone": "Quantus at Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official). Coming to @Chance_ (announced Wed 11/4, undated). Offline key product teased (undated)",
    "milestone_date": "2026-12-01T23:59:00-06:00",
    "links": [
     {
@@ -73,7 +73,7 @@
    ],
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
-   "last_update": "2026-11-05T08:11:15-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "price": 71.82,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
@@ -147,7 +147,7 @@
    ],
    "upgrade_if": "Named-firm audit; real DEX liquidity on Base/BSC; more CEX listings",
    "downgrade_if": "Heavy airdrop or issuance selling; bridge or chain incident",
-   "last_update": "2026-11-05T08:11:15-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "price": 0.02270826,
    "logo": "logos/ritual.png",
    "website": "https://ritual.net",
@@ -221,7 +221,7 @@
    ],
    "upgrade_if": "Dated TGE + official Arbitrum contract + audit",
    "downgrade_if": "TGE slips past October",
-   "last_update": "2026-11-04T18:05:00-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "price": null,
    "logo": "logos/genlayer.png",
    "website": "https://genlayer.com"
@@ -273,7 +273,7 @@
    ],
    "upgrade_if": "Migration date + audited Sui contracts",
    "downgrade_if": "Migration delays",
-   "last_update": "2026-11-05T08:11:15-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "price": 0.121942,
    "logo": "logos/data-network.png",
    "website": "https://www.datafdn.org",
@@ -317,7 +317,7 @@
    "fdv": null,
    "volume_24h": null,
    "dex_route": "No token yet; any QUIP token is a scam",
-   "next_milestone": "Account creation fee waiver ends Sun 11/8 (official). Node Manager app update shipped Wed 11/4 (official). External audit, mainnet and TGE undated",
+   "next_milestone": "Account creation fee waiver ends Sun 11/8 (official, time TBA). Quip Points campaign live (points.quip.network). External audit, mainnet and TGE undated",
    "milestone_date": "2026-11-08T23:59:00-06:00",
    "links": [
     {
@@ -327,7 +327,7 @@
    ],
    "upgrade_if": "Dated TGE, audit, mainnet",
    "downgrade_if": "More TGE slips",
-   "last_update": "2026-11-04T18:05:00-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "price": null,
    "logo": "logos/quip-network.png",
    "website": "https://quip.network"
@@ -379,7 +379,7 @@
    ],
    "upgrade_if": "Official Nov 11 confirmation",
    "downgrade_if": "Date moves",
-   "last_update": "2026-11-04T18:05:00-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "price": null,
    "logo": "logos/fraction-ai.png",
    "website": "https://fractionai.xyz",
@@ -433,9 +433,9 @@
    "market_cap": 689318,
    "fdv": null,
    "volume_24h": 195864,
-   "dex_route": "No official DEX route; CEX: SafeTrade (SOQ/USDT), NonKYC, Neoxa (SOQ/USDC)",
-   "next_milestone": "CMC listing request submitted Thu 10/29 (official, ticket #1470300; not listed yet); team disclosure undated",
-   "milestone_date": null,
+   "dex_route": "No official DEX route; CEX: SafeTrade (SOQ/USDT), NonKYC, Neoxa, Biconomy from Fri 11/6",
+   "next_milestone": "SOQ/USDT trading opens on Biconomy (CEX) Fri 11/6 6:00 AM CST (12:00 UTC), official @soqucoin and @BiconomyCom. CMC listing request pending (ticket #1470300); team disclosure undated",
+   "milestone_date": "2026-11-06T06:00:00-06:00",
    "links": [
     {
      "label": "Soqucoin on X",
@@ -468,7 +468,7 @@
    ],
    "upgrade_if": "Identifiable founders, DEX liquidity",
    "downgrade_if": "Pool centralization returns or partner claims don't hold up",
-   "last_update": "2026-11-05T08:11:15-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "price": 0.00018358,
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
@@ -530,7 +530,7 @@
    ],
    "upgrade_if": "Verified team, audit",
    "downgrade_if": "Heavy unlocks, more lock-up breaches, or no on-chain vesting published",
-   "last_update": "2026-11-05T08:11:15-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "price": 0.137761,
    "logo": "logos/axis-robotics.png",
    "website": "https://axisrobotics.ai",
@@ -588,7 +588,7 @@
    ],
    "upgrade_if": "Testnet live on schedule",
    "downgrade_if": "Delays; impostor tokens",
-   "last_update": "2026-11-04T18:05:00-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "price": null,
    "logo": "logos/flop-network.png",
    "website": "https://flop.finance"
@@ -635,7 +635,7 @@
    "links": [],
    "upgrade_if": "Deeper liquidity, audit",
    "downgrade_if": "Liquidity stays thin",
-   "last_update": "2026-11-05T08:11:15-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "price": 0.00100896,
    "logo": "logos/crynux.png",
    "website": "https://crynux.io",
@@ -679,12 +679,12 @@
    "fdv": null,
    "volume_24h": null,
    "dex_route": "No token yet",
-   "next_milestone": "BNB Chain Set and Earn closes Thu 11/5 (paid agent hires; not free); Kaito epoch 3 to Sun 11/22 (third party). Agent volume passed $30M (official Wed 11/4). TGE undated",
+   "next_milestone": "BNB Chain Set and Earn closes Thu 11/5 (time TBA; paid agent hires, not free). Kaito epoch 3 to Sun 11/22 (third party). TGE undated",
    "milestone_date": "2026-11-05T23:59:00-06:00",
    "links": [],
    "upgrade_if": "Dated TGE",
    "downgrade_if": "Revenue fades",
-   "last_update": "2026-11-04T18:05:00-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "price": null,
    "logo": "logos/termix.png",
    "website": "https://termix.ai"
@@ -735,7 +735,7 @@
    "links": [],
    "upgrade_if": "Official dated TGE + verified contract",
    "downgrade_if": "Second missed date",
-   "last_update": "2026-11-04T18:05:00-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "price": null,
    "logo": "logos/dac-chain.png",
    "website": "https://www.dachain.tech"
@@ -791,7 +791,7 @@
    ],
    "upgrade_if": "Published audit of the PQ account upgrade, official docs naming the parameter sets, and an official DEX route",
    "downgrade_if": "PQ claims turn out marketing-only, or the paid promo wave is the only demand",
-   "last_update": "2026-11-05T08:11:15-06:00",
+   "last_update": "2026-11-05T08:30:00-06:00",
    "logo": "logos/verona.png",
    "website": "https://verona.dev",
    "cg_id": "verona",
@@ -799,6 +799,30 @@
   }
  ],
  "prelaunch_updates": [
+  {
+   "project": "Quip Network",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "OPEN CAMPAIGN: Quip Points still live on points.quip.network (sign-in, hold value, QuipSwap, node; QP convert to QUIP at TGE). Fee waiver ends Sun 11/8. Any QUIP token is a scam.",
+   "at": "2026-11-05T08:30:00-06:00",
+   "url": "https://points.quip.network"
+  },
+  {
+   "project": "GenLayer",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "OPEN CAMPAIGN continues: Season 2 points and Pre-Mainnet Staking (auto-staked unclaimed airdrop from GEN launch day, still undated). Only link: airdrop.genlayer.com.",
+   "at": "2026-11-05T08:30:00-06:00",
+   "url": "https://airdrop.genlayer.com"
+  },
+  {
+   "project": "TermiX",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "BNB Chain Set and Earn: final hours Thu 11/5 (hire 3 agents on 2 marketplaces, or build and list an agent; paid tasks).",
+   "at": "2026-11-04T21:33:50-06:00",
+   "url": "https://x.com/termix_ai/status/2118184991612133815"
+  },
   {
    "project": "Quantus",
    "theme": "Quantum",
@@ -854,71 +878,84 @@
    "text": "OPEN CAMPAIGN: Road to TGE is live (official). Verified on-chain trading (long, short or agent) earns weekly points; needs real trades. A Sun 11/8 snapshot appears only in participant posts (unconfirmed). Not on the watchlist; any AMA token is unverified.",
    "at": "2026-11-03T08:14:24-06:00",
    "url": "https://x.com/ama_protocol/status/2117344538759233844"
-  },
-  {
-   "project": "Quantus",
-   "theme": "Quantum",
-   "source_type": "official",
-   "text": "Milestone (already trading): QTC swaps are live inside the Quantus wallet from 180+ assets on 35+ chains, powered by NEAR Intents.",
-   "at": "2026-11-03T08:14:24-06:00",
-   "url": "https://x.com/QuantusNetwork/status/2117353921265996207"
-  },
-  {
-   "project": "Quip Network",
-   "theme": "Quantum",
-   "source_type": "official",
-   "text": "OPEN CAMPAIGN closed: Quest and Mindshare ended Mon 11/2 7:00 AM CST (13:00 UTC) with the final points distribution. Account creation fee waiver runs through Sun 11/8. Any QUIP token is a scam.",
-   "at": "2026-11-02T08:20:00-06:00",
-   "url": "https://x.com/quipnetwork/status/2116272874235609120"
-  },
-  {
-   "project": "TermiX",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "Launched an Agents Helping Agents bounty board: an agent that cannot finish a task posts a bounty and other agents earn a reward after verification. No TGE date yet.",
-   "at": "2026-11-02T08:20:00-06:00",
-   "url": "https://x.com/termix_ai/status/2117138449283301398"
   }
  ],
  "digest": {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "top3": [
    {
+    "name": "Soqucoin",
+    "why": "SOQ/USDT opens on Biconomy Fri 11/6 6:00 AM CST (official from both sides). Its first larger CEX; still no DEX route and no team disclosure. Check depth and 24h range after open, not the first spike.",
+    "logo": "logos/soqucoin.png",
+    "url": "https://soqu.org"
+   },
+   {
     "name": "Fraction AI",
-    "why": "TGE Wed 11/11 per its MiCA filing, one week out, still not confirmed by @FractionAI_xyz on X; no allocations, venues or vesting published. Watch for the official date.",
+    "why": "TGE Wed 11/11 per its MiCA filing, six days out, still not confirmed by @FractionAI_xyz on X; no allocations, venues or vesting. Watch for the official date and contract.",
     "logo": "logos/fraction-ai.png",
     "url": "https://fractionai.xyz"
    },
    {
     "name": "GenLayer",
-    "why": "Closest AI project to the bar (71). Season 2 points plus Pre-Mainnet Staking are live; still missing a dated launch day, an audit and an official contract.",
+    "why": "Closest AI project to the bar (71). Season 2 points and Pre-Mainnet Staking live; GitHub busy overnight. Still missing a dated launch day, an audit and an official contract.",
     "logo": "logos/genlayer.png",
     "url": "https://genlayer.com"
-   },
-   {
-    "name": "Quantus",
-    "why": "Top quantum pick (81). New: coming to @Chance_ and an offline-keys product teased. Check what the Chance integration is and whether it adds a venue.",
-    "logo": "logos/quantus.png",
-    "url": "https://www.quantus.com"
    }
   ],
   "ai": [
    "No new HIGH PRIORITY (0 of 3)",
-   "Catch-up: 11/3 noon/4 PM/8 PM and 11/4 8 AM/noon/4 PM runs missed (usage limit)",
-   "Amadeus SDK 1.5.0 + CLI setup; Road to TGE points continue (trading required)",
-   "TermiX agent volume past $30M (official)",
-   "Flop devnet live, no rewards",
-   "Ritual cooled to about $0.024 after the +58% spike"
+   "GenLayer Season 2 + Pre-Mainnet Staking open; launch day undated",
+   "TermiX Set and Earn closes Thu 11/5 (paid tasks)",
+   "Fraction AI TGE Wed 11/11 still filing-only",
+   "Flop: verifiable-inference post vs Anthropic FlashProve; devnet only, no token",
+   "Ritual $0.0228 (-14%, range $0.0224 to $0.0255) after the earlier spike"
   ],
   "quantum": [
-   "Quantus coming to @Chance_ (official, undated)",
-   "Quip Node Manager update; fee waiver ends Sun 11/8",
-   "Stellar Protocol 30 'Bell' on testnet with PQ signature checks; mainnet vote Mon 11/23 (radar only, established chain)",
-   "SafeTrade: 49 bases, no new AI or quantum listings"
+   "Soqucoin SOQ/USDT on Biconomy Fri 11/6 6:00 AM CST (official)",
+   "Quip Points live; fee waiver ends Sun 11/8",
+   "Quantus x NEAR fireside in Mumbai; NEAR cites $50M+ Quantus volume via Intents",
+   "Parano1d v2.1 mainnet + native DEX live (radar only, anonymous dev)",
+   "SafeTrade: 48 bases, no new AI or quantum listings"
   ]
  },
- "rejections": [],
- "snapshot_note": "CoinGecko prices and SafeTrade tickers 8:13 AM CST Tue Nov 3; X sweep since 8:20 AM CST Mon Nov 2; GitHub org events 8:22 AM CST.",
+ "rejections": [
+  {
+   "name": "Parano1d (NOID)",
+   "theme": "Quantum",
+   "score": 35,
+   "reason": "v2.1 mainnet + native DEX/launchpad live 11/4, but anonymous dev, PQ scheme unverified, no audit; launch traffic is memecoins and Solana look-alikes",
+   "at": "2026-11-05T08:30:00-06:00"
+  },
+  {
+   "name": "ZeroQube",
+   "theme": "Quantum",
+   "score": 15,
+   "reason": "Hash-signature Solana vault claim from a 21-follower account; no team, code or audit",
+   "at": "2026-11-05T08:30:00-06:00"
+  },
+  {
+   "name": "Motes (MOTES)",
+   "theme": "AI",
+   "score": 20,
+   "reason": "Repeat: Genesis NFT push with 5M MOTES post-for-airdrop campaign; paid-hype pattern",
+   "at": "2026-11-05T08:30:00-06:00"
+  },
+  {
+   "name": "PARAVERSE 9098",
+   "theme": "AI",
+   "score": 5,
+   "reason": "AI-agent NFT mint with random token airdrop, new 7-follower account",
+   "at": "2026-11-05T08:30:00-06:00"
+  },
+  {
+   "name": "AgentID (AGI)",
+   "theme": "AI",
+   "score": 10,
+   "reason": "Repeat: \"free share\" public-mint referral links",
+   "at": "2026-11-05T08:30:00-06:00"
+  }
+ ],
+ "snapshot_note": "CoinGecko prices 8:11 AM CST (hourly routine) and markets 8:2x AM CST Thu Nov 5; SafeTrade tickers 8:20 AM CST; X sweep since 6:05 PM CST Wed Nov 4; GitHub org events 8:25 AM CST.",
  "deadlines": [
   {
    "project": "Fraction AI",
@@ -962,19 +999,38 @@
    "approx": true,
    "url": "https://x.com/OmasSure/status/2114979988910796882",
    "status": "open"
+  },
+  {
+   "project": "Soqucoin",
+   "theme": "Quantum",
+   "title": "SOQ/USDT trading opens on Biconomy (CEX)",
+   "type": "Listing",
+   "date": "2026-11-06T06:00:00-06:00",
+   "url": "https://x.com/soqucoin/status/2118183128456183911",
+   "status": "open"
+  },
+  {
+   "project": "Quip Network",
+   "theme": "Quantum",
+   "title": "Account creation fee waiver ends",
+   "type": "Sign-up deadline",
+   "date": "2026-11-08T00:00:00-06:00",
+   "all_day": true,
+   "url": "https://x.com/quipnetwork/status/2118076372212126071",
+   "status": "open"
   }
  ],
  "report": {
-  "updated": "2026-11-04T18:05:00-06:00",
-  "intro": "Catch-up report (usage limit stopped the runs since Tue 8:14 AM). No new HIGH PRIORITY (0 of 3). Quantus announced it is coming to @Chance_, Amadeus shipped SDK 1.5.0, and TermiX passed $30M agent volume. Fraction AI's 11/11 TGE is still unconfirmed on X.",
-  "snapshots": "CoinGecko prices 5:52 PM CST Wed Nov 4; SafeTrade tickers 6:00 PM CST; X sweep since 8:14 AM CST Tue Nov 3.",
+  "updated": "2026-11-05T08:30:00-06:00",
+  "intro": "Quiet night. No new HIGH PRIORITY (0 of 3). Soqucoin lists SOQ/USDT on Biconomy Fri 11/6 at 6:00 AM CST, Quip Points remains open, and Fraction AI's 11/11 TGE is still only in its MiCA filing. SafeTrade added no AI or quantum tokens.",
+  "snapshots": "CoinGecko prices 8:11 AM CST (hourly) and markets about 8:25 AM CST Thu Nov 5; SafeTrade tickers 8:20 AM CST; X sweep since 6:05 PM CST Wed Nov 4; GitHub org events 8:25 AM CST.",
   "disclaimer": "Research, not financial advice. Snapshots only; verify every contract yourself.",
   "takeaways": [
-   "No new HIGH PRIORITY (0 of 3); near-miss GenLayer 71 still lacks launch date, audit and contract",
-   "Quantus coming to @Chance_ (official, undated)",
-   "Fraction AI TGE 11/11 still only in the MiCA filing",
-   "Quip fee waiver ends Sun 11/8",
-   "SafeTrade: no new AI or quantum listings"
+   "No new HIGH PRIORITY (0 of 3); near-miss GenLayer 71 still lacks a launch date, audit and contract",
+   "Open campaigns: Quip Points, GenLayer Season 2 + Pre-Mainnet Staking, Amadeus Road to TGE (trading required)",
+   "Soqucoin SOQ/USDT on Biconomy Fri 11/6 6:00 AM CST (CEX, official from both sides)",
+   "Fraction AI TGE Wed 11/11 still only in the MiCA filing",
+   "SafeTrade: 48 bases, no new AI or quantum listings"
   ],
   "prelaunch": [
    {
@@ -993,7 +1049,7 @@
     "coming": "External chain audit, then mainnet and TGE; fee waiver ends Sun 11/8",
     "when": "Undated",
     "score": 65,
-    "why": "Quest and Mindshare closed Mon 11/2 7:00 AM CST. Audit is the one step left. Any QUIP token is a scam."
+    "why": "Quip Points campaign still live (official points page). Audit is the step left. Any QUIP token is a scam."
    },
    {
     "project": "Fraction AI",
@@ -1029,7 +1085,7 @@
     "coming": "TGE and tokenomics",
     "when": "Undated",
     "score": 50,
-    "why": "No community fundraising (official). New agent bounty board live. Set and Earn closes Thu 11/5."
+    "why": "No community fundraising (official). Set and Earn closes Thu 11/5 (paid tasks)."
    },
    {
     "project": "DAC Chain",
@@ -1069,9 +1125,9 @@
     "theme": "Quantum",
     "category": "Post-quantum L1",
     "tier": "Strong",
-    "price": 73.94,
-    "market_cap": 23913681,
-    "volume_24h": 1816127,
+    "price": 71.59,
+    "market_cap": 23223441,
+    "volume_24h": 892414,
     "score": 81,
     "dex": "Rhea Finance (NEAR)"
    },
@@ -1081,9 +1137,9 @@
     "theme": "Quantum",
     "category": "Post-quantum L1",
     "tier": "Strong",
-    "price": 1.17,
-    "market_cap": 91612488,
-    "volume_24h": 38200,
+    "price": 1.1,
+    "market_cap": 86360414,
+    "volume_24h": 48750,
     "score": 77,
     "dex": ""
    },
@@ -1093,9 +1149,9 @@
     "theme": "Quantum",
     "category": "L1 with Falcon accounts",
     "tier": "Strong",
-    "price": 0.093511,
-    "market_cap": 848762420,
-    "volume_24h": 33948751,
+    "price": 0.097924,
+    "market_cap": 889680858,
+    "volume_24h": 43692052,
     "score": 78,
     "dex": "Tinyman v2 (Algorand)"
    },
@@ -1105,9 +1161,9 @@
     "theme": "Quantum",
     "category": "Post-quantum L1",
     "tier": "Watch",
-    "price": 0.117012,
-    "market_cap": 16933179,
-    "volume_24h": 13897.17,
+    "price": 0.109263,
+    "market_cap": 15788063,
+    "volume_24h": 23177,
     "score": 67,
     "dex": ""
    },
@@ -1117,9 +1173,9 @@
     "theme": "Quantum",
     "category": "Post-quantum coin",
     "tier": "Watch",
-    "price": 0.00017843,
-    "market_cap": 654796,
-    "volume_24h": 205557,
+    "price": 0.00018351,
+    "market_cap": 689072,
+    "volume_24h": 195689,
     "score": 65,
     "dex": ""
    },
@@ -1129,9 +1185,9 @@
     "theme": "Quantum",
     "category": "Post-quantum L1",
     "tier": "Watch",
-    "price": 0.009979,
-    "market_cap": 16964301,
-    "volume_24h": 66818,
+    "price": 0.00943186,
+    "market_cap": 16035386,
+    "volume_24h": 58149,
     "score": 58,
     "dex": "PancakeSwap v2 (BSC) / Uniswap v3 (ETH)"
    },
@@ -1141,9 +1197,9 @@
     "theme": "Quantum",
     "category": "Post-quantum L0",
     "tier": "Watch",
-    "price": 0.058893,
-    "market_cap": 2189052,
-    "volume_24h": 24433,
+    "price": 0.0593,
+    "market_cap": 2204414,
+    "volume_24h": 418380,
     "score": 57,
     "dex": "PancakeSwap v3 (BSC)"
    },
@@ -1153,9 +1209,9 @@
     "theme": "Quantum",
     "category": "Post-quantum privacy",
     "tier": "Speculative",
-    "price": 0.179758,
-    "market_cap": 822654,
-    "volume_24h": 2434.3,
+    "price": 0.189902,
+    "market_cap": 872727,
+    "volume_24h": 2510.09,
     "score": 52,
     "dex": ""
    },
@@ -1165,9 +1221,9 @@
     "theme": "AI",
     "category": "Data / IP (formerly Story)",
     "tier": "Watch",
-    "price": 0.124251,
-    "market_cap": 44852793,
-    "volume_24h": 4319160,
+    "price": 0.121891,
+    "market_cap": 44003888,
+    "volume_24h": 3556834,
     "score": 69,
     "dex": ""
    },
@@ -1177,9 +1233,9 @@
     "theme": "AI",
     "category": "Compute (PoUW)",
     "tier": "Watch",
-    "price": 1.36,
-    "market_cap": 500757047,
-    "volume_24h": 10048930,
+    "price": 1.64,
+    "market_cap": 605822540,
+    "volume_24h": 13106460,
     "score": 72,
     "dex": ""
    },
@@ -1189,9 +1245,9 @@
     "theme": "AI",
     "category": "Compute",
     "tier": "Watch",
-    "price": 0.159784,
+    "price": 0.179907,
     "market_cap": null,
-    "volume_24h": 1085.99,
+    "volume_24h": 614.32,
     "score": 69,
     "dex": "WGNK Uniswap v3 (ETH, official bridge)"
    },
@@ -1201,9 +1257,9 @@
     "theme": "AI",
     "category": "Robotics data",
     "tier": "Watch",
-    "price": 0.150779,
-    "market_cap": 24878493,
-    "volume_24h": 44697604,
+    "price": 0.138312,
+    "market_cap": 22905458,
+    "volume_24h": 19045842,
     "score": 52,
     "dex": "Uniswap v4 (Base)"
    },
@@ -1213,9 +1269,9 @@
     "theme": "AI",
     "category": "GPU market",
     "tier": "Speculative",
-    "price": 0.00172297,
-    "market_cap": 1095317,
-    "volume_24h": 73961,
+    "price": 0.00171648,
+    "market_cap": 1091198,
+    "volume_24h": 94753,
     "score": 52,
     "dex": "Uniswap v3 (ETH), very thin"
    },
@@ -1225,9 +1281,9 @@
     "theme": "AI",
     "category": "Compute",
     "tier": "Speculative",
-    "price": 0.00110701,
-    "market_cap": 1922573,
-    "volume_24h": 8809.86,
+    "price": 0.00100899,
+    "market_cap": 1752350,
+    "volume_24h": 6555.91,
     "score": 51,
     "dex": "Uniswap v4 (Base), thin"
    },
@@ -1237,9 +1293,9 @@
     "theme": "Quantum",
     "category": "Post-quantum L1 (claimed ML-DSA-87)",
     "tier": "Watch",
-    "price": 0.03002782,
-    "market_cap": 17994470,
-    "volume_24h": 505220,
+    "price": 0.02928576,
+    "market_cap": 17546449,
+    "volume_24h": 509454,
     "score": 55,
     "dex": "Uniswap (ETH/BSC)"
    },
@@ -1249,9 +1305,9 @@
     "theme": "AI",
     "category": "AI execution L1",
     "tier": "Strong",
-    "price": 0.02402791,
-    "market_cap": 43250229,
-    "volume_24h": 2560996,
+    "price": 0.02284786,
+    "market_cap": 41056095,
+    "volume_24h": 1480067,
     "score": 76,
     "dex": ""
    },
@@ -1261,9 +1317,9 @@
     "theme": "Quantum",
     "category": "L1 with opt-in PQ accounts (formerly XION)",
     "tier": "Watch",
-    "price": 0.11397,
-    "market_cap": 10562276,
-    "volume_24h": 371624,
+    "price": 0.11256,
+    "market_cap": 10405800,
+    "volume_24h": 184377,
     "score": 66,
     "dex": ""
    }
@@ -1354,41 +1410,41 @@
     "official": "Auction on Uniswap CCA (Base) per @DatalineAI; no contract posted yet"
    }
   ],
-  "safetrade_source": "CoinGecko SafeTrade tickers, 8:13 AM CST Nov 3",
+  "safetrade_source": "CoinGecko SafeTrade tickers, 8:20 AM CST Nov 5",
   "safetrade": [
    {
     "project": "Quantus",
     "ticker": "QUANTUS",
     "theme": "Quantum",
-    "price": 67.512,
-    "market_cap": 21752241,
-    "volume_24h": 240695,
+    "price": 71.59,
+    "market_cap": 23223441,
+    "volume_24h": 892414,
     "score": 81,
     "tier": "Benchmark",
     "dex": "Rhea Finance (NEAR)",
-    "note": "SafeTrade ticker QUANTUS (the QTC ticker there is a different coin). DEX route: Rhea Finance on NEAR, and now swaps inside the Quantus wallet via NEAR Intents",
+    "note": "SafeTrade ticker QUANTUS (the QTC ticker there is a different coin). About $124k SafeTrade volume. DEX route: Rhea Finance on NEAR and swaps in the Quantus wallet via NEAR Intents",
     "pair": "QUANTUS/USDT"
    },
    {
     "project": "Soqucoin",
     "ticker": "SOQ",
     "theme": "Quantum",
-    "price": 0.0001367,
-    "market_cap": 433907,
-    "volume_24h": 25114,
+    "price": 0.00018351,
+    "market_cap": 689072,
+    "volume_24h": 195689,
     "score": 65,
     "tier": "WATCH",
     "dex": "",
-    "note": "Also on NonKYC and Neoxa (no DEX). 24h range $0.000094 to $0.000141 (-15%) on about $224k volume; CMC listing requested Thu 10/29",
+    "note": "Also on NonKYC and Neoxa; Biconomy SOQ/USDT opens Fri 11/6 6:00 AM CST (official). No DEX. 24h range $0.000169 to $0.000223 (+4%) on about $196k volume",
     "pair": "SOQ/USDT"
    },
    {
     "project": "Pearl",
     "ticker": "PEARL",
     "theme": "AI",
-    "price": 1.37,
-    "market_cap": 500757047,
-    "volume_24h": 2583734,
+    "price": 1.64,
+    "market_cap": 605822540,
+    "volume_24h": 13106460,
     "score": 72,
     "tier": "WATCH",
     "dex": "",
@@ -1399,9 +1455,9 @@
     "project": "Gonka",
     "ticker": "GNK",
     "theme": "AI",
-    "price": 0.16,
+    "price": 0.179907,
     "market_cap": null,
-    "volume_24h": 1085.99,
+    "volume_24h": 614.32,
     "score": 69,
     "tier": "WATCH",
     "dex": "WGNK Uniswap v3 (ETH, official bridge)",
@@ -1412,9 +1468,9 @@
     "project": "Clore.ai",
     "ticker": "CLORE",
     "theme": "AI",
-    "price": 0.00167,
-    "market_cap": 1095317,
-    "volume_24h": 1266.76,
+    "price": 0.00171648,
+    "market_cap": 1091198,
+    "volume_24h": 94753,
     "score": 52,
     "tier": "WATCH",
     "dex": "Uniswap v3 (ETH), very thin",
@@ -1425,9 +1481,9 @@
     "project": "Neptune Cash",
     "ticker": "NPT",
     "theme": "Quantum",
-    "price": 0.18,
-    "market_cap": 822654,
-    "volume_24h": 2434.3,
+    "price": 0.189902,
+    "market_cap": 872727,
+    "volume_24h": 2510.09,
     "score": 52,
     "tier": "WATCH",
     "dex": "",
@@ -1438,13 +1494,13 @@
     "project": "Parano1d",
     "ticker": "NOID",
     "theme": "Quantum",
-    "price": 0.34782805,
-    "market_cap": 4023220,
-    "volume_24h": 84339,
+    "price": 0.329743,
+    "market_cap": 3849237,
+    "volume_24h": 113341,
     "score": null,
     "tier": "Radar",
     "dex": "",
-    "note": "Radar only: anonymous dev, PQ scheme unverified; +23% on about $84k volume (thin, range $0.29 to $0.42); v2.1 about Wed 11/4",
+    "note": "Radar only (REJECT 35). v2.1 mainnet with native DEX live 11/4; -32% in 24h ($0.32 to $0.49) on about $113k",
     "pair": "NOID/USDT"
    },
    {
@@ -1452,9 +1508,9 @@
     "ticker": "TSC",
     "theme": "AI",
     "pair": "TSC/USDT",
-    "price": 4.2983,
-    "market_cap": 19217674,
-    "volume_24h": 73911,
+    "price": 4.35,
+    "market_cap": 19533946,
+    "volume_24h": 43886,
     "score": 47,
     "tier": "Avoid (for now)",
     "dex": "",
@@ -1466,7 +1522,7 @@
    "x": "https://x.com/safetrade",
    "site": "https://safetrade.com",
    "announcements": "https://x.com/safetrade",
-   "listing_posts": "No @safetrade posts since Mon morning. CoinGecko shows 50 bases; CNX (Crynux, on our AI watchlist) is back in this snapshot alongside the usual set. No new AI or quantum listings.",
+   "listing_posts": "No @safetrade posts overnight. CoinGecko shows 48 bases (AVAX and XPM not showing); no AI or quantum additions.",
    "launchpad": "None",
    "trust_score": 2,
    "steps": [
@@ -1488,27 +1544,32 @@
    {
     "section": "prelaunch",
     "theme": "AI",
-    "text": "GenLayer (71) is the pre-launch project closest to the bar. It is still missing a dated GEN launch day, an audit and an official contract, so no alert fired."
+    "text": "GenLayer (71) is closest to the bar. Missing: a dated GEN launch day, an audit and an official contract, so no alert fired."
    },
    {
     "section": "prelaunch",
     "theme": "AI",
-    "text": "Flop (55) now has a public devnet, which helps its tech score once tested, but the team, tokenomics and testnet dates are still unannounced."
+    "text": "Fraction AI (63): TGE Wed 11/11 appears only in its MiCA filing; it needs an official @FractionAI_xyz post, tokenomics and venues."
    },
    {
     "section": "prelaunch",
     "theme": "Quantum",
-    "text": "Quip (65) needs its external audit and a dated TGE. Its quest campaigns ended Mon 11/2."
-   },
-   {
-    "section": "tokens",
-    "theme": "AI",
-    "text": "Ritual (76) is already alerted and live. It rose 58% to $0.030 (range $0.017 to $0.037) on about $1.4M volume with no official news; still no real DEX pool or audit. Treat the move as unexplained."
+    "text": "Quip (65) needs its external audit and a dated TGE. Quip Points is still open; Quest and Mindshare ended Mon 11/2."
    },
    {
     "section": "tokens",
     "theme": "Quantum",
-    "text": "Quantus (81) $67.82 (-1%), already trading so no launch alert; its wallet now swaps into QTC via NEAR Intents. Neptune Cash (-5% on about $2.4k) and Gonka (about $1k) are thin books, not used for scores."
+    "text": "Quantus (81) $71.59 (+2%, range $69.54 to $75.22), already trading so no launch alert. NEAR says Quantus has done $50M+ volume through NEAR Intents."
+   },
+   {
+    "section": "tokens",
+    "theme": "AI",
+    "text": "Ritual (76) $0.0228 (-14%, range $0.0224 to $0.0255) on about $1.5M; still no real DEX pool or audit. Gonka (about $600) and Neptune Cash (about $2.5k) are thin books, not used for scores."
+   },
+   {
+    "section": "tokens",
+    "theme": "Quantum",
+    "text": "Soqucoin (65) adds Biconomy Fri 11/6; still CEX-only for a DEX-only buyer. Judge the listing by depth and 24h range, not a first-hour spike."
    },
    {
     "section": "impostors",
@@ -1516,58 +1577,56 @@
     "text": "Before an official contract, any token named GenLayer, Fraction, Dataline (DAT), Pond, TermiX, Teneo, Amadeus (AMA) or Flop is a scam."
    },
    {
+    "section": "impostors",
+    "theme": "Quantum",
+    "text": "Solana memecoins promoted as \"the first meme on Parano1d\" are not Parano1d tokens; any QUIP token is a scam."
+   },
+   {
     "section": "safetrade",
     "theme": "Quantum",
-    "text": "Soqucoin trades on SafeTrade, NonKYC and Neoxa only (no DEX). TensorCash trades only on SafeTrade."
-   },
-   {
-    "section": "tokens",
-    "theme": "AI",
-    "text": "Tier comes from the Oracle Score (75+ Strong, 55 to 74 Watch, under 55 Speculative). It does not reflect market cap, and \"No DEX\" only means there is no official DEX route."
-   },
-   {
-    "section": "tokens",
-    "theme": "AI",
-    "text": "Pearl (PRL) has no official DEX route. The Uniswap WPRL token comes from a third-party bridge and the Solana \"PEARL\" pools are fakes."
-   },
-   {
-    "section": "tokens",
-    "theme": "Quantum",
-    "text": "QRL and Abelian have no DEX because QRL and ABEL tokens on Base or Solana are impostors; Abelian also trades on only one exchange (MEXC)."
+    "text": "Soqucoin trades on SafeTrade, NonKYC and Neoxa, plus Biconomy from Fri 11/6 (no DEX). TensorCash trades only on SafeTrade."
    }
   ],
   "sources": [
    {
-    "title": "Quantus x Chance",
-    "url": "https://x.com/QuantusNetwork/status/2118006989322334311"
+    "title": "Soqucoin x Biconomy listing",
+    "url": "https://x.com/soqucoin/status/2118183128456183911"
    },
    {
-    "title": "Amadeus SDK 1.5.0",
-    "url": "https://x.com/ama_protocol/status/2118056830916080014"
+    "title": "Biconomy SOQ listing post (RT)",
+    "url": "https://x.com/soqucoin/status/2118182430674968732"
    },
    {
-    "title": "TermiX $30M volume",
-    "url": "https://x.com/termix_ai/status/2117854655309095094"
+    "title": "Quip Points page",
+    "url": "https://points.quip.network"
    },
    {
-    "title": "Flop devnet",
-    "url": "https://x.com/flop_labs/status/2117786153428701492"
+    "title": "GenLayer airdrop",
+    "url": "https://airdrop.genlayer.com"
    },
    {
-    "title": "Quip Node Manager",
-    "url": "https://x.com/quipnetwork/status/2118076372212126071"
+    "title": "TermiX Set and Earn final hours",
+    "url": "https://x.com/termix_ai/status/2118184991612133815"
    },
    {
-    "title": "Stellar Bell testnet (BSCN)",
-    "url": "https://x.com/BSCNews/status/2117866958494585289"
+    "title": "Quantus x NEAR Mumbai fireside",
+    "url": "https://x.com/QuantusNetwork/status/2118331874518954314"
    },
    {
-    "title": "SafeTrade on CoinGecko",
-    "url": "https://www.coingecko.com/en/exchanges/safe_trade"
+    "title": "NEAR on Quantus volume (RT)",
+    "url": "https://x.com/QuantusNetwork/status/2118298082022711524"
+   },
+   {
+    "title": "Flop verifiable inference",
+    "url": "https://x.com/flop_labs/status/2118226744180371863"
    },
    {
     "title": "Fraction AI TGE Index",
     "url": "https://tgeindex.com/tge/fraction-ai/"
+   },
+   {
+    "title": "SafeTrade on CoinGecko",
+    "url": "https://www.coingecko.com/en/exchanges/safe_trade"
    }
   ]
  },
@@ -1595,6 +1654,13 @@
    "what": "Road to TGE weekly points for verified on-chain trading or agent activity (official). Needs real trades, not free. A Sun 11/8 snapshot is claimed only by participants (unconfirmed).",
    "ends": null,
    "url": "https://x.com/ama_protocol/status/2117344538759233844"
+  },
+  {
+   "project": "Quip Network",
+   "theme": "Quantum",
+   "what": "Quip Points live: daily sign-in (up to 5 QP a day, free), holding value in the V1 quantum wallet, QuipSwap swaps and running a node; points convert to QUIP at TGE. Quest/Mindshare ended Mon 11/2.",
+   "ends": null,
+   "url": "https://points.quip.network"
   }
  ]
 }
