@@ -1653,7 +1653,8 @@
    "theme": "AI",
    "what": "Road to TGE weekly points for verified on-chain trading or agent activity (official). Needs real trades, not free. A Sun 11/8 snapshot is claimed only by participants (unconfirmed).",
    "ends": null,
-   "url": "https://x.com/ama_protocol/status/2117344538759233844"
+   "url": "https://x.com/ama_protocol/status/2117344538759233844",
+   "logo": "logos/amadeus-protocol.png"
   },
   {
    "project": "Quip Network",
@@ -1661,6 +1662,14 @@
    "what": "Quip Points live: daily sign-in (up to 5 QP a day, free), holding value in the V1 quantum wallet, QuipSwap swaps and running a node; points convert to QUIP at TGE. Quest/Mindshare ended Mon 11/2.",
    "ends": null,
    "url": "https://points.quip.network"
+  },
+  {
+   "project": "Quip Network",
+   "theme": "Quantum",
+   "what": "Quip Points is live: daily wallet sign-in and paper swaps earn QP, with weekly caps. Quest and Mindshare ended 11/2; the account fee waiver ends Sun 11/8.",
+   "ends": null,
+   "url": "https://points.quip.network",
+   "points_earned": 28
   }
  ]
 }
