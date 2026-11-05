@@ -1,20 +1,19 @@
 {
- "generated_at": "2026-11-05T09:04:00-06:00",
+ "generated_at": "2026-11-05T12:35:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-05T09:04:00-06:00",
-  "next_scan": "2026-11-05T12:00:00-06:00",
+  "last_scan": "2026-11-05T12:35:00-06:00",
+  "next_scan": "2026-11-05T16:00:00-06:00",
   "activity": [
-   "Rescan 9:04 AM with X reads: no new HIGH PRIORITY (0 of 3)",
-   "Open campaigns we are in: Quip Points (live), GenLayer (Mochi Telegram task pending), TermiX (points site down)",
-   "Quantum: Soqucoin SOQ/USDT on Biconomy Fri 11/6 6:00 AM CT reconfirmed on X by @soqucoin; Stellar Bell (Protocol 30) PQ smart-contract verification on testnet, mainnet vote 11/23 (existing chain, not a launch)",
-   "AI: TermiX BNB Set and Earn closed 11/5 6 AM CT; Fraction AI 11/11 still not posted by @FractionAI_xyz on X",
-   "Sources: X (tracked accounts + keyword search), web, TGE Index"
+   "Noon scan 12:35 CT: no new HIGH PRIORITY (0 of 3)",
+   "Open campaigns (known): Quip Points (fee waiver ends Sun 11/8), GenLayer Season 2 + Pre-Mainnet Staking, TermiX points (paid steps only)",
+   "Quantum: Soqucoin official SOQUPOOL min payout 100k\u21925k SOQ; vesting ended \u2014 locked grants fully released; Biconomy SOQ/USDT Fri 11/6 6:00 AM CT unchanged",
+   "AI: Fraction AI Nov 11 TGE still filing-only (no @FractionAI_xyz confirmation); TermiX Set and Earn closed; Flop/Dataline/Pond/Ritual quiet",
+   "SafeTrade: 49 bases; churn ARRR/BTCZ/CSD/EVR/FLUX/URX (off-niche); no new AI/quantum listings; @safetrade silent"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
-  "x_reads_left_today": 991,
-  "generated_at": "2026-11-05T09:04:00-06:00"
+  "x_reads_left_today": 974
  },
  "alerts": [],
  "watchlist": [
@@ -59,7 +58,7 @@
    "fdv": 500900000.0,
    "volume_24h": 1078321,
    "dex_route": "Rhea Finance (NEAR) qtc.omft.near (~$9.9M liq); InstaSwap via NEAR Intents. Solana/Base QTC tokens are impostors",
-   "next_milestone": "Mumbai fireside with NEAR Intents Thu 11/5 (official). Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official). Coming to @Chance_ (undated). Offline key product teased (undated)",
+   "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official). Coming to @Chance_ (undated). Offline key product teased (undated)",
    "milestone_date": "2026-12-01T23:59:00-06:00",
    "links": [
     {
@@ -77,7 +76,7 @@
    ],
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
-   "last_update": "2026-11-05T12:02:40-06:00",
+   "last_update": "2026-11-05T12:35:00-06:00",
    "price": 73.89,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
@@ -133,7 +132,7 @@
    "fdv": null,
    "volume_24h": 1184326,
    "dex_route": "Base/BSC bridged 0x256E...8C37; official Base pool about $6 liquidity, so no real DEX route (CEX: Coinbase, Gate, MEXC)",
-   "next_milestone": "Real DEX liquidity on Base or BSC and an audit (both undated). +58% in 24h ($0.017 to $0.037 range, about $1.4M volume) with no official catalyst; Korean exchange listing talk is unconfirmed",
+   "next_milestone": "Real DEX liquidity on Base or BSC and an audit (both undated)",
    "milestone_date": null,
    "links": [
     {
@@ -155,7 +154,7 @@
    ],
    "upgrade_if": "Named-firm audit; real DEX liquidity on Base/BSC; more CEX listings",
    "downgrade_if": "Heavy airdrop or issuance selling; bridge or chain incident",
-   "last_update": "2026-11-05T12:02:40-06:00",
+   "last_update": "2026-11-05T12:35:00-06:00",
    "price": 0.02113867,
    "logo": "logos/ritual.png",
    "website": "https://ritual.net",
@@ -462,7 +461,7 @@
    "fdv": null,
    "volume_24h": 180715,
    "dex_route": "No official DEX route; CEX: SafeTrade (SOQ/USDT), NonKYC, Neoxa, Biconomy from Fri 11/6",
-   "next_milestone": "SOQ/USDT trading opens on Biconomy (CEX) Fri 11/6 6:00 AM CST (12:00 UTC), official @soqucoin and @BiconomyCom. CMC listing request pending (ticket #1470300); team disclosure undated",
+   "next_milestone": "SOQ/USDT trading opens on Biconomy (CEX) Fri 11/6 6:00 AM CST (12:00 UTC), official @soqucoin and @BiconomyCom. CMC listing request pending (ticket #1470300); team disclosure undated. SOQUPOOL vesting ended (official 11/5); min payout now 5,000 SOQ",
    "milestone_date": "2026-11-06T06:00:00-06:00",
    "links": [
     {
@@ -496,7 +495,7 @@
    ],
    "upgrade_if": "Identifiable founders, DEX liquidity",
    "downgrade_if": "Pool centralization returns or partner claims don't hold up",
-   "last_update": "2026-11-05T12:02:40-06:00",
+   "last_update": "2026-11-05T12:35:00-06:00",
    "price": 0.00017714,
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
@@ -610,7 +609,7 @@
    "fdv": null,
    "volume_24h": null,
    "dex_route": "NO TOKEN EXISTS; any FLOP is a scam",
-   "next_milestone": "Public devnet live, permissionless, no rewards (official Tue 11/3). Testnet, team/tokenomics and any airdrop undated",
+   "next_milestone": "Testnet, published team/tokenomics, and any airdrop (all undated). Public devnet already live since Tue 11/3 (no rewards)",
    "milestone_date": null,
    "links": [
     {
@@ -624,7 +623,7 @@
    ],
    "upgrade_if": "Testnet live on schedule",
    "downgrade_if": "Delays; impostor tokens",
-   "last_update": "2026-11-05T08:30:00-06:00",
+   "last_update": "2026-11-05T12:35:00-06:00",
    "price": null,
    "logo": "logos/flop-network.png",
    "website": "https://flop.finance"
@@ -723,12 +722,12 @@
    "fdv": null,
    "volume_24h": null,
    "dex_route": "No token yet",
-   "next_milestone": "BNB Chain Set and Earn closed Thu 11/5 6:00 AM CT (12:00 UTC, official @termix_ai). Kaito epoch 3 to Sun 11/22 (third party). TGE undated",
-   "milestone_date": "2026-11-05T23:59:00-06:00",
+   "next_milestone": "TGE and tokenomics (undated). Kaito epoch 3 to Sun 11/22 (third party)",
+   "milestone_date": "2026-11-22T23:59:00-06:00",
    "links": [],
    "upgrade_if": "Dated TGE",
    "downgrade_if": "Revenue fades",
-   "last_update": "2026-11-05T08:30:00-06:00",
+   "last_update": "2026-11-05T12:35:00-06:00",
    "price": null,
    "logo": "logos/termix.png",
    "website": "https://termix.ai"
@@ -852,6 +851,14 @@
  ],
  "prelaunch_updates": [
   {
+   "project": "Soqucoin",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "SOQUPOOL: min payout cut 100,000\u21925,000 SOQ (4h PPLNS). Vesting ended \u2014 previously locked SOQ grants released in full; next cycle payouts fully spendable. Flat 1.69% fee; SOQ payouts still ML-DSA-44 signed. Biconomy SOQ/USDT Fri 11/6 6 AM CT unchanged.",
+   "at": "2026-11-05T12:35:00-06:00",
+   "url": "https://x.com/soqucoin/status/2118388693526565049"
+  },
+  {
    "project": "Quip Network",
    "theme": "Quantum",
    "source_type": "official",
@@ -922,14 +929,6 @@
    "text": "OPEN CAMPAIGN update: Pre-Mainnet Staking announced. From GEN launch day (\"THE DAY\", still undated) unclaimed airdrop GEN counts as staked and earns 1 Staking Point per GEN per day; the leaderboard decides validator node seats for mainnet. Season 2 points continue. Only link: airdrop.genlayer.com.",
    "at": "2026-11-03T08:14:24-06:00",
    "url": "https://x.com/GenLayer/status/2117309553931108493"
-  },
-  {
-   "project": "Amadeus Protocol",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "OPEN CAMPAIGN: Road to TGE is live (official). Verified on-chain trading (long, short or agent) earns weekly points; needs real trades. A Sun 11/8 snapshot appears only in participant posts (unconfirmed). Not on the watchlist; any AMA token is unverified.",
-   "at": "2026-11-03T08:14:24-06:00",
-   "url": "https://x.com/ama_protocol/status/2117344538759233844"
   }
  ],
  "digest": {
@@ -1012,9 +1011,30 @@
    "score": 30,
    "reason": "Paid press-release presale (Dec 1), no named team, code or audit; presale/referral pattern",
    "at": "2026-11-05T08:50:00-06:00"
+  },
+  {
+   "name": "Sectora ($SECT)",
+   "theme": "Quantum",
+   "score": 25,
+   "reason": "Airdrop farm (7M SECT / free Hash Node); no named NIST PQC, audit, or funding in this pass",
+   "at": "2026-11-05T12:35:00-06:00"
+  },
+  {
+   "name": "Agent Pioneers (AGP)",
+   "theme": "AI",
+   "score": 10,
+   "reason": "Brand-new account; free BSC mint + retweet rewards",
+   "at": "2026-11-05T12:35:00-06:00"
+  },
+  {
+   "name": "Grokiefun waitlist",
+   "theme": "AI",
+   "score": 15,
+   "reason": "KOL waitlist / AI-agent-as-dev teaser; no verifiable product or team",
+   "at": "2026-11-05T12:35:00-06:00"
   }
  ],
- "snapshot_note": "CoinGecko prices 8:11 AM CST (hourly routine) and markets 8:2x AM CST Thu Nov 5; SafeTrade tickers 8:20 AM CST; X sweep since 6:05 PM CST Wed Nov 4; GitHub org events 8:25 AM CST.",
+ "snapshot_note": "Snapshots only; no on-chain monitoring. Noon scan 2026-11-05 12:35 CT. Not financial advice.",
  "deadlines": [
   {
    "project": "Fraction AI",
@@ -1366,14 +1386,14 @@
    {
     "project": "GenLayer",
     "theme": "AI",
-    "fakes": "Base 0x457c…0f8D and 0x2322…c96C, flap.sh, four.meme and pump.fun GEN copies",
+    "fakes": "Base 0x457c\u20260f8D and 0x2322\u2026c96C, flap.sh, four.meme and pump.fun GEN copies",
     "official": "No token yet; links only from @GenLayer"
    },
    {
     "project": "Axis Robotics",
     "theme": "AI",
     "fakes": "Many copycat AXIS tokens on Solana, Base and Ethereum",
-    "official": "Base 0x5be7…d755ea (per CoinGecko)"
+    "official": "Base 0x5be7\u2026d755ea (per CoinGecko)"
    },
    {
     "project": "Quantus",
@@ -1384,7 +1404,7 @@
    {
     "project": "QRL",
     "theme": "Quantum",
-    "fakes": "Base 0x3769…5bA3 (disowned Oct 12) and other ERC-20/Solana 'QRL'",
+    "fakes": "Base 0x3769\u20265bA3 (disowned Oct 12) and other ERC-20/Solana 'QRL'",
     "official": "No token contract"
    },
    {
@@ -1420,13 +1440,13 @@
    {
     "project": "Ritual",
     "theme": "AI",
-    "fakes": "Base 0xfF2E…9E3572, Robinhood 0xC1F4…D5ec09B3, Solana pump.fun copies; \"claim guides\" asking you to connect a wallet through shared links",
-    "official": "Bridged Base/BSC 0x256E…8C37 (Unverified as a DEX route, about $6 liquidity); claims only at airdrop.ritualfoundation.org"
+    "fakes": "Base 0xfF2E\u20269E3572, Robinhood 0xC1F4\u2026D5ec09B3, Solana pump.fun copies; \"claim guides\" asking you to connect a wallet through shared links",
+    "official": "Bridged Base/BSC 0x256E\u20268C37 (Unverified as a DEX route, about $6 liquidity); claims only at airdrop.ritualfoundation.org"
    },
    {
     "project": "GenLayer",
     "theme": "AI",
-    "fakes": "Ethereum 0x4242…2a2f on a CoinGecko preview page is not posted by GenLayer (Unverified)",
+    "fakes": "Ethereum 0x4242\u20262a2f on a CoinGecko preview page is not posted by GenLayer (Unverified)",
     "official": "No official contract posted yet"
    },
    {
