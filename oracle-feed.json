@@ -1,16 +1,15 @@
 {
-  "generated_at": "2026-11-05T08:30:00-06:00",
+  "generated_at": "2026-11-05T09:15:00-06:00",
   "status": {
     "state": "idle",
-    "last_scan": "2026-11-05T08:30:00-06:00",
+    "last_scan": "2026-11-05T09:15:00-06:00",
     "next_scan": "2026-11-05T12:00:00-06:00",
     "activity": [
-      "Morning digest: no new HIGH PRIORITY (0 of 3)",
-      "Open campaigns: Quip Points (live), GenLayer Season 2 + Pre-Mainnet Staking, Amadeus Road to TGE (trading required)",
-      "AI: TermiX Set and Earn closes Thu 11/5; Flop verifiable-inference post; GenLayer GitHub busy",
-      "Quantum: Soqucoin SOQ/USDT on Biconomy opens Fri 11/6 6:00 AM CST; Quantus x NEAR fireside in Mumbai",
-      "SafeTrade: 48 bases, no new AI or quantum listings; no @safetrade posts",
-      "Watchlist Page not refreshed this run (Page edit tool unavailable)"
+      "Scan 9:15 AM: no new HIGH PRIORITY (0 of 3)",
+      "Open campaigns we are in: Quip Points (live), GenLayer (Mochi Telegram task pending), TermiX (points site down)",
+      "Quantum: Soqucoin SOQ/USDT on Biconomy Fri 11/6 6:00 AM CST confirmed again (deposits 5:30 AM)",
+      "AI: Fraction AI trading admission Wed 11/11 still per MiCA paper only; AGENT (Zurich) presale press release rejected",
+      "Sources: web + TGE Index; X reads not used this run"
     ],
     "alerts_used_today": 0,
     "alert_cap": 3,
@@ -953,6 +952,13 @@
       "score": 10,
       "reason": "Repeat: \"free share\" public-mint referral links",
       "at": "2026-11-05T08:30:00-06:00"
+    },
+    {
+      "name": "AGENT (Zurich multi-agent presale)",
+      "theme": "AI",
+      "score": 30,
+      "reason": "Paid press-release presale (Dec 1), no named team, code or audit; presale/referral pattern",
+      "at": "2026-11-05T09:15:00-06:00"
     }
   ],
   "snapshot_note": "CoinGecko prices 8:11 AM CST (hourly routine) and markets 8:2x AM CST Thu Nov 5; SafeTrade tickers 8:20 AM CST; X sweep since 6:05 PM CST Wed Nov 4; GitHub org events 8:25 AM CST.",
@@ -1328,14 +1334,14 @@
       {
         "project": "GenLayer",
         "theme": "AI",
-        "fakes": "Base 0x457c…0f8D and 0x2322…c96C, flap.sh, four.meme and pump.fun GEN copies",
+        "fakes": "Base 0x457c\u20260f8D and 0x2322\u2026c96C, flap.sh, four.meme and pump.fun GEN copies",
         "official": "No token yet; links only from @GenLayer"
       },
       {
         "project": "Axis Robotics",
         "theme": "AI",
         "fakes": "Many copycat AXIS tokens on Solana, Base and Ethereum",
-        "official": "Base 0x5be7…d755ea (per CoinGecko)"
+        "official": "Base 0x5be7\u2026d755ea (per CoinGecko)"
       },
       {
         "project": "Quantus",
@@ -1346,7 +1352,7 @@
       {
         "project": "QRL",
         "theme": "Quantum",
-        "fakes": "Base 0x3769…5bA3 (disowned Oct 12) and other ERC-20/Solana 'QRL'",
+        "fakes": "Base 0x3769\u20265bA3 (disowned Oct 12) and other ERC-20/Solana 'QRL'",
         "official": "No token contract"
       },
       {
@@ -1382,13 +1388,13 @@
       {
         "project": "Ritual",
         "theme": "AI",
-        "fakes": "Base 0xfF2E…9E3572, Robinhood 0xC1F4…D5ec09B3, Solana pump.fun copies; \"claim guides\" asking you to connect a wallet through shared links",
-        "official": "Bridged Base/BSC 0x256E…8C37 (Unverified as a DEX route, about $6 liquidity); claims only at airdrop.ritualfoundation.org"
+        "fakes": "Base 0xfF2E\u20269E3572, Robinhood 0xC1F4\u2026D5ec09B3, Solana pump.fun copies; \"claim guides\" asking you to connect a wallet through shared links",
+        "official": "Bridged Base/BSC 0x256E\u20268C37 (Unverified as a DEX route, about $6 liquidity); claims only at airdrop.ritualfoundation.org"
       },
       {
         "project": "GenLayer",
         "theme": "AI",
-        "fakes": "Ethereum 0x4242…2a2f on a CoinGecko preview page is not posted by GenLayer (Unverified)",
+        "fakes": "Ethereum 0x4242\u20262a2f on a CoinGecko preview page is not posted by GenLayer (Unverified)",
         "official": "No official contract posted yet"
       },
       {
