@@ -1659,10 +1659,10 @@
   {
    "project": "Quip Network",
    "theme": "Quantum",
-   "what": "Quip Points live: daily sign-in (up to 5 QP a day, free), holding value in the V1 quantum wallet, QuipSwap swaps and running a node; points convert to QUIP at TGE. Quest/Mindshare ended Mon 11/2.",
+   "what": "Quip Quest ended 11/2 with your final 2,298 QP / 28 AP (converts to $QUIP at TGE). Quip Points is live: you have 28 QP, rank #5,575; daily wallet sign-in and paper swaps earn more. Fee waiver ends Sun 11/8.",
    "ends": null,
    "url": "https://points.quip.network",
-   "points_earned": 28
+   "points_earned": 2298
   }
  ]
 }
