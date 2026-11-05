@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T09:45:00-06:00",
+ "generated_at": "2026-11-05T09:04:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-05T09:45:00-06:00",
+  "last_scan": "2026-11-05T09:04:00-06:00",
   "next_scan": "2026-11-05T12:00:00-06:00",
   "activity": [
    "Open campaigns we are in: Quip Points (live), GenLayer (Mochi Telegram task pending), TermiX (points site down)",
@@ -11,7 +11,7 @@
    "Sources: X (tracked accounts + keyword search), web, TGE Index"
   ],
   "x_reads_left_today": 991,
-  "generated_at": "2026-11-05T09:45:00-06:00"
+  "generated_at": "2026-11-05T09:04:00-06:00"
  },
  "watchlist": [
   {
@@ -994,7 +994,7 @@
    "theme": "AI",
    "score": 30,
    "reason": "Paid press-release presale (Dec 1), no named team, code or audit; presale/referral pattern",
-   "at": "2026-11-05T09:15:00-06:00"
+   "at": "2026-11-05T08:50:00-06:00"
   }
  ],
  "snapshot_note": "CoinGecko prices 8:11 AM CST (hourly routine) and markets 8:2x AM CST Thu Nov 5; SafeTrade tickers 8:20 AM CST; X sweep since 6:05 PM CST Wed Nov 4; GitHub org events 8:25 AM CST.",

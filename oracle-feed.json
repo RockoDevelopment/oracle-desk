@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-05T09:45:00-06:00",
+ "generated_at": "2026-11-05T09:04:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-05T09:45:00-06:00",
+  "last_scan": "2026-11-05T09:04:00-06:00",
   "next_scan": "2026-11-05T12:00:00-06:00",
   "activity": [
-   "Rescan 9:45 AM with X reads: no new HIGH PRIORITY (0 of 3)",
+   "Rescan 9:04 AM with X reads: no new HIGH PRIORITY (0 of 3)",
    "Open campaigns we are in: Quip Points (live), GenLayer (Mochi Telegram task pending), TermiX (points site down)",
    "Quantum: Soqucoin SOQ/USDT on Biconomy Fri 11/6 6:00 AM CT reconfirmed on X by @soqucoin; Stellar Bell (Protocol 30) PQ smart-contract verification on testnet, mainnet vote 11/23 (existing chain, not a launch)",
    "AI: TermiX BNB Set and Earn closed 11/5 6 AM CT; Fraction AI 11/11 still not posted by @FractionAI_xyz on X",
@@ -14,7 +14,7 @@
   "alerts_used_today": 0,
   "alert_cap": 3,
   "x_reads_left_today": 991,
-  "generated_at": "2026-11-05T09:45:00-06:00"
+  "generated_at": "2026-11-05T09:04:00-06:00"
  },
  "alerts": [],
  "watchlist": [
@@ -1011,7 +1011,7 @@
    "theme": "AI",
    "score": 30,
    "reason": "Paid press-release presale (Dec 1), no named team, code or audit; presale/referral pattern",
-   "at": "2026-11-05T09:15:00-06:00"
+   "at": "2026-11-05T08:50:00-06:00"
   }
  ],
  "snapshot_note": "CoinGecko prices 8:11 AM CST (hourly routine) and markets 8:2x AM CST Thu Nov 5; SafeTrade tickers 8:20 AM CST; X sweep since 6:05 PM CST Wed Nov 4; GitHub org events 8:25 AM CST.",
