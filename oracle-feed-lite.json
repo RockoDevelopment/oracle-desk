@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-05T16:12:00-06:00",
+ "generated_at": "2026-11-05T20:20:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-05T16:12:00-06:00",
-  "next_scan": "2026-11-05T20:00:00-06:00",
+  "last_scan": "2026-11-05T20:20:00-06:00",
+  "next_scan": "2026-11-06T12:00:00-06:00",
   "activity": [
-   "NEW OPEN CAMPAIGN: Pond Season 2 points live (Season 1 paid out) — https://joinpond.ai (official @JoinPond); no token confirmed",
-   "Quantum: Soqucoin official SOQUPOOL merging into LuxxPool; stratum closes Wed 11/19 16:00 UTC then final payout; Biconomy Fri 11/6 6:00 AM CT unchanged",
-   "Quip CTO at Bloccelerate Founder Summit Fri 11/6 NYC; Quantus EVM PQ-accounts paper; Verona×Abelian partnership catch-up (11/3)",
-   "AI: Fraction AI Nov 11 still filing-only; Flop/Dataline/Ritual/TermiX quiet on launch dates",
-   "SafeTrade: 50 bases (+ZCL off-niche); no AI/quantum listings; @safetrade silent"
+   "No NEW open campaigns (Pond S2, Quip Points, GenLayer S2 already logged)",
+   "Quantum: Soqucoin Biconomy SOQ/USDT still Fri 11/6 6:00 AM CT (Biconomy support page updated Nov 5; deposits 11:30 UTC / trade 12:00 UTC). SOQUPOOL→LuxxPool stratum Wed 11/19 unchanged",
+   "Quip: Points still live (points.quip.network); CTO Bloccelerate Fri 11/6 NYC; fee waiver ends Sun 11/8",
+   "AI: Fraction AI Nov 11 still MiCA filing-only; GenLayer/Ritual/Flop/Dataline/TermiX quiet on new launch dates; Pond S2 still open",
+   "SafeTrade: 51 bases (+ARB/Arbitrum off-niche); no AI/quantum listings. X posts/search 503 most of scan — handled via web/CoinGecko"
   ],
-  "x_reads_left_today": 948
+  "x_reads_left_today": 980
  },
  "watchlist": [
   {
@@ -51,8 +51,8 @@
      "score": 81
     }
    ],
-   "market_cap": 23471916,
-   "volume_24h": 598326,
+   "market_cap": 23492471,
+   "volume_24h": 1006489,
    "dex_route": "Rhea Finance (NEAR) qtc.omft.near (~$9.9M liq); InstaSwap via NEAR Intents. Solana/Base QTC tokens are look-alike",
    "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official). Coming to @Chance_ (undated). YuviLightman EVM PQ-accounts paper published Wed 11/5 (official)",
    "milestone_date": "2026-12-01T23:59:00-06:00",
@@ -72,12 +72,12 @@
    ],
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
-   "last_update": "2026-11-05T20:02:20-06:00",
-   "price": 72.11,
+   "last_update": "2026-11-05T20:20:00-06:00",
+   "price": 72.18,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
    "cg_id": "quantus",
-   "price_updated": "2026-11-05T20:02:20-06:00"
+   "price_updated": "2026-11-05T20:20:00-06:00"
   },
   {
    "name": "Ritual",
@@ -124,8 +124,8 @@
      "score": 76
     }
    ],
-   "market_cap": 35723898,
-   "volume_24h": 980330,
+   "market_cap": 36041073,
+   "volume_24h": 988111,
    "dex_route": "Base/BSC bridged [address hidden]; official Base pool about $6 liquidity, so no real DEX route (CEX: Coinbase, Gate, MEXC)",
    "next_milestone": "Real DEX liquidity on Base or BSC and an audit (both undated)",
    "milestone_date": null,
@@ -150,10 +150,10 @@
    "upgrade_if": "Named-firm audit; real DEX liquidity on Base/BSC; more CEX listings",
    "downgrade_if": "Heavy airdrop or issuance selling; bridge or chain incident",
    "last_update": "2026-11-05T20:02:20-06:00",
-   "price": 0.01984661,
+   "price": 0.02002,
    "logo": "logos/ritual.png",
    "website": "https://ritual.net",
-   "price_updated": "2026-11-05T20:02:20-06:00",
+   "price_updated": "2026-11-05T20:20:00-06:00",
    "cg_id": "ritual"
   },
   {
@@ -226,7 +226,7 @@
    ],
    "upgrade_if": "Dated TGE + official Arbitrum token address + audit",
    "downgrade_if": "TGE slips past October",
-   "last_update": "2026-11-05T16:12:00-06:00",
+   "last_update": "2026-11-05T20:20:00-06:00",
    "price": null,
    "logo": "logos/genlayer.png",
    "website": "https://genlayer.com"
@@ -328,7 +328,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; any QUIP token is a scam",
-   "next_milestone": "CTO @rcarback at Bloccelerate Founder Summit Fri 11/6 NYC (official). Account fee waiver ends Sun 11/8 (time TBA). Quip Points live (points.quip.network). External audit, mainnet and TGE undated",
+   "next_milestone": "CTO @rcarback at Bloccelerate Founder Summit Fri 11/6 NYC (official; BCVC Harvard Club). Account fee waiver ends Sun 11/8 (time TBA). Quip Points live (points.quip.network). External audit, mainnet and TGE undated",
    "milestone_date": "2026-11-06T23:59:00-06:00",
    "links": [
     {
@@ -338,7 +338,7 @@
    ],
    "upgrade_if": "Dated TGE, audit, mainnet",
    "downgrade_if": "More TGE slips",
-   "last_update": "2026-11-05T16:12:00-06:00",
+   "last_update": "2026-11-05T20:20:00-06:00",
    "price": null,
    "logo": "logos/quip-network.png",
    "website": "https://quip.network"
@@ -393,7 +393,7 @@
    ],
    "upgrade_if": "Official Nov 11 confirmation",
    "downgrade_if": "Date moves",
-   "last_update": "2026-11-05T16:12:00-06:00",
+   "last_update": "2026-11-05T20:20:00-06:00",
    "price": null,
    "logo": "logos/fraction-ai.png",
    "website": "https://fractionai.xyz",
@@ -448,10 +448,10 @@
      "score": 65
     }
    ],
-   "market_cap": 757393,
-   "volume_24h": 198803,
+   "market_cap": 760181,
+   "volume_24h": 199660,
    "dex_route": "No official DEX route; CEX: SafeTrade (SOQ/USDT), NonKYC, Neoxa, Biconomy from Fri 11/6",
-   "next_milestone": "SOQ/USDT opens on Biconomy (CEX) Fri 11/6 6:00 AM CT (12:00 UTC), official. Then SOQUPOOL stratum closes Wed 11/19 10:00 AM CT (16:00 UTC) as pool merges into LuxxPool (final payout after close). CMC request pending; team disclosure undated",
+   "next_milestone": "SOQ/USDT opens on Biconomy (CEX) Fri 11/6 6:00 AM CT (12:00 UTC); deposits 11:30 UTC (Biconomy support updated Wed 11/5). Then SOQUPOOL stratum closes Wed 11/19 10:00 AM CT (16:00 UTC) as pool merges into LuxxPool. CMC request pending; team disclosure undated",
    "milestone_date": "2026-11-06T06:00:00-06:00",
    "links": [
     {
@@ -485,12 +485,12 @@
    ],
    "upgrade_if": "Identifiable founders, DEX liquidity",
    "downgrade_if": "Pool centralization returns or partner claims don't hold up",
-   "last_update": "2026-11-05T20:02:20-06:00",
-   "price": 0.00019825,
+   "last_update": "2026-11-05T20:20:00-06:00",
+   "price": 0.00019898,
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
    "cg_id": "soqucoin",
-   "price_updated": "2026-11-05T20:02:20-06:00"
+   "price_updated": "2026-11-05T20:20:00-06:00"
   },
   {
    "name": "Axis Robotics",
@@ -529,8 +529,8 @@
      "score": 52
     }
    ],
-   "market_cap": 20594991,
-   "volume_24h": 16296088,
+   "market_cap": 20589341,
+   "volume_24h": 18798769,
    "dex_route": "Uniswap v4 (Base) [address hidden]",
    "next_milestone": "Promised on-chain vesting for future distributions and legal review (undated). MEXC Airdrop+ ended Tue 11/3; open task slots reduced Tue 11/3 (official product update)",
    "milestone_date": null,
@@ -551,11 +551,11 @@
    "upgrade_if": "Verified team, audit",
    "downgrade_if": "Heavy unlocks, more lock-up breaches, or no on-chain vesting published",
    "last_update": "2026-11-05T20:02:20-06:00",
-   "price": 0.124818,
+   "price": 0.124784,
    "logo": "logos/axis-robotics.png",
    "website": "https://axisrobotics.ai",
    "cg_id": "axis-robotics",
-   "price_updated": "2026-11-05T20:02:20-06:00"
+   "price_updated": "2026-11-05T20:20:00-06:00"
   },
   {
    "name": "Flop Network",
@@ -653,8 +653,8 @@
      "score": 51
     }
    ],
-   "market_cap": 1661230,
-   "volume_24h": 9045.21,
+   "market_cap": 1661221,
+   "volume_24h": 9045,
    "dex_route": "Uniswap v4 (Base) [address hidden] (thin)",
    "next_milestone": "AI API key-sharing marketplace (previewed Wed 10/28, undated); AI chat app on Crynux GPUs (undated)",
    "milestone_date": null,
@@ -666,7 +666,7 @@
    "logo": "logos/crynux.png",
    "website": "https://crynux.io",
    "cg_id": "crynux",
-   "price_updated": "2026-11-05T20:02:20-06:00"
+   "price_updated": "2026-11-05T20:20:00-06:00"
   },
   {
    "name": "TermiX",
@@ -801,9 +801,9 @@
      "score": 66
     }
    ],
-   "price": 0.107525,
-   "market_cap": 9964942,
-   "volume_24h": 476746,
+   "price": 0.107476,
+   "market_cap": 9960447,
+   "volume_24h": 476663,
    "dex_route": "None verified (CEX: Bithumb, Bybit, Bitget, KuCoin, Gate, MEXC, Kraken)",
    "next_milestone": "Audit of the PQ upgrade (opt-in ML-DSA/SLH-DSA keys, live since Fermi). Abelian partnership announced Tue 11/3 (official both sides). Official DEX route still missing",
    "milestone_date": null,
@@ -827,14 +827,30 @@
    ],
    "upgrade_if": "Published audit of the PQ account upgrade, official docs naming the parameter sets, and an official DEX route",
    "downgrade_if": "PQ claims turn out marketing-only, or the paid promo wave is the only demand",
-   "last_update": "2026-11-05T20:02:20-06:00",
+   "last_update": "2026-11-05T20:20:00-06:00",
    "logo": "logos/verona.png",
    "website": "https://verona.dev",
    "cg_id": "verona",
-   "price_updated": "2026-11-05T20:02:20-06:00"
+   "price_updated": "2026-11-05T20:20:00-06:00"
   }
  ],
  "prelaunch_updates": [
+  {
+   "project": "Soqucoin",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "Biconomy support page updated Wed 11/5: SOQ/USDT deposits Fri 11/6 11:30 UTC, trading/withdrawals 12:00 UTC. Restates Halborn audit + Wyoming Foundation; schedule unchanged vs earlier @soqucoin posts. Still CEX-only for DEX-only buyers.",
+   "at": "2026-11-05T20:20:00-06:00",
+   "url": "https://biconomy.zendesk.com/hc/en-us/articles/63702843256217-Biconomy-com-New-Listing-Soqucoin-SOQ-for-Spot-Trading"
+  },
+  {
+   "project": "Quip Network",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "Status check: Quip Points still live on points.quip.network (sign-in, value secured, QuipSwap incl. paper swaps, node, referrals). Bloccelerate Fri 11/6 NYC confirmed on bloccelerate.vc. Fee waiver ends Sun 11/8. Any pre-token address QUIP is a scam.",
+   "at": "2026-11-05T20:20:00-06:00",
+   "url": "https://points.quip.network"
+  },
   {
    "project": "Pond",
    "theme": "AI",
@@ -898,22 +914,6 @@
    "text": "OPEN CAMPAIGN continues: Season 2 points and Pre-Mainnet Staking (auto-staked unclaimed airdrop from GEN launch day, still undated). Only link: airdrop.genlayer.com.",
    "at": "2026-11-05T08:30:00-06:00",
    "url": "https://airdrop.genlayer.com"
-  },
-  {
-   "project": "TermiX",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "BNB Chain Set and Earn: final hours Thu 11/5 (hire 3 agents on 2 marketplaces, or build and list an agent; paid tasks).",
-   "at": "2026-11-04T21:33:50-06:00",
-   "url": "https://x.com/termix_ai/status/2118184991612133815"
-  },
-  {
-   "project": "Quantus",
-   "theme": "Quantum",
-   "source_type": "official",
-   "text": "Quantus says its quantum-secure money is coming to @Chance_ (undated, no details).",
-   "at": "2026-11-04T09:46:31-06:00",
-   "url": "https://x.com/QuantusNetwork/status/2118006989322334311"
   }
  ],
  "digest": {
@@ -939,18 +939,17 @@
    }
   ],
   "ai": [
-   "GenLayer Season 2 + Pre-Mainnet Staking open; launch day undated",
-   "TermiX Set and Earn closes Thu 11/5 (paid tasks)",
-   "Fraction AI TGE Wed 11/11 still filing-only",
-   "Flop: verifiable-inference post vs Anthropic FlashProve; devnet only, no token",
-   "Ritual $0.0228 (-14%, range $0.0224 to $0.0255) after the earlier spike"
+   "Pond Season 2 points still open (logged 4 PM); no token confirmed",
+   "GenLayer Season 2 + Pre-Mainnet Staking still open; launch day undated",
+   "Fraction AI TGE Wed 11/11 still MiCA filing-only (bio unchanged)",
+   "Ritual ~$0.020 (-14% day); Flop/Dataline/TermiX quiet on new launch dates"
   ],
   "quantum": [
-   "Soqucoin SOQ/USDT on Biconomy Fri 11/6 6:00 AM CST (official)",
-   "Quip Points live; fee waiver ends Sun 11/8",
-   "Quantus x NEAR fireside in Mumbai; NEAR cites $50M+ Quantus volume via Intents",
-   "Parano1d v2.1 mainnet + native DEX live (radar only, anonymous dev)",
-   "SafeTrade: 48 bases, no new AI or quantum listings"
+   "Soqucoin SOQ/USDT on Biconomy Fri 11/6 6:00 AM CT (~10h) — Biconomy page refreshed Wed 11/5",
+   "Quip CTO Bloccelerate Fri 11/6 NYC; Points live; fee waiver ends Sun 11/8",
+   "SOQUPOOL→LuxxPool stratum closes Wed 11/19 16:00 UTC",
+   "Quantus 81 / Verona 66 unchanged; no new PQ launches in window",
+   "SafeTrade: 51 bases (+ARB off-niche); no AI/quantum adds"
   ]
  },
  "rejections": [
@@ -1046,7 +1045,7 @@
    "at": "2026-11-05T16:12:00-06:00"
   }
  ],
- "snapshot_note": "4 PM lean scan 2026-11-05 16:12 CT. 0 HP. New open campaign: Pond Season 2. Soqucoin SOQUPOOL→LuxxPool (closes Wed 11/19). SafeTrade 50 bases. Not financial advice.",
+ "snapshot_note": "8 PM lean scan 2026-11-05 CT. X posts/search returned 503 for most of the window (user lookup ok); coverage via CoinGecko, Biconomy support, Quip/Pond/Bloccelerate sites, and prior 4 PM keys. Not financial advice.",
  "deadlines": [
   {
    "project": "Fraction AI",
@@ -1106,6 +1105,16 @@
    "date": "2026-11-06T09:00:00-06:00",
    "approx": true,
    "url": "https://x.com/quipnetwork/status/2118407685779689840",
+   "status": "open"
+  },
+  {
+   "project": "Quip Network",
+   "theme": "Quantum",
+   "title": "Quip account creation fee waiver ends",
+   "type": "Sign-up deadline",
+   "date": "2026-11-08T23:59:00-06:00",
+   "all_day": true,
+   "url": "https://points.quip.network",
    "status": "open"
   }
  ],
