@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-06T12:05:00-06:00",
+ "generated_at": "2026-11-06T16:10:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-06T12:05:00-06:00",
-  "next_scan": "2026-11-06T16:00:00-06:00",
+  "last_scan": "2026-11-06T16:10:00-06:00",
+  "next_scan": "2026-11-06T20:00:00-06:00",
   "activity": [
    "No new open campaigns; Pond S2 still skipped per owner",
-   "Quip Bloccelerate Fri 11/6 NYC marked done → next = fee waiver ends Sun 11/8; Points still live",
-   "Soqucoin: Biconomy still live per ListedOn; CG tickers still NonKYC+SafeTrade only; next = SOQUPOOL Wed 11/19",
-   "Fraction AI: still no @FractionAI_xyz Nov 11 confirmation (0 posts since morning)",
-   "SafeTrade: 49 bases (−FLUX/−URX +KMD vs morning 50); no AI/quantum adds; @safetrade silent",
-   "X OK (~19 reads this scan); AI/quantum keyword hits were spam/farm only"
+   "Quip: @quipnetwork SIGMA Rome wrap + qwned address-check promo; Points live; next = fee waiver ends Sun 11/8",
+   "Fraction AI: still no @FractionAI_xyz Nov 11 confirmation (0 posts since noon)",
+   "Soqucoin: CG still NonKYC+SafeTrade only; ListedOn still shows Biconomy SOQ/USDT; next = SOQUPOOL Wed 11/19",
+   "SafeTrade: 49 bases unchanged vs noon; no AI/quantum adds; @safetrade silent",
+   "X OK (~22 reads this scan); AI/quantum keyword hits were spam/farm only (FURBI, Asentum)"
   ],
-  "x_reads_left_today": 951
+  "x_reads_left_today": 929
  },
  "watchlist": [
   {
@@ -329,7 +329,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; any QUIP token is a scam",
-   "next_milestone": "Quip Points account creation fee waiver ends Sun 11/8. External chain audit then mainnet/TGE (undated). Bloccelerate Founder Summit Fri 11/6 NYC already held",
+   "next_milestone": "Quip Points account creation fee waiver ends Sun 11/8. External chain audit then mainnet/TGE (undated). Bloccelerate Founder Summit Fri 11/6 NYC already held; SIGMA Rome wrap Fri 11/6 (official)",
    "milestone_date": "2026-11-08T23:59:00-06:00",
    "links": [
     {
@@ -339,7 +339,7 @@
    ],
    "upgrade_if": "Dated TGE, audit, mainnet",
    "downgrade_if": "More TGE slips",
-   "last_update": "2026-11-06T12:05:00-06:00",
+   "last_update": "2026-11-06T16:10:00-06:00",
    "price": null,
    "logo": "logos/quip-network.png",
    "website": "https://quip.network"
@@ -384,7 +384,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token",
-   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA, not confirmed by @FractionAI_xyz on X as of Fri 11/6 noon)",
+   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA, not confirmed by @FractionAI_xyz on X as of Fri 11/6 4 PM)",
    "milestone_date": "2026-11-11T23:59:00-06:00",
    "links": [
     {
@@ -394,7 +394,7 @@
    ],
    "upgrade_if": "Official Nov 11 confirmation",
    "downgrade_if": "Date moves",
-   "last_update": "2026-11-06T12:05:00-06:00",
+   "last_update": "2026-11-06T16:10:00-06:00",
    "price": null,
    "logo": "logos/fraction-ai.png",
    "website": "https://fractionai.xyz",
@@ -490,7 +490,7 @@
    ],
    "upgrade_if": "Identifiable founders, DEX liquidity",
    "downgrade_if": "Pool centralization returns or partner claims don't hold up",
-   "last_update": "2026-11-06T16:03:42-06:00",
+   "last_update": "2026-11-06T16:10:00-06:00",
    "price": 0.00016294,
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
@@ -841,6 +841,14 @@
  ],
  "prelaunch_updates": [
   {
+   "project": "Quip Network",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "Official: SIGMA Rome wrap (booth/QVRF awareness) + qwned quantum address exposure checker promo. Not a new campaign; Points still live; fee waiver still ends Sun 11/8.",
+   "at": "2026-11-06T16:10:00-06:00",
+   "url": "https://x.com/quipnetwork/status/2118827012877946961"
+  },
+  {
    "project": "Soqucoin",
    "theme": "Quantum",
    "source_type": "official",
@@ -911,14 +919,6 @@
    "text": "YuviLightman paper: practical EVM post-quantum accounts (switch signature schemes while keeping addresses; cheap PQ verification). Research only; Dubai forum 12/1–12/2 unchanged.",
    "at": "2026-11-05T16:12:00-06:00",
    "url": "https://x.com/QuantusNetwork/status/2118357680410537996"
-  },
-  {
-   "project": "Verona",
-   "theme": "Quantum",
-   "source_type": "official",
-   "text": "Catch-up: Verona × Abelian partnership (both official 11/3) — Abelian private PQ value + Verona verified PQ facts (Fermi ML-DSA).",
-   "at": "2026-11-03T15:36:00-06:00",
-   "url": "https://x.com/PQabelian/status/2117641986308280584"
   }
  ],
  "digest": {
@@ -993,9 +993,23 @@
    "score": 18,
    "reason": "55-follower PQ chain engineering-milestone promo; unconfirmed NIST claims; lead only / REJECT",
    "at": "2026-11-06T12:05:00-06:00"
+  },
+  {
+   "name": "FURBI (Robinhood Chain AI agent spam)",
+   "theme": "AI",
+   "score": 8,
+   "reason": "Anonymous low-follower AI agent token spam; renounced LP / get-in-now language; no team/tech substance",
+   "at": "2026-11-06T16:10:00-06:00"
+  },
+  {
+   "name": "Asentum (farm spam)",
+   "theme": "Quantum",
+   "score": 12,
+   "reason": "Repeated low-follower 'farming asentum airdrop on post-quantum chain' posts; no credible sources; radar only",
+   "at": "2026-11-06T16:10:00-06:00"
   }
  ],
- "snapshot_note": "Noon lean scan Fri 11/6 ~12:05 CT. Quiet since morning digest. Prices from hourly CG updater (~12:00 CT). Biconomy SOQ pair still not on CG tickers. 0 HP.",
+ "snapshot_note": "4 PM lean 11/6: quiet. 0 HP. Quip SIGMA Rome wrap + qwned checker (official, not a campaign). Fraction Nov 11 still unconfirmed on X. Soqucoin CG lag on Biconomy. SafeTrade 49 bases flat. Pond S2 skipped.",
  "deadlines": [
   {
    "project": "Fraction AI",
