@@ -55,9 +55,9 @@
      "score": 81
     }
    ],
-   "market_cap": 23262214,
+   "market_cap": 23206975,
    "fdv": 500900000.0,
-   "volume_24h": 1199347,
+   "volume_24h": 1196550,
    "dex_route": "Rhea Finance (NEAR) qtc.omft.near (~$9.9M liq); InstaSwap via NEAR Intents. Solana/Base QTC tokens are impostors",
    "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official). Coming to @Chance_ (undated). YuviLightman EVM PQ-accounts paper published Wed 11/5 (official)",
    "milestone_date": "2026-12-01T23:59:00-06:00",
@@ -77,12 +77,12 @@
    ],
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
-   "last_update": "2026-11-06T00:05:25-06:00",
-   "price": 71.39,
+   "last_update": "2026-11-06T01:00:06-06:00",
+   "price": 71.21,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
    "cg_id": "quantus",
-   "price_updated": "2026-11-06T00:05:25-06:00"
+   "price_updated": "2026-11-06T01:00:06-06:00"
   },
   {
    "name": "Ritual",
@@ -129,9 +129,9 @@
      "score": 76
     }
    ],
-   "market_cap": 39847869,
+   "market_cap": 39599188,
    "fdv": null,
-   "volume_24h": 1118689,
+   "volume_24h": 1129195,
    "dex_route": "Base/BSC bridged 0x256E...8C37; official Base pool about $6 liquidity, so no real DEX route (CEX: Coinbase, Gate, MEXC)",
    "next_milestone": "Real DEX liquidity on Base or BSC and an audit (both undated)",
    "milestone_date": null,
@@ -155,11 +155,11 @@
    ],
    "upgrade_if": "Named-firm audit; real DEX liquidity on Base/BSC; more CEX listings",
    "downgrade_if": "Heavy airdrop or issuance selling; bridge or chain incident",
-   "last_update": "2026-11-06T00:05:25-06:00",
-   "price": 0.02215557,
+   "last_update": "2026-11-06T01:00:06-06:00",
+   "price": 0.02199955,
    "logo": "logos/ritual.png",
    "website": "https://ritual.net",
-   "price_updated": "2026-11-06T00:05:25-06:00",
+   "price_updated": "2026-11-06T01:00:06-06:00",
    "cg_id": "ritual"
   },
   {
@@ -275,9 +275,9 @@
      "score": 69
     }
    ],
-   "market_cap": 41038625,
+   "market_cap": 41235140,
    "fdv": 150700000.0,
-   "volume_24h": 4871873,
+   "volume_24h": 4906378,
    "dex_route": "No official DEX route (exchanges only)",
    "next_milestone": "Sui migration date + swap instructions (TBA)",
    "milestone_date": null,
@@ -289,12 +289,12 @@
    ],
    "upgrade_if": "Migration date + audited Sui contracts",
    "downgrade_if": "Migration delays",
-   "last_update": "2026-11-06T00:05:25-06:00",
-   "price": 0.113669,
+   "last_update": "2026-11-06T01:00:06-06:00",
+   "price": 0.114213,
    "logo": "logos/data-network.png",
    "website": "https://www.datafdn.org",
    "cg_id": "story-2",
-   "price_updated": "2026-11-06T00:05:25-06:00"
+   "price_updated": "2026-11-06T01:00:06-06:00"
   },
   {
    "name": "Quip Network",
@@ -458,9 +458,9 @@
      "score": 65
     }
    ],
-   "market_cap": 730584,
+   "market_cap": 719271,
    "fdv": null,
-   "volume_24h": 186682,
+   "volume_24h": 184644,
    "dex_route": "No official DEX route; CEX: SafeTrade (SOQ/USDT), NonKYC, Neoxa, Biconomy from Fri 11/6",
    "next_milestone": "SOQ/USDT opens on Biconomy (CEX) Fri 11/6 6:00 AM CT (12:00 UTC); deposits 11:30 UTC (Biconomy support updated Wed 11/5). Then SOQUPOOL stratum closes Wed 11/19 10:00 AM CT (16:00 UTC) as pool merges into LuxxPool. CMC request pending; team disclosure undated",
    "milestone_date": "2026-11-06T06:00:00-06:00",
@@ -496,12 +496,12 @@
    ],
    "upgrade_if": "Identifiable founders, DEX liquidity",
    "downgrade_if": "Pool centralization returns or partner claims don't hold up",
-   "last_update": "2026-11-06T00:05:25-06:00",
-   "price": 0.00018994,
+   "last_update": "2026-11-06T01:00:06-06:00",
+   "price": 0.00018676,
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
    "cg_id": "soqucoin",
-   "price_updated": "2026-11-06T00:05:25-06:00"
+   "price_updated": "2026-11-06T01:00:06-06:00"
   },
   {
    "name": "Axis Robotics",
@@ -540,9 +540,9 @@
      "score": 52
     }
    ],
-   "market_cap": 20686474,
+   "market_cap": 20869903,
    "fdv": null,
-   "volume_24h": 15024474,
+   "volume_24h": 7416345,
    "dex_route": "Uniswap v4 (Base) 0x5be75e3b0aff5d1a042a5363ae36acb1d6d755ea",
    "next_milestone": "Promised on-chain vesting for future distributions and legal review (undated). MEXC Airdrop+ ended Tue 11/3; open task slots reduced Tue 11/3 (official product update)",
    "milestone_date": null,
@@ -562,12 +562,12 @@
    ],
    "upgrade_if": "Verified team, audit",
    "downgrade_if": "Heavy unlocks, more lock-up breaches, or no on-chain vesting published",
-   "last_update": "2026-11-06T00:05:25-06:00",
-   "price": 0.125545,
+   "last_update": "2026-11-06T01:00:06-06:00",
+   "price": 0.126484,
    "logo": "logos/axis-robotics.png",
    "website": "https://axisrobotics.ai",
    "cg_id": "axis-robotics",
-   "price_updated": "2026-11-06T00:05:25-06:00"
+   "price_updated": "2026-11-06T01:00:06-06:00"
   },
   {
    "name": "Flop Network",
@@ -666,21 +666,21 @@
      "score": 51
     }
    ],
-   "market_cap": 1548849,
+   "market_cap": 1561057,
    "fdv": null,
-   "volume_24h": 16441.59,
+   "volume_24h": 16609.3,
    "dex_route": "Uniswap v4 (Base) 0x9557dd9e241bc9636732623b672b4090af519396 (thin)",
    "next_milestone": "AI API key-sharing marketplace (previewed Wed 10/28, undated); AI chat app on Crynux GPUs (undated)",
    "milestone_date": null,
    "links": [],
    "upgrade_if": "Deeper liquidity, audit",
    "downgrade_if": "Liquidity stays thin",
-   "last_update": "2026-11-06T00:05:25-06:00",
-   "price": 0.00089182,
+   "last_update": "2026-11-06T01:00:06-06:00",
+   "price": 0.00089885,
    "logo": "logos/crynux.png",
    "website": "https://crynux.io",
    "cg_id": "crynux",
-   "price_updated": "2026-11-06T00:05:25-06:00"
+   "price_updated": "2026-11-06T01:00:06-06:00"
   },
   {
    "name": "TermiX",
@@ -817,9 +817,9 @@
      "score": 66
     }
    ],
-   "price": 0.107099,
-   "market_cap": 9924002,
-   "volume_24h": 445480,
+   "price": 0.107602,
+   "market_cap": 9972097,
+   "volume_24h": 433892,
    "dex_route": "None verified (CEX: Bithumb, Bybit, Bitget, KuCoin, Gate, MEXC, Kraken)",
    "next_milestone": "Audit of the PQ upgrade (opt-in ML-DSA/SLH-DSA keys, live since Fermi). Abelian partnership announced Tue 11/3 (official both sides). Official DEX route still missing",
    "milestone_date": null,
@@ -843,11 +843,11 @@
    ],
    "upgrade_if": "Published audit of the PQ account upgrade, official docs naming the parameter sets, and an official DEX route",
    "downgrade_if": "PQ claims turn out marketing-only, or the paid promo wave is the only demand",
-   "last_update": "2026-11-06T00:05:25-06:00",
+   "last_update": "2026-11-06T01:00:06-06:00",
    "logo": "logos/verona.png",
    "website": "https://verona.dev",
    "cg_id": "verona",
-   "price_updated": "2026-11-06T00:05:25-06:00"
+   "price_updated": "2026-11-06T01:00:06-06:00"
   }
  ],
  "prelaunch_updates": [
@@ -1745,7 +1745,7 @@
    }
   ]
  },
- "prices_updated": "2026-11-06T00:05:25-06:00",
+ "prices_updated": "2026-11-06T01:00:06-06:00",
  "airdrops": [
   {
    "project": "TermiX",
