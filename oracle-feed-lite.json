@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-06T09:32:38-06:00",
+ "generated_at": "2026-11-06T12:05:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-06T08:30:00-06:00",
-  "next_scan": "2026-11-06T12:00:00-06:00",
+  "last_scan": "2026-11-06T12:05:00-06:00",
+  "next_scan": "2026-11-06T16:00:00-06:00",
   "activity": [
-   "AIRDROP BOT 09:31 CT: Quip Points 35 QP rank #5,706 (dailies 0/5 not done); GenLayer 2,000 CP; TermiX 1,400 TP. Bloccelerate to-do marked done.",
-   "Soqucoin Biconomy SOQ/USDT listing window opened Fri 11/6 6:00 AM CT; CG has not indexed Biconomy pair yet; Biconomy deadline cleared; next = SOQUPOOL Wed 11/19",
-   "Quip Points + GenLayer S2/staking still open; Amadeus Road to TGE still open (trade-primary); Pond S2 skipped per owner",
-   "SafeTrade: 50 bases (ZER removed overnight); no AI/quantum adds. @safetrade posts: 0 in window",
-   "X: username + project posts + keyword search OK this run (no 503); Fraction AI still no Nov 11 confirmation",
-   "GitHub active overnight: GenLayer, Quip, Quantus, Flop, Crynux"
+   "No new open campaigns; Pond S2 still skipped per owner",
+   "Quip Bloccelerate Fri 11/6 NYC marked done → next = fee waiver ends Sun 11/8; Points still live",
+   "Soqucoin: Biconomy still live per ListedOn; CG tickers still NonKYC+SafeTrade only; next = SOQUPOOL Wed 11/19",
+   "Fraction AI: still no @FractionAI_xyz Nov 11 confirmation (0 posts since morning)",
+   "SafeTrade: 49 bases (−FLUX/−URX +KMD vs morning 50); no AI/quantum adds; @safetrade silent",
+   "X OK (~19 reads this scan); AI/quantum keyword hits were spam/farm only"
   ],
-  "x_reads_left_today": 970
+  "x_reads_left_today": 951
  },
  "watchlist": [
   {
@@ -329,8 +329,8 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; any QUIP token is a scam",
-   "next_milestone": "CTO @rcarback at Bloccelerate Founder Summit Fri 11/6 NYC (official). Quip Points live; account creation fee waiver ends Sun 11/8. External chain audit then mainnet/TGE (undated)",
-   "milestone_date": "2026-11-06T23:59:00-06:00",
+   "next_milestone": "Quip Points account creation fee waiver ends Sun 11/8. External chain audit then mainnet/TGE (undated). Bloccelerate Founder Summit Fri 11/6 NYC already held",
+   "milestone_date": "2026-11-08T23:59:00-06:00",
    "links": [
     {
      "label": "Quip docs",
@@ -339,7 +339,7 @@
    ],
    "upgrade_if": "Dated TGE, audit, mainnet",
    "downgrade_if": "More TGE slips",
-   "last_update": "2026-11-05T20:20:00-06:00",
+   "last_update": "2026-11-06T12:05:00-06:00",
    "price": null,
    "logo": "logos/quip-network.png",
    "website": "https://quip.network"
@@ -384,7 +384,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token",
-   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA, not confirmed by @FractionAI_xyz on X as of Fri 11/6 morning)",
+   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA, not confirmed by @FractionAI_xyz on X as of Fri 11/6 noon)",
    "milestone_date": "2026-11-11T23:59:00-06:00",
    "links": [
     {
@@ -394,7 +394,7 @@
    ],
    "upgrade_if": "Official Nov 11 confirmation",
    "downgrade_if": "Date moves",
-   "last_update": "2026-11-05T20:20:00-06:00",
+   "last_update": "2026-11-06T12:05:00-06:00",
    "price": null,
    "logo": "logos/fraction-ai.png",
    "website": "https://fractionai.xyz",
@@ -456,7 +456,7 @@
    "market_cap": 657494,
    "volume_24h": 181806,
    "dex_route": "No official DEX route; CEX: SafeTrade (SOQ/USDT), NonKYC, Neoxa, Biconomy (listed Fri 11/6 per schedule/ListedOn; CG lag)",
-   "next_milestone": "SOQUPOOL stratum closes Wed 11/19 10:00 AM CT (16:00 UTC) then final payout as pool merges into LuxxPool (official). Biconomy SOQ/USDT listing window opened Fri 11/6 6:00 AM CT per schedule; CoinGecko has not indexed the Biconomy pair yet (still shows NonKYC + SafeTrade). CMC request pending; team disclosure undated",
+   "next_milestone": "SOQUPOOL stratum closes Wed 11/19 10:00 AM CT (16:00 UTC) then final payout as pool merges into LuxxPool (official). Biconomy SOQ/USDT listing window opened Fri 11/6 6:00 AM CT; CoinGecko still shows NonKYC + SafeTrade only (Biconomy pair not indexed). CMC request pending; team disclosure undated",
    "milestone_date": "2026-11-19T10:00:00-06:00",
    "links": [
     {
@@ -979,9 +979,23 @@
    "score": 56,
    "reason": "Owner skip (11/5): email/referral sales work with no points campaign for us; not listed on desk airdrops and AIRDROP BOT not woken",
    "at": "2026-11-06T08:30:00-06:00"
+  },
+  {
+   "name": "iQRG / iQRIGESTRY",
+   "theme": "AI",
+   "score": 10,
+   "reason": "Low-follower AI airdrop/ambassador spam in keyword search; no identifiable team or product",
+   "at": "2026-11-06T12:05:00-06:00"
+  },
+  {
+   "name": "Qattice",
+   "theme": "Quantum",
+   "score": 18,
+   "reason": "55-follower PQ chain engineering-milestone promo; unconfirmed NIST claims; lead only / REJECT",
+   "at": "2026-11-06T12:05:00-06:00"
   }
  ],
- "snapshot_note": "Morning digest Fri 11/6 ~08:30 CT. Prices from CoinGecko markets snapshot; Soqucoin Biconomy pair not yet on CG tickers. Quiet overnight — 0 HP.",
+ "snapshot_note": "Noon lean scan Fri 11/6 ~12:05 CT. Quiet since morning digest. Prices from hourly CG updater (~12:00 CT). Biconomy SOQ pair still not on CG tickers. 0 HP.",
  "deadlines": [
   {
    "project": "Fraction AI",
