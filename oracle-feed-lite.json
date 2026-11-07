@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-06T16:10:00-06:00",
+ "generated_at": "2026-11-06T20:05:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-06T16:10:00-06:00",
-  "next_scan": "2026-11-06T20:00:00-06:00",
+  "last_scan": "2026-11-06T20:05:00-06:00",
+  "next_scan": "2026-11-07T08:00:00-06:00",
   "activity": [
    "No new open campaigns; Pond S2 still skipped per owner",
-   "Quip: @quipnetwork SIGMA Rome wrap + qwned address-check promo; Points live; next = fee waiver ends Sun 11/8",
-   "Fraction AI: still no @FractionAI_xyz Nov 11 confirmation (0 posts since noon)",
-   "Soqucoin: CG still NonKYC+SafeTrade only; ListedOn still shows Biconomy SOQ/USDT; next = SOQUPOOL Wed 11/19",
-   "SafeTrade: 49 bases unchanged vs noon; no AI/quantum adds; @safetrade silent",
-   "X OK (~22 reads this scan); AI/quantum keyword hits were spam/farm only (FURBI, Asentum)"
+   "Quip: no new posts after 4 PM beyond already-logged SIGMA Rome wrap; Points live; next = fee waiver ends Sun 11/8",
+   "Fraction AI: still no @FractionAI_xyz Nov 11 confirmation (0 posts since 4 PM)",
+   "Soqucoin: CG still NonKYC+SafeTrade only; Biconomy SOQ tickers API empty; next = SOQUPOOL Wed 11/19",
+   "SafeTrade: 48 bases (−ARB vs 4 PM 49); no AI/quantum niche adds; @safetrade silent",
+   "X OK (~22 reads); AI/quantum keyword hits were spam/farm only (Asentum repeat, qHooks 10-follower)"
   ],
-  "x_reads_left_today": 929
+  "x_reads_left_today": 978
  },
  "watchlist": [
   {
@@ -329,7 +329,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; any QUIP token is a scam",
-   "next_milestone": "Quip Points account creation fee waiver ends Sun 11/8. External chain audit then mainnet/TGE (undated). Bloccelerate Founder Summit Fri 11/6 NYC already held; SIGMA Rome wrap Fri 11/6 (official)",
+   "next_milestone": "Quip Points account creation fee waiver ends Sun 11/8. External chain audit then mainnet (undated)",
    "milestone_date": "2026-11-08T23:59:00-06:00",
    "links": [
     {
@@ -384,7 +384,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token",
-   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA, not confirmed by @FractionAI_xyz on X as of Fri 11/6 4 PM)",
+   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA, still not confirmed by @FractionAI_xyz on X as of Fri 11/6 8 PM CT)",
    "milestone_date": "2026-11-11T23:59:00-06:00",
    "links": [
     {
@@ -394,7 +394,7 @@
    ],
    "upgrade_if": "Official Nov 11 confirmation",
    "downgrade_if": "Date moves",
-   "last_update": "2026-11-06T16:10:00-06:00",
+   "last_update": "2026-11-06T20:05:00-06:00",
    "price": null,
    "logo": "logos/fraction-ai.png",
    "website": "https://fractionai.xyz",
@@ -456,7 +456,7 @@
    "market_cap": 665341,
    "volume_24h": 182652,
    "dex_route": "No official DEX route; CEX: SafeTrade (SOQ/USDT), NonKYC, Neoxa, Biconomy (listed Fri 11/6 per schedule/ListedOn; CG lag)",
-   "next_milestone": "SOQUPOOL stratum closes Wed 11/19 10:00 AM CT (16:00 UTC) then final payout as pool merges into LuxxPool (official). Biconomy SOQ/USDT listing window opened Fri 11/6 6:00 AM CT; CoinGecko still shows NonKYC + SafeTrade only (Biconomy pair not indexed). CMC request pending; team disclosure undated",
+   "next_milestone": "SOQUPOOL stratum closes Wed 11/19 10:00 AM CT (16:00 UTC) then final payout as pool merges into LuxxPool. Biconomy SOQ/USDT still not on CoinGecko (NonKYC+SafeTrade only)",
    "milestone_date": "2026-11-19T10:00:00-06:00",
    "links": [
     {
@@ -1007,9 +1007,16 @@
    "score": 12,
    "reason": "Repeated low-follower 'farming asentum airdrop on post-quantum chain' posts; no credible sources; radar only",
    "at": "2026-11-06T16:10:00-06:00"
+  },
+  {
+   "name": "qHooks (PQ memelaunch spam)",
+   "theme": "Quantum",
+   "score": 8,
+   "reason": "10-follower “post-quantum key” token launcher promo; no identifiable team/product; spam",
+   "at": "2026-11-06T20:05:00-06:00"
   }
  ],
- "snapshot_note": "4 PM lean 11/6: quiet. 0 HP. Quip SIGMA Rome wrap + qwned checker (official, not a campaign). Fraction Nov 11 still unconfirmed on X. Soqucoin CG lag on Biconomy. SafeTrade 49 bases flat. Pond S2 skipped.",
+ "snapshot_note": "8 PM lean 11/6: quiet. 0 HP. No new open campaigns. Fraction Nov 11 still unconfirmed on X. Soqucoin CG lag on Biconomy. SafeTrade 48 bases (−ARB). Pond S2 skipped.",
  "deadlines": [
   {
    "project": "Fraction AI",
