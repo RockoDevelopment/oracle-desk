@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-07T08:05:00-06:00",
+ "generated_at": "2026-11-07T12:15:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-07T08:05:00-06:00",
-  "next_scan": "2026-11-07T12:00:00-06:00",
+  "last_scan": "2026-11-07T12:15:00-06:00",
+  "next_scan": "2026-11-07T16:00:00-06:00",
   "activity": [
-   "Quiet overnight since 8 PM Fri; no new open campaigns; Pond S2 skipped",
-   "Quip fee waiver ends Sun 11/8 (~40h) — DUE SOON; Points still live; Bloccelerate Fri 11/6 cleared",
-   "Fraction AI: still no @FractionAI_xyz Nov 11 confirmation (0 matching posts since Nov 1)",
-   "Soqucoin: CG still NonKYC+SafeTrade only; Biconomy SOQ tickers empty; next = SOQUPOOL Wed 11/19",
-   "Flop Labs official Sat 11/7: Devnet out, Testnet date TBA (Hayes: announce next week)",
-   "SafeTrade: 49 bases (+ARB back, off-niche ~$616 vol); no AI/quantum niche adds; @safetrade silent",
-   "X OK (~28 reads this sweep); keyword hits mostly Asentum/Motes farm spam"
+   "No new open campaigns; Pond S2 still skipped",
+   "Tracked accounts quiet since morning except @soqucoin fair-launch messaging (already known; not a milestone)",
+   "Fraction AI: still no @FractionAI_xyz Nov 11 confirmation (0 TGE/Nov11 posts since Nov 1)",
+   "Quip fee waiver ends Sun 11/8 (~12h) — DUE SOON; Points still live",
+   "Soqucoin next = SOQUPOOL Wed 11/19; CG still NonKYC+SafeTrade",
+   "SafeTrade: 48 bases (−KMD vs morning 49); no AI/quantum niche adds; @safetrade silent",
+   "Keyword hits mostly Asentum farm / TeQoin / Pumpr spam"
   ],
-  "x_reads_left_today": 959
+  "x_reads_left_today": 917
  },
  "watchlist": [
   {
@@ -988,9 +988,23 @@
    "score": 8,
    "reason": "Solana pump.fun meme flagged as 'AI Signal'; no substance.",
    "at": "2026-11-07T08:05:00-06:00"
+  },
+  {
+   "name": "Asentum",
+   "theme": "Quantum",
+   "score": 12,
+   "reason": "Continued low-follower PQ airdrop farm spam in noon keyword search",
+   "at": "2026-11-07T12:15:00-06:00"
+  },
+  {
+   "name": "TeQoin",
+   "theme": "AI",
+   "score": 10,
+   "reason": "Low-follower airdrop snapshot/TGE promo; unconfirmed",
+   "at": "2026-11-07T12:15:00-06:00"
   }
  ],
- "snapshot_note": "Morning digest Sat 11/7 08:05 CT: quiet overnight. 0 HP. Quip fee waiver due Sun 11/8. Fraction Nov 11 still unconfirmed on X. Soqucoin CG lag on Biconomy. SafeTrade 49 bases (+ARB). Pond S2 skipped. Flop: Testnet TBA (official).",
+ "snapshot_note": "Noon lean scan Sat 11/7 ~12:15 CT. Quiet window. Quip fee waiver ends Sun 11/8. Fraction Nov 11 still filing-only. SafeTrade 48 bases (−KMD). Not financial advice.",
  "deadlines": [
   {
    "project": "Fraction AI",
