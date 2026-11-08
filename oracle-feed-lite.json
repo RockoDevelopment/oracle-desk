@@ -1022,11 +1022,22 @@
   {
    "project": "Quip Network",
    "theme": "Quantum",
-   "title": "Quip account creation fee waiver ends",
+   "title": "Quip account creation fee waiver through Nov 8 (cutoff/timezone unconfirmed; time TBA)",
    "type": "Sign-up deadline",
    "date": "2026-11-08T23:59:00-06:00",
    "all_day": true,
    "url": "https://points.quip.network",
+   "status": "open",
+   "approx": true
+  },
+  {
+   "project": "GenLayer",
+   "theme": "AI",
+   "title": "Mission 100 quote post — wording awaits owner approval (campaign-card deadline reported by AIRDROP BOT; unconfirmed)",
+   "type": "Airdrop",
+   "date": "2026-11-12T06:00:00-06:00",
+   "approx": true,
+   "url": "https://portal.genlayer.foundation",
    "status": "open"
   }
  ],
