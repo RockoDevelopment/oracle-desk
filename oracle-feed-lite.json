@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-08T08:15:00-06:00",
+ "generated_at": "2026-11-08T12:09:07-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-08T08:15:00-06:00",
-  "next_scan": "2026-11-08T12:00:00-06:00",
+  "last_scan": "2026-11-08T12:09:07-06:00",
+  "next_scan": "2026-11-08T16:00:00-06:00",
   "activity": [
-   "No new open campaigns; Pond S2 still skipped",
-   "Quip fee waiver ends Sun 11/8 23:59 CT (~16h, official through Nov 8) — DUE SOON; Points still live",
+   "GenLayer official AMA Mon 11/9 8:00 AM CT (14:00 UTC) with CEO Edgars Nemše; POAP on official portal during the session",
+   "Rhea Finance: Quantus ↔ NEAR QTC bridge now live at app.rhea.finance/bridge (venue post; Quantus has not echoed it yet)",
+   "Soqucoin official: restated pSOQ on Solana, 1:1 to SOQ at mainnet; gateway still on Solana devnet; BTC/ETH/Cosmos gateways planned; no official mint posted",
    "Fraction AI: still no @FractionAI_xyz Nov 11 confirmation (0 TGE/Nov11 posts since Nov 1)",
-   "Soqucoin: official weekly update + SoquShield v2.6.0 on Google Play; CoinGecko now indexes Biconomy SOQ/USDT; next = SOQUPOOL Wed 11/19",
-   "SafeTrade: 46 bases (−ARRR/−DAI vs 48 at 8 PM); SOH remains (off-niche); no AI/quantum niche adds; @safetrade silent",
-   "Ritual ~$0.044 (+78% day, range ~$0.023–$0.046, vol ~$7.3M); still CEX-only, no audit — treat move cautiously",
-   "Keyword hits: Asentum farm spam + Starknet PQ commentary; no new AI/quantum launches"
+   "Quip fee waiver still ends Sun 11/8 23:59 CT (~12h); Points live",
+   "SafeTrade: 45 bases (+XPM / −EVR/−ZCL vs morning 46); all off-niche; no AI/quantum adds; @safetrade silent",
+   "No new open campaigns; Pond S2 still skipped"
   ],
-  "x_reads_left_today": 949
+  "x_reads_left_today": 940
  },
  "watchlist": [
   {
@@ -55,7 +55,7 @@
    ],
    "market_cap": 20583667,
    "volume_24h": 830966,
-   "dex_route": "Rhea Finance (NEAR) qtc.omft.near (~$9.9M liq); InstaSwap via NEAR Intents. Solana/Base QTC tokens are look-alike",
+   "dex_route": "Rhea Finance (NEAR) qtc.omft.near; Rhea Quantus↔NEAR bridge live (app.rhea.finance/bridge, announced by @rhea_finance Sun 11/8). InstaSwap via NEAR Intents. Solana/Base QTC tokens are look-alike",
    "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official). Coming to @Chance_ (undated). YuviLightman EVM PQ-accounts paper published Wed 11/5 (official)",
    "milestone_date": "2026-12-01T23:59:00-06:00",
    "links": [
@@ -74,7 +74,7 @@
    ],
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
-   "last_update": "2026-11-08T12:05:20-06:00",
+   "last_update": "2026-11-08T12:09:07-06:00",
    "price": 62.27,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
@@ -202,8 +202,8 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; CoinGecko preview lists an Ethereum token address [address hidden] that GenLayer has not posted; fake GEN tokens on Base/BSC/Solana",
-   "next_milestone": "GEN launch day ('THE DAY') undated; Pre-Mainnet Staking auto-stakes unclaimed airdrop from launch day (official reminder Fri 11/6). Missing: dated launch day, audit, official token address",
-   "milestone_date": null,
+   "next_milestone": "AMA Mon 11/9 8:00 AM CT (2:00 PM UTC) with Foundation CEO Edgars Nemše and Discord co-host Hills; graphic says claim a POAP live on the GenLayer portal. Then GEN launch day ('THE DAY') undated. Missing: dated launch day, audit, official token address",
+   "milestone_date": "2026-11-09T08:00:00-06:00",
    "links": [
     {
      "label": "GenLayer on X",
@@ -228,7 +228,7 @@
    ],
    "upgrade_if": "Dated TGE + official Arbitrum token address + audit",
    "downgrade_if": "TGE slips past October",
-   "last_update": "2026-11-08T08:15:00-06:00",
+   "last_update": "2026-11-08T12:09:07-06:00",
    "price": null,
    "logo": "logos/genlayer.png",
    "website": "https://genlayer.com"
@@ -340,7 +340,7 @@
    ],
    "upgrade_if": "Dated TGE, audit, mainnet",
    "downgrade_if": "More TGE slips",
-   "last_update": "2026-11-08T08:15:00-06:00",
+   "last_update": "2026-11-08T12:09:07-06:00",
    "price": null,
    "logo": "logos/quip-network.png",
    "website": "https://quip.network"
@@ -385,7 +385,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token",
-   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA, still not confirmed by @FractionAI_xyz on X as of Sun 11/8 8 AM CT)",
+   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA, still not confirmed by @FractionAI_xyz on X as of Sun 11/8 noon CT)",
    "milestone_date": "2026-11-11T23:59:00-06:00",
    "links": [
     {
@@ -395,7 +395,7 @@
    ],
    "upgrade_if": "Official Nov 11 confirmation",
    "downgrade_if": "Date moves",
-   "last_update": "2026-11-08T08:15:00-06:00",
+   "last_update": "2026-11-08T12:09:07-06:00",
    "price": null,
    "logo": "logos/fraction-ai.png",
    "website": "https://fractionai.xyz",
@@ -491,7 +491,7 @@
    ],
    "upgrade_if": "Identifiable founders, DEX liquidity",
    "downgrade_if": "Pool centralization returns or partner claims don't hold up",
-   "last_update": "2026-11-08T12:05:20-06:00",
+   "last_update": "2026-11-08T12:09:07-06:00",
    "price": 0.00016751,
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
@@ -842,6 +842,30 @@
  ],
  "prelaunch_updates": [
   {
+   "project": "GenLayer",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "Official AMA Monday Nov 9 at 2:00 PM UTC (8:00 AM CT) with Foundation CEO Edgars Nemše and Discord co-host Hills. Graphic: ask the founders, catch the latest news, and claim a POAP live on the GenLayer portal. No TGE date, tokenomics, or token address in the post.",
+   "at": "2026-11-08T12:09:07-06:00",
+   "url": "https://x.com/GenLayer/status/2119442584720535605"
+  },
+  {
+   "project": "Quantus",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "Venue official (@rhea_finance): Quantus ↔ NEAR QTC bridge now live at app.rhea.finance/bridge; QTC can move between Quantus and NEAR in seconds; yield from the existing qtc.omft.near pool. Quantus itself has not posted this yet. Bridge page loads a live UI.",
+   "at": "2026-11-08T12:09:07-06:00",
+   "url": "https://x.com/rhea_finance/status/2119442609215246451"
+  },
+  {
+   "project": "Soqucoin",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "Official: pSOQ trades on Solana and is built to bridge strictly 1:1 to SOQ at mainnet. The SOQ gateway runs on Solana devnet. Bitcoin, Ethereum and Cosmos gateways are planned. No official mint posted (pSOQ-on-Solana and Solana-devnet gateway were already logged Oct 23/31; planned extra-chain gateways are new). Separate post was a BT-Miners $30 coupon (partnership already known).",
+   "at": "2026-11-08T12:09:07-06:00",
+   "url": "https://x.com/soqucoin/status/2119475040723108205"
+  },
+  {
    "project": "Soqucoin",
    "theme": "Quantum",
    "source_type": "official",
@@ -896,30 +920,6 @@
    "text": "Biconomy support page updated Wed 11/5: SOQ/USDT deposits Fri 11/6 11:30 UTC, trading/withdrawals 12:00 UTC. Restates Halborn audit + Wyoming Foundation; schedule unchanged vs earlier @soqucoin posts. Still CEX-only for DEX-only buyers.",
    "at": "2026-11-05T20:20:00-06:00",
    "url": "https://biconomy.zendesk.com/hc/en-us/articles/63702843256217-Biconomy-com-New-Listing-Soqucoin-SOQ-for-Spot-Trading"
-  },
-  {
-   "project": "Quip Network",
-   "theme": "Quantum",
-   "source_type": "official",
-   "text": "Status check: Quip Points still live on points.quip.network (sign-in, value secured, QuipSwap incl. paper swaps, node, referrals). Bloccelerate Fri 11/6 NYC confirmed on bloccelerate.vc. Fee waiver ends Sun 11/8. Any pre-token address QUIP is a scam.",
-   "at": "2026-11-05T20:20:00-06:00",
-   "url": "https://points.quip.network"
-  },
-  {
-   "project": "Soqucoin",
-   "theme": "Quantum",
-   "source_type": "official",
-   "text": "SOQUPOOL merging into LuxxPool. Stratum closes Wed 11/19 16:00 UTC then final payout of remaining balances. Switch guide: luxxpool.luxxlabs.ca/soqupool.html. Biconomy SOQ/USDT Fri 11/6 6:00 AM CT unchanged.",
-   "at": "2026-11-05T16:12:00-06:00",
-   "url": "https://x.com/soqucoin/status/2118443640540520852"
-  },
-  {
-   "project": "Quip Network",
-   "theme": "Quantum",
-   "source_type": "official",
-   "text": "CTO @rcarback joins Bloccelerate Founder Summit Fri 11/6 NYC (quantum vs AI debate). QVM featured in Investing.com. Fee waiver still ends Sun 11/8.",
-   "at": "2026-11-05T16:12:00-06:00",
-   "url": "https://x.com/quipnetwork/status/2118407685779689840"
   }
  ],
  "digest": {
@@ -974,10 +974,33 @@
    "score": 8,
    "reason": "BSC privacy meme launchpad promo in AI keyword search; no substance, not a scoped AI launch",
    "at": "2026-11-08T08:15:00-06:00"
+  },
+  {
+   "name": "PHULAX",
+   "theme": "Quantum",
+   "score": 15,
+   "reason": "Upcoming BNB 'security-focused' promo; no named NIST PQC, no verifiable team or code in the post",
+   "at": "2026-11-08T12:09:07-06:00"
+  },
+  {
+   "name": "Fake Solana AI CAs",
+   "theme": "AI",
+   "score": 8,
+   "reason": "Low-engagement spam posting Solana mint addresses labeled as Nexchain AI and Gensyn; not official launches",
+   "at": "2026-11-08T12:09:07-06:00"
   }
  ],
- "snapshot_note": "Morning digest Sun 11/8 ~08:15 CT. Quiet overnight. Quip fee waiver ends Sun 11/8 23:59 CT (~16h). Fraction Nov 11 still filing-only. Soqucoin Biconomy pair now on CoinGecko. SafeTrade 46 bases (−ARRR/−DAI). Not financial advice.",
+ "snapshot_note": "Noon scan Sun 11/8 ~12:10 CT. No priority (0/3). GenLayer AMA Mon 11/9 8:00 AM CT + portal POAP. Rhea Quantus↔NEAR QTC bridge live (venue). Soqucoin restated pSOQ/Solana + planned BTC/ETH/Cosmos gateways. SafeTrade 45 bases (+XPM/−EVR/−ZCL, off-niche). Not financial advice.",
  "deadlines": [
+  {
+   "project": "GenLayer",
+   "theme": "AI",
+   "title": "AMA with CEO Edgars Nemše (POAP on official portal)",
+   "type": "AMA",
+   "date": "2026-11-09T08:00:00-06:00",
+   "url": "https://x.com/GenLayer/status/2119442584720535605",
+   "status": "open"
+  },
   {
    "project": "Fraction AI",
    "theme": "AI",
