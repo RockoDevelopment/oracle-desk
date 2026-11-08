@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-07T16:05:00-06:00",
+ "generated_at": "2026-11-07T20:10:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-07T16:05:00-06:00",
-  "next_scan": "2026-11-07T20:00:00-06:00",
+  "last_scan": "2026-11-07T20:10:00-06:00",
+  "next_scan": "2026-11-08T08:00:00-06:00",
   "activity": [
    "No new open campaigns; Pond S2 still skipped",
-   "Tracked accounts quiet since noon except @soqucoin LuxxPool quote (not a milestone) and @ama_protocol product post",
+   "Tracked accounts quiet since 4 PM (no original posts); @NousResearch replies/RTs only",
    "Fraction AI: still no @FractionAI_xyz Nov 11 confirmation (0 TGE/Nov11 posts since Nov 1)",
-   "Quip fee waiver ends Sun 11/8 (~8h) — DUE SOON; Points still live",
+   "Quip fee waiver ends Sun 11/8 (~28h, official: through Nov 8) — DUE SOON; Points still live",
    "Soqucoin next = SOQUPOOL Wed 11/19; CG still NonKYC+SafeTrade",
-   "SafeTrade: 47 bases (−PLS vs noon 48); no AI/quantum niche adds; @safetrade silent",
-   "Keyword hits mostly Asentum farm / FALQBIT / LAYERAI / pump.fun spam"
+   "SafeTrade: 48 bases (+SOH/Stohn Coin vs 4 PM 47); SOH off-niche; no AI/quantum niche adds; @safetrade silent",
+   "Keyword hits mostly Asentum farm spam; TRON TIP-899 / HKMA PQC toolkit commentary only"
   ],
-  "x_reads_left_today": 896
+  "x_reads_left_today": 992
  },
  "watchlist": [
   {
@@ -340,7 +340,7 @@
    ],
    "upgrade_if": "Dated TGE, audit, mainnet",
    "downgrade_if": "More TGE slips",
-   "last_update": "2026-11-07T16:05:00-06:00",
+   "last_update": "2026-11-07T20:10:00-06:00",
    "price": null,
    "logo": "logos/quip-network.png",
    "website": "https://quip.network"
@@ -385,7 +385,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token",
-   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA, still not confirmed by @FractionAI_xyz on X as of Sat 11/7 4 PM CT)",
+   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA, still not confirmed by @FractionAI_xyz on X as of Sat 11/7 8 PM CT)",
    "milestone_date": "2026-11-11T23:59:00-06:00",
    "links": [
     {
@@ -395,7 +395,7 @@
    ],
    "upgrade_if": "Official Nov 11 confirmation",
    "downgrade_if": "Date moves",
-   "last_update": "2026-11-07T16:05:00-06:00",
+   "last_update": "2026-11-07T20:10:00-06:00",
    "price": null,
    "logo": "logos/fraction-ai.png",
    "website": "https://fractionai.xyz",
@@ -1023,9 +1023,16 @@
    "score": 18,
    "reason": "Low-signal staking/airdrop hype on already-live token; not a new launch",
    "at": "2026-11-07T16:05:00-06:00"
+  },
+  {
+   "name": "Asentum (farm spam)",
+   "theme": "Quantum",
+   "score": 12,
+   "reason": "Continued low-follower 'farming asentum airdrop on post-quantum chain' referral spam in 8 PM keywords",
+   "at": "2026-11-07T20:10:00-06:00"
   }
  ],
- "snapshot_note": "4 PM lean scan Sat 11/7 ~16:05 CT. Quiet window. Quip fee waiver ends Sun 11/8 (~8h). Fraction Nov 11 still filing-only. SafeTrade 47 bases (−PLS). Not financial advice.",
+ "snapshot_note": "8 PM lean scan Sat 11/7 ~20:10 CT. Quiet window. Quip fee waiver ends Sun 11/8 (~28h). Fraction Nov 11 still filing-only. SafeTrade 48 bases (+SOH off-niche). Not financial advice.",
  "deadlines": [
   {
    "project": "Fraction AI",
