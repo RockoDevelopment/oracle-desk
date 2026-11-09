@@ -1,19 +1,18 @@
 {
- "generated_at": "2026-11-09T12:20:00-06:00",
+ "generated_at": "2026-11-09T16:10:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-09T12:20:00-06:00",
-  "next_scan": "2026-11-09T16:00:00-06:00",
+  "last_scan": "2026-11-09T16:10:00-06:00",
+  "next_scan": "2026-11-09T20:00:00-06:00",
   "activity": [
-   "Quantus: QTC/USDT spot trading live on Bitrue since about 2:00 AM CT (Bitrue official, quoted by @QuantusNetwork). CEX listing; DEX route unchanged (Rhea, NEAR)",
-   "Quip: GetBlock joined the Quip testnet as a validator (official both sides); no audit or TGE date",
-   "DAC Chain: official 'Interstellar' points loop live at interstellar.dachain.io (QE points, Quantum Crates, Launch Code invites). New open campaign, unvetted project (score 48)",
-   "GenLayer AMA happened 8 AM CT; no TGE date, token address or audit posted afterward",
-   "Soqucoin: official NIST PQ transition roadmap post (no milestone)",
-   "Rejected: Kalyx token CA before testnet, Elysium/Montra AI agent swarm shills, LOXLEY Robinhood Chain agent token",
-   "SafeTrade: 51 bases, unchanged since morning; all off-niche; @safetrade silent"
+   "Quip: official post says 28,000+ Quip Accounts (post-quantum wallets) created; no TGE date or audit",
+   "Quantus: official post cites Ethereum moving its post-quantum deadline to Dec 2028 (commentary, no milestone)",
+   "Third party: Voi v42 live on mainnet with native Falcon-1024 accounts (radar only, no new token)",
+   "Asentum airdrop-farm spam continues from tiny accounts; still rejected",
+   "SafeTrade: 51 bases, unchanged; @safetrade silent",
+   "Watchlist accounts checked: Quantus, Quip, DAC, Soqucoin, GenLayer, Ritual, Fraction AI, Flop, Axis, Crynux, DATA, Dataline: no other new posts since noon"
   ],
-  "x_reads_left_today": 985
+  "x_reads_left_today": 983
  },
  "watchlist": [
   {
