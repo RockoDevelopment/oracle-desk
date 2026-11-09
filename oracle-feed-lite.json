@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-09T08:15:00-06:00",
+ "generated_at": "2026-11-09T12:20:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-09T08:15:00-06:00",
-  "next_scan": "2026-11-09T12:00:00-06:00",
+  "last_scan": "2026-11-09T12:20:00-06:00",
+  "next_scan": "2026-11-09T16:00:00-06:00",
   "activity": [
-   "GenLayer official AMA started 8:00 AM CT (POAP on official portal); no TGE date, token address or audit announced",
-   "Quip fee waiver ended Sun 11/8 23:59 CT; Points still live; no audit or TGE date posted",
-   "OptimAI: official @OptimaiNetwork says 'Plot Twist' (OPI Points, six levels) opens soon; Island points pool already fully claimed. New lead, AIRDROP BOT notified via report",
-   "Quantus ~$57.55 (-10% day on CoinGecko); founder article 'Going Direct. Quantus Update' posted 2:31 AM CT (full text not readable); Quantus GitHub chain repo pushed overnight",
-   "Bittensor Release 487 adds ML-DSA-65 / Falcon-512 / Falcon-1024 wallets (TAO, established chain); Starknet PQ roadmap and Stellar Bell (P30) testnet live, mainnet vote Mon 11/23 (narratives, not launches)",
-   "SafeTrade: 51 bases on CoinGecko (+PLS/ARRR/URX/ZER/ZCL/EVR flicker vs baseline 45); all off-niche; @safetrade silent",
-   "No Pond S2 (skipped per owner)"
+   "Quantus: QTC/USDT spot trading live on Bitrue since about 2:00 AM CT (Bitrue official, quoted by @QuantusNetwork). CEX listing; DEX route unchanged (Rhea, NEAR)",
+   "Quip: GetBlock joined the Quip testnet as a validator (official both sides); no audit or TGE date",
+   "DAC Chain: official 'Interstellar' points loop live at interstellar.dachain.io (QE points, Quantum Crates, Launch Code invites). New open campaign, unvetted project (score 48)",
+   "GenLayer AMA happened 8 AM CT; no TGE date, token address or audit posted afterward",
+   "Soqucoin: official NIST PQ transition roadmap post (no milestone)",
+   "Rejected: Kalyx token CA before testnet, Elysium/Montra AI agent swarm shills, LOXLEY Robinhood Chain agent token",
+   "SafeTrade: 51 bases, unchanged since morning; all off-niche; @safetrade silent"
   ],
-  "x_reads_left_today": 992
+  "x_reads_left_today": 985
  },
  "watchlist": [
   {
@@ -55,7 +55,7 @@
    ],
    "market_cap": 18791421,
    "volume_24h": 1193817,
-   "dex_route": "Rhea Finance (NEAR) qtc.omft.near; Rhea Quantus↔NEAR bridge live (app.rhea.finance/bridge, announced by @rhea_finance Sun 11/8). InstaSwap via NEAR Intents. Solana/Base QTC tokens are look-alike",
+   "dex_route": "Rhea Finance (NEAR) qtc.omft.near; Rhea Quantus↔NEAR bridge live (app.rhea.finance/bridge). InstaSwap via NEAR Intents. CEX: Bitrue QTC/USDT live Mon 11/9 (CEX, not DEX). Solana/Base QTC tokens are look-alike",
    "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official). Coming to @Chance_ (undated). YuviLightman EVM PQ-accounts paper published Wed 11/5 (official)",
    "milestone_date": "2026-12-01T23:59:00-06:00",
    "links": [
@@ -70,11 +70,15 @@
     {
      "label": "CoinMarketCap",
      "url": "https://coinmarketcap.com/currencies/quantus/"
+    },
+    {
+     "label": "Bitrue listing (official)",
+     "url": "https://x.com/BitrueOfficial/status/2119701536834253236"
     }
    ],
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
-   "last_update": "2026-11-09T12:08:55-06:00",
+   "last_update": "2026-11-09T12:20:00-06:00",
    "price": 56.51,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
@@ -340,7 +344,7 @@
    ],
    "upgrade_if": "Dated TGE, audit, mainnet",
    "downgrade_if": "More TGE slips",
-   "last_update": "2026-11-09T08:15:00-06:00: fee waiver ended; Points still live; no audit/TGE date",
+   "last_update": "2026-11-09T12:20:00-06:00",
    "price": null,
    "logo": "logos/quip-network.png",
    "website": "https://quip.network"
@@ -768,12 +772,12 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "Base DACT pair not linked by DAC",
-   "next_milestone": "AMA with CIO Davide Costa Fri 11/20 (third-party, time TBA); TGE Sun 11/22 00:00 UTC (Sat 11/21 6 PM CT) reported by many accounts, not posted by @dac_chain",
+   "next_milestone": "AMA with CIO Davide Costa Fri 11/20 (third-party, time TBA); TGE Sun 11/22 00:00 UTC (Sat 11/21 6 PM CT) reported by many accounts, not posted by @dac_chain. Interstellar points loop live since Mon 11/9 (official)",
    "milestone_date": "2026-11-20T23:59:00-06:00",
    "links": [],
    "upgrade_if": "Official dated TGE + verified token address",
    "downgrade_if": "Second missed date",
-   "last_update": "2026-11-05T08:30:00-06:00",
+   "last_update": "2026-11-09T12:20:00-06:00",
    "price": null,
    "logo": "logos/dac-chain.png",
    "website": "https://www.dachain.tech"
@@ -842,6 +846,30 @@
  ],
  "prelaunch_updates": [
   {
+   "project": "DAC Chain",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "OPEN CAMPAIGN: official 'Interstellar' points loop is live at interstellar.dachain.io. Earn QE from Priority Directives, upgrade a chip, open Quantum Crates; entry asks for a Launch Code (invite). Token, TGE date and token address still not posted by @dac_chain. Project scores 48 (below WATCH); any DACT token now is unconfirmed.",
+   "at": "2026-11-09T12:20:00-06:00",
+   "url": "https://x.com/dac_chain/status/2119823913668804899"
+  },
+  {
+   "project": "Quip Network",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "GetBlock joined the Quip testnet as a validator (posted by both @getblockio and @quipnetwork). Validators dual-sign with sr25519 + FN-DSA-512 (Falcon). No audit, mainnet or TGE date yet.",
+   "at": "2026-11-09T12:20:00-06:00",
+   "url": "https://x.com/quipnetwork/status/2119818566463521223"
+  },
+  {
+   "project": "Quantus",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "QTC/USDT spot trading live on Bitrue (Bitrue official, about 2:00 AM CT Mon 11/9; quoted by @QuantusNetwork). CEX listing; DEX route is still Rhea on NEAR. On Bitrue, QTC means Quantus (on SafeTrade, QTC is another project).",
+   "at": "2026-11-09T12:20:00-06:00",
+   "url": "https://x.com/BitrueOfficial/status/2119701536834253236"
+  },
+  {
    "project": "GenLayer",
    "theme": "AI",
    "source_type": "official",
@@ -896,30 +924,6 @@
    "text": "Official Sat 11/7: \"Devnet is out, Testnet date to be announced\" (quotes Hayes: announce Testnet date next week; maximise earnings during Testnet / airdrop period). Devnet still no rewards.",
    "at": "2026-11-07T08:05:00-06:00",
    "url": "https://x.com/flop_labs/status/2118983608816013660"
-  },
-  {
-   "project": "Quip Network",
-   "theme": "Quantum",
-   "source_type": "official",
-   "text": "Official: SIGMA Rome wrap (booth/QVRF awareness) + qwned quantum address exposure checker promo. Not a new campaign; Points still live; fee waiver still ends Sun 11/8.",
-   "at": "2026-11-06T16:10:00-06:00",
-   "url": "https://x.com/quipnetwork/status/2118827012877946961"
-  },
-  {
-   "project": "GenLayer",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "Official Fri 11/6: at mainnet the Foundation will back validators with its own GEN; Pre-Mainnet Staking decides who gets those node seats. Season 2 points still open until mainnet. Launch day still undated.",
-   "at": "2026-11-06T08:30:00-06:00",
-   "url": "https://x.com/GenLayer/status/2118673435052396744"
-  },
-  {
-   "project": "Quip Network",
-   "theme": "Quantum",
-   "source_type": "official",
-   "text": "CTO @rcarback at Bloccelerate Founder Summit Fri 11/6 NYC (quantum vs AI debate). Quip Points still live (points.quip.network). Fee waiver ends Sun 11/8.",
-   "at": "2026-11-06T08:30:00-06:00",
-   "url": "https://x.com/quipnetwork/status/2118407685779689840"
   }
  ],
  "digest": {
@@ -963,6 +967,27 @@
  },
  "rejections": [
   {
+   "name": "Kalyx (KALYX)",
+   "theme": "Quantum",
+   "score": 15,
+   "reason": "Token CA posted before any testnet; 59-follower account, no named team, PQ claims unconfirmed",
+   "at": "2026-11-09T12:20:00-06:00"
+  },
+  {
+   "name": "Elysium / Montra 'AI agent swarm'",
+   "theme": "AI",
+   "score": 8,
+   "reason": "Coordinated shill posts for a launchpad token before a $MONTRA airdrop; memecoin, no product",
+   "at": "2026-11-09T12:20:00-06:00"
+  },
+  {
+   "name": "LOXLEY",
+   "theme": "AI",
+   "score": 10,
+   "reason": "28-follower AI agent token on Robinhood Chain launched with CA; no team or audit",
+   "at": "2026-11-09T12:20:00-06:00"
+  },
+  {
    "name": "Quantum Landmine (QMINE)",
    "theme": "Quantum",
    "score": 5,
@@ -996,16 +1021,9 @@
    "score": 20,
    "reason": "Launch-day token post for an AI-agent budget tool; no audit, verified team or public code found yet",
    "at": "2026-11-09T08:15:00-06:00"
-  },
-  {
-   "name": "Theoriq (THQ)",
-   "theme": "AI",
-   "score": 0,
-   "reason": "Stale shill posts: THQ airdrop and testnet XP campaign already ran in 2025; not an open campaign",
-   "at": "2026-11-09T08:15:00-06:00"
   }
  ],
- "snapshot_note": "Noon scan Sun 11/8 ~12:10 CT. No priority (0/3). GenLayer AMA Mon 11/9 8:00 AM CT + portal POAP. Rhea Quantus↔NEAR QTC bridge live (venue). Soqucoin restated pSOQ/Solana + planned BTC/ETH/Cosmos gateways. SafeTrade 45 bases (+XPM/−EVR/−ZCL, off-niche). Not financial advice.",
+ "snapshot_note": "Noon scan Mon 11/9 ~12:10 CT. No priority (0/3). Quantus QTC live on Bitrue (CEX). Quip adds GetBlock as testnet validator. DAC Chain Interstellar points loop live (open campaign, unvetted). SafeTrade 51 bases, off-niche. Not financial advice.",
  "deadlines": [
   {
    "project": "Fraction AI",
