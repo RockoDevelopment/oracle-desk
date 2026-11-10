@@ -1,16 +1,15 @@
 {
- "generated_at": "2026-11-09T16:10:00-06:00",
+ "generated_at": "2026-11-09T20:15:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-09T16:10:00-06:00",
-  "next_scan": "2026-11-09T20:00:00-06:00",
+  "last_scan": "2026-11-09T20:15:00-06:00",
+  "next_scan": "2026-11-10T08:00:00-06:00",
   "activity": [
-   "Quip: official post says 28,000+ Quip Accounts (post-quantum wallets) created; no TGE date or audit",
-   "Quantus: official post cites Ethereum moving its post-quantum deadline to Dec 2028 (commentary, no milestone)",
-   "Third party: Voi v42 live on mainnet with native Falcon-1024 accounts (radar only, no new token)",
-   "Asentum airdrop-farm spam continues from tiny accounts; still rejected",
-   "SafeTrade: 51 bases, unchanged; @safetrade silent",
-   "Watchlist accounts checked: Quantus, Quip, DAC, Soqucoin, GenLayer, Ritual, Fraction AI, Flop, Axis, Crynux, DATA, Dataline: no other new posts since noon"
+   "GenLayer: new fake 'GEN' token on BNB Chain (0xdfb29E72...) is being shilled as an airdrop. GenLayer has posted no official token address; treat every GEN token as a scam until it does",
+   "Fraction AI: still no official confirmation of the Wed 11/11 TGE from @FractionAI_xyz",
+   "DAC Chain: third-party posts repeat a Sat 11/21 6 PM CT TGE from vesting data; @dac_chain has not posted it",
+   "SafeTrade: 51 listed coins, unchanged since noon; no new AI or quantum listings",
+   "Asentum post-quantum 'airdrop farm' spam continues (rejected)"
   ],
   "x_reads_left_today": 983
  },
@@ -965,6 +964,13 @@
   ]
  },
  "rejections": [
+  {
+   "name": "Fake GenLayer 'GEN' on BNB Chain",
+   "theme": "AI",
+   "score": 5,
+   "reason": "look-alike token [address hidden] shilled as an 'airdrop watch' by copy-paste accounts; GenLayer has posted no official token address",
+   "at": "2026-11-09T20:15:00-06:00"
+  },
   {
    "name": "Kalyx (KALYX)",
    "theme": "Quantum",
