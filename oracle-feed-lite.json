@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-10T08:15:00-06:00",
+ "generated_at": "2026-11-10T12:05:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-10T08:15:00-06:00",
-  "next_scan": "2026-11-10T12:00:00-06:00",
+  "last_scan": "2026-11-10T12:05:00-06:00",
+  "next_scan": "2026-11-10T16:00:00-06:00",
   "activity": [
-   "Fraction AI: TGE Wed 11/11 (MiCA filing) is tomorrow and @FractionAI_xyz still has not posted it; any FRAC token before an official post is unconfirmed",
-   "Flop: Arthur Hayes promoted free AI compute on Flop; GitHub very active overnight (98 events, 44 contributors); testnet date still not posted",
-   "Ritual down about 22% on the day ($0.0394, range $0.0351 to $0.0587) after the weekend run-up; still exchange-only, no audit",
-   "Quantum news: XRP Ledger Foundation plans opt-in ML-DSA-44 keys (study 2027, rollout targeted 2028); Voi recorded its first Falcon-1024 mainnet transaction",
-   "SafeTrade: 47 listed coins (51 at 8 PM), only off-niche coins came and went; @safetrade posted nothing overnight",
-   "Gaia gaiaPoints checked for AIRDROP BOT: points page live, but GAIA already trades and no new reward has been announced"
+   "Fraction AI: still no TGE post from @FractionAI_xyz for Wed 11/11 (MiCA filing only; third-party calendars repeat it). Any FRAC token before an official post is unconfirmed",
+   "Quantus teased a trip \"somewhere sunny\" (likely the Dubai Blockchain Life Forum 12/1); DAC at Digital Asset Summit Switzerland, still no official TGE post",
+   "Quip: GetBlock joined as a testnet validator (community posts); Soqucoin pitched its ML-DSA-44 signatures against the NIST FIPS deadline",
+   "SafeTrade: 45 listed coins; Primecoin (XPM, off-niche) added, Crynux CNX dropped out of the tickers again; @safetrade posted nothing new",
+   "Rejected: Synergy Network SNRG (staged presale with price steps), SOEI (unconfirmed planned airdrop for posting)"
   ],
-  "x_reads_left_today": 986
+  "x_reads_left_today": 981
  },
  "watchlist": [
   {
@@ -388,7 +387,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token",
-   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA). Still not confirmed by @FractionAI_xyz on X as of Tue 11/10 8 AM CT; no token address, venues or allocations posted",
+   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA). Still not confirmed by @FractionAI_xyz on X as of Tue 11/10 noon CT; no token address, venues or allocations posted",
    "milestone_date": "2026-11-11T23:59:00-06:00",
    "links": [
     {
@@ -398,7 +397,7 @@
    ],
    "upgrade_if": "Official Nov 11 confirmation",
    "downgrade_if": "Date moves",
-   "last_update": "2026-11-10T08:15:00-06:00",
+   "last_update": "2026-11-10T12:05:00-06:00",
    "price": null,
    "logo": "logos/fraction-ai.png",
    "website": "https://fractionai.xyz",
@@ -606,7 +605,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "NO TOKEN EXISTS; any FLOP is a scam",
-   "next_milestone": "Testnet date to be announced (official Sat 11/7 said the week of Mon 11/9; no date posted as of Tue 11/10 8 AM CT). Devnet has no rewards; any FLOP token is a scam",
+   "next_milestone": "Testnet date to be announced (official Sat 11/7 said the week of Mon 11/9; no date posted as of Tue 11/10 noon CT). Devnet has no rewards; any FLOP token is a scam",
    "milestone_date": null,
    "links": [
     {
@@ -620,7 +619,7 @@
    ],
    "upgrade_if": "Testnet live on schedule",
    "downgrade_if": "Delays; look-alike tokens",
-   "last_update": "2026-11-10T08:15:00-06:00",
+   "last_update": "2026-11-10T12:05:00-06:00",
    "price": null,
    "logo": "logos/flop-network.png",
    "website": "https://flop.finance"
@@ -1020,6 +1019,20 @@
    "score": 18,
    "reason": "Repeat: trade-and-refer points airdrop with 30% referral commission; trade-only, referral-driven",
    "at": "2026-11-10T08:15:00-06:00"
+  },
+  {
+   "name": "Synergy Network (SNRG)",
+   "theme": "Quantum",
+   "score": 15,
+   "reason": "Staged presale (8 stages, price steps every 30 days) pushed by paid shill accounts; mainnet only targeted 2027",
+   "at": "2026-11-10T12:05:00-06:00"
+  },
+  {
+   "name": "SOEI",
+   "theme": "AI",
+   "score": 10,
+   "reason": "\"Planned airdrop\" for posting, unconfirmed, low-follower promo posts only",
+   "at": "2026-11-10T12:05:00-06:00"
   }
  ],
  "snapshot_note": "Morning report Tue 11/10 ~8:15 AM CT. No priority (0/3). Fraction AI TGE (filing) Wed 11/11 still unconfirmed. Flop testnet date pending. Ritual -22% day. SafeTrade 47 bases, off-niche only. Not financial advice.",
