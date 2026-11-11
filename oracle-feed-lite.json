@@ -1,15 +1,14 @@
 {
- "generated_at": "2026-11-10T16:05:00-06:00",
+ "generated_at": "2026-11-10T20:00:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-10T16:05:00-06:00",
-  "next_scan": "2026-11-10T20:00:00-06:00",
+  "last_scan": "2026-11-10T20:00:00-06:00",
+  "next_scan": "2026-11-11T08:00:00-06:00",
   "activity": [
    "Fraction AI: still no TGE post from @FractionAI_xyz for Wed 11/11 (MiCA filing only). Any FRAC token before an official post is unconfirmed",
-   "Soqucoin: SoquShield wallet now live on the Apple App Store (official); GenLayer posted only replies",
-   "New quantum radar (no rewards, not scored up): Qubits (@QubitsSH, 3-day-old anonymous account, one-validator ML-DSA-65 chain) and Blockula (PQ demo chain by @JackDishman)",
-   "SafeTrade: 47 listed coins; Pirate Chain (ARRR) and PulseChain (PLS) added, both off-niche; @safetrade posted nothing new",
-   "Rejected: Qubits (anonymous, account 3 days old, 0x address in bio before any launch details), Synergy SNRG presale repeat"
+   "Flop: a third-party post says testnet opens this week; @flop_labs has not posted a date",
+   "Quantum narrative: Metis Hybrid Rollup live on Devnet with a stated post-quantum path (official @MetisL2); Qozmo WOTS wallet verification on Robinhood Testnet (new small account, radar only)",
+   "SafeTrade: 46 listed coins (EVR dropped, off-niche); no new AI or quantum listings"
   ],
   "x_reads_left_today": 976
  },
@@ -972,6 +971,13 @@
   ]
  },
  "rejections": [
+  {
+   "name": "Asentum airdrop farm posts",
+   "theme": "Quantum",
+   "score": 12,
+   "reason": "Repeat copy-paste 'Farming the @asentum airdrop' referral spam from tiny accounts; no new official info",
+   "at": "2026-11-10T20:00:00-06:00"
+  },
   {
    "name": "Qubits (@QubitsSH)",
    "theme": "Quantum",
