@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-11T12:05:00-06:00",
+ "generated_at": "2026-11-11T16:00:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-11T12:05:00-06:00",
-  "next_scan": "2026-11-11T16:00:00-06:00",
+  "last_scan": "2026-11-11T16:00:00-06:00",
+  "next_scan": "2026-11-11T20:00:00-06:00",
   "activity": [
-   "GenLayer (official): node seats go by Staking Points from a snapshot shortly before mainnet; needs 30 days on Clarke testnet; staking opens on launch day (undated)",
-   "Quip (official): unified app with accounts, swaps and points is live",
-   "Fraction AI: still no official TGE post as of noon CT on its MiCA date",
-   "Quantum narrative: Stacks completed a post-quantum (Lamport) sBTC transfer on mainnet; American Fortress says market maker Cicada is backing it",
-   "SafeTrade: 49 listed coins (SAFE back); no new AI or quantum listings"
+   "Fraction AI: still no official TGE post as of 4 PM CT on its MiCA date",
+   "Crynux (official): API Key Sharing is live on Crynux AI Services, with Claude Fable 5.2 available",
+   "Quantum narrative: NEAR Mobile now offers post-quantum vaults that sign with ML-DSA (official @NEARProtocol); Stacks post-quantum sBTC transfer coverage continues",
+   "American Fortress: reshared the Cicada market-maker partnership and is hosting a quantum Space; no TGE date",
+   "SafeTrade: 51 listed coins (EVR back); no new AI or quantum listings"
   ],
-  "x_reads_left_today": 985
+  "x_reads_left_today": 982
  },
  "watchlist": [
   {
@@ -411,7 +411,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token",
-   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA). No post from @FractionAI_xyz as of Wed 11/11 noon CT; no token address, venues or allocations",
+   "next_milestone": "TGE Wed 11/11 per MiCA white paper (time TBA). No TGE post from @FractionAI_xyz as of Wed 11/11 4 PM CT; no token address, venues or allocations. Any FRAC token before an official post is a scam",
    "milestone_date": "2026-11-11T23:59:00-06:00",
    "links": [
     {
@@ -704,7 +704,7 @@
    "market_cap": 1344595,
    "volume_24h": 954.23,
    "dex_route": "Uniswap v4 (Base) [address hidden] (thin)",
-   "next_milestone": "AI API key-sharing marketplace (previewed Wed 10/28, undated); AI chat app on Crynux GPUs (undated)",
+   "next_milestone": "AI chat app on Crynux GPUs (undated). API Key Sharing marketplace went live Wed 11/11 with Claude Fable 5.2 on Crynux AI Services (official)",
    "milestone_date": null,
    "links": [],
    "upgrade_if": "Deeper liquidity, audit",
@@ -1046,7 +1046,7 @@
    "at": "2026-11-11T12:05:00-06:00"
   }
  ],
- "snapshot_note": "Noon scan Wed 11/11 ~12:05 PM CT. No priority (0/3). GenLayer node-seat rules posted; Quip unified app live; Fraction AI TGE still unconfirmed by the project. Not financial advice.",
+ "snapshot_note": "4 PM scan Wed 11/11 ~4:00 PM CT. No priority (0/3). Crynux API key sharing live; NEAR Mobile ML-DSA vaults; Fraction AI TGE still unconfirmed by the project. Not financial advice.",
  "deadlines": [
   {
    "project": "Fraction AI",
