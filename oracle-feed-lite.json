@@ -7,7 +7,7 @@
   "activity": [
    "Fraction AI: TGE day per its MiCA filing, but @FractionAI_xyz has still not posted a time, token address or venues. Any FRAC token before an official post is unconfirmed",
    "Flop: official clip of Arthur Hayes' third interview (agents holding FLOP to buy compute); GitHub 95 events from 29 contributors overnight; testnet date still not posted",
-   "GenLayer: Mission 100 quote-post card closes Thu 11/12 6:00 AM CT per AIRDROP BOT (unconfirmed); wording still awaits the owner's approval",
+   "GenLayer: Mission 100 quote post submitted and pending review; Justice accepted (+500 CP, now 2,500 CP) per AIRDROP BOT",
    "Quantum: Quantus GPU mining push (official); Soqucoin up about 10%; Retium PQ testnet added to radar",
    "SafeTrade: 50 listed coins (+CNX Crynux back, +FLUX, +SOH, +ZER; -SAFE); no new AI or quantum launches"
   ],
@@ -987,7 +987,7 @@
    },
    {
     "name": "GenLayer",
-    "why": "Closest AI near-miss (71). The Mission 100 quote-post card closes Thu 11/12 6:00 AM CT per AIRDROP BOT, with the wording still waiting on your approval. GitHub had 21 events from 7 contributors overnight.",
+    "why": "Closest AI near-miss (71). The Mission 100 quote post is submitted and pending review (AIRDROP BOT). GitHub had 21 events from 7 contributors overnight.",
     "logo": "logos/genlayer.png",
     "url": "https://genlayer.com"
    },
@@ -1074,16 +1074,6 @@
    "type": "Mainnet",
    "date": "2026-11-19T10:00:00-06:00",
    "url": "https://x.com/soqucoin/status/2118443640540520852",
-   "status": "open"
-  },
-  {
-   "project": "GenLayer",
-   "theme": "AI",
-   "title": "Mission 100 quote post — wording awaits owner approval (campaign-card deadline reported by AIRDROP BOT; unconfirmed)",
-   "type": "Airdrop",
-   "date": "2026-11-12T06:00:00-06:00",
-   "approx": true,
-   "url": "https://portal.genlayer.foundation",
    "status": "open"
   }
  ],
