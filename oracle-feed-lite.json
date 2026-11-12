@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-12T08:10:00-06:00",
+ "generated_at": "2026-11-12T12:05:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-12T08:10:00-06:00",
-  "next_scan": "2026-11-12T12:00:00-06:00",
+  "last_scan": "2026-11-12T12:05:00-06:00",
+  "next_scan": "2026-11-12T16:00:00-06:00",
   "activity": [
-   "GenLayer posted a GEN 'Coming Soon' teaser (official, undated); still no launch day, audit or token address",
-   "Fraction AI's MiCA TGE date (Wed 11/11) passed with no official post; TGE now undated",
-   "TermiX's game-building AI agent went live on agent.family (official)",
-   "Ritual +57% on the day with no official news; Soqucoin +46%; Quantus -7.6%",
-   "SafeTrade: 53 listed coins (URX, DAI added); no new AI or quantum listings",
-   "Rejected: Qurve (QURVE) airdrop with 30% referral commissions"
+   "Quantus: QTC now trades on Solana through Raydium via NEAR Intents (official). Use only the in-app route; new pump.fun QTC copies appeared today",
+   "Soqucoin: founder Casey Wilson named publicly and joins Luxxfolio's advisory board (confirmed by both); score 65 to 68",
+   "GenLayer, Quip and DAC posted explainers only; no dates, tokenomics or points changes",
+   "SafeTrade: 53 listed coins, unchanged; no new AI or quantum listings",
+   "Radar: Fhenix quantum-safe FHE on Arbitrum (AMA Mon 11/17); Stacks post-quantum sBTC test transfer (narrative)"
   ],
-  "x_reads_left_today": 987
+  "x_reads_left_today": 984
  },
  "watchlist": [
   {
@@ -62,7 +61,7 @@
    ],
    "market_cap": 16979827,
    "volume_24h": 941348,
-   "dex_route": "Rhea Finance (NEAR) qtc.omft.near; Rhea Quantus↔NEAR bridge live (app.rhea.finance/bridge). InstaSwap via NEAR Intents. CEX: Bitrue QTC/USDT live Mon 11/9 (CEX, not DEX). Solana/Base QTC tokens are look-alike",
+   "dex_route": "Rhea Finance (NEAR) qtc.omft.near; Raydium (Solana) via NEAR Intents, live Thu 11/12 (official; Solana mint not posted by Quantus, verify in-app). CEX: Bitrue QTC/USDT. pump.fun and Base QTC tokens are look-alike",
    "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official). Coming to @Chance_ (undated)",
    "milestone_date": "2026-12-01T23:59:00-06:00",
    "links": [
@@ -81,11 +80,15 @@
     {
      "label": "Bitrue listing (official)",
      "url": "https://x.com/BitrueOfficial/status/2119701536834253236"
+    },
+    {
+     "label": "Solana/Raydium launch (official)",
+     "url": "https://x.com/QuantusNetwork/status/2120935453100581023"
     }
    ],
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
-   "last_update": "2026-11-12T11:08:51-06:00",
+   "last_update": "2026-11-12T12:05:00-06:00",
    "price": 50.21,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
@@ -457,7 +460,7 @@
    "theme": "Quantum",
    "stage": "live",
    "tier": "WATCH",
-   "score": 65,
+   "score": 68,
    "score_history": [
     {
      "date": "2026-10-22",
@@ -509,7 +512,7 @@
     },
     {
      "date": "2026-11-12",
-     "score": 65
+     "score": 68
     }
    ],
    "market_cap": 1339288,
@@ -545,11 +548,15 @@
     {
      "label": "Neoxa listing (official)",
      "url": "https://x.com/soqucoin/status/2116943549589852335"
+    },
+    {
+     "label": "Luxxfolio: founder Casey Wilson joins advisory board",
+     "url": "https://x.com/LuxxfolioH/status/2120889143274119315"
     }
    ],
-   "upgrade_if": "Identifiable founders, DEX liquidity",
+   "upgrade_if": "DEX liquidity, CMC listing, audit",
    "downgrade_if": "Pool centralization returns or partner claims don't hold up",
-   "last_update": "2026-11-12T11:08:51-06:00",
+   "last_update": "2026-11-12T12:05:00-06:00",
    "price": 0.00028195,
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
