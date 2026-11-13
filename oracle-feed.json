@@ -10,7 +10,8 @@
    "No new official posts from Quantus, Quip, GenLayer, Ritual, DATA, Crynux, Axis or Verona overnight",
    "Quantus -8.9%, Ritual -11.9% (giving back Thursday's jump), Soqucoin -4.6%",
    "SafeTrade: 50 listed coins; no new AI or quantum listings",
-   "Rejected: fake Solana FLOP token, Qurve airdrop (repeat), makefun $MAKE airdrop promos"
+   "Rejected: fake Solana FLOP token, Qurve airdrop (repeat), makefun $MAKE airdrop promos",
+   "AIRDROP BOT sweep 11/13: no new campaigns; TermiX and Quip waiting on the wallet"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
@@ -1829,7 +1830,7 @@
   {
    "project": "TermiX",
    "theme": "AI",
-   "what": "TermiX Points: 1,400 TP (last known, AIRDROP BOT Nov 12); all free tasks credited. Remaining earning is paid jobs only.",
+   "what": "TermiX Points: 1,400 TP (last known); all free tasks credited, remaining earning is paid jobs only. Signed out as of Nov 13; signing back in needs the wallet. AIRDROP BOT Nov 13.",
    "ends": null,
    "url": "https://www.agent.family/points",
    "points_earned": 1400
@@ -1837,7 +1838,7 @@
   {
    "project": "GenLayer",
    "theme": "AI",
-   "what": "Season 2: 2,000 CP (last portal total AIRDROP BOT read, Nov 8); Justice accepted for 500 CP since then, new total not yet re-read. Mission 100 / GEN Before Mainnet quote post was rejected and that mission has ended. Mochi Telegram (+1,000) still open. New missions skipped: CMC community post (needs a $GEN cashtag) and Internet Court Partner Demo Lab (needs a build and video). AIRDROP BOT Nov 12, not independently verified.",
+   "what": "Season 2: 2,000 CP (last portal total AIRDROP BOT read, Nov 8); Justice accepted for 500 CP since then, new total not yet re-read. Mission 100 / GEN Before Mainnet was rejected and has ended. Mochi Telegram (+1,000) and CoinGecko (+1,500) still open. No new free missions. AIRDROP BOT Nov 13, not independently verified.",
    "ends": null,
    "url": "https://portal.genlayer.foundation",
    "points_earned": 2000
@@ -1845,7 +1846,7 @@
   {
    "project": "Quip Network",
    "theme": "Quantum",
-   "what": "Quip Points: 40 QP (sign-in 18 / paper swaps 22), rank #6,172 (rank 100 is about 12,616 QP), last read Nov 11. The points page has moved to app.quip.network behind a wallet connection, so the Nov 12 read failed; daily sign-ins and paper swaps waiting on a wallet unlock. Points remains live. AIRDROP BOT Nov 12.",
+   "what": "Quip Points: 40 QP (sign-in 18 / paper swaps 22), rank #6,172 (rank 100 is about 12,616 QP), last read Nov 11. The points page has moved to app.quip.network behind a wallet connection; Nov 12 and 13 sign-ins and paper swaps not done while the wallet is locked. AIRDROP BOT Nov 13.",
    "ends": null,
    "url": "https://app.quip.network",
    "points_earned": 40
