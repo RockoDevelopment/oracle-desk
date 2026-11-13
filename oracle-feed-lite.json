@@ -2,15 +2,15 @@
  "generated_at": "2026-11-12T20:00:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-12T16:00:00-06:00",
-  "next_scan": "2026-11-12T20:00:00-06:00",
+  "last_scan": "2026-11-12T20:00:00-06:00",
+  "next_scan": "2026-11-13T08:00:00-06:00",
   "activity": [
-   "Quip: developer docs now available through a public MCP server for coding agents (official); no TGE, tokenomics or points changes",
-   "Soqucoin: reshared coverage of founder Casey Wilson joining Luxxfolio's advisory board; score holds at 68",
-   "GenLayer, Fraction AI, Flop, TermiX and DAC posted nothing new since noon; all still have no official token token address, so any token using their names is a scam",
+   "No new official posts from Quantus, Quip, Soqucoin, DAC, GenLayer, Fraction AI, Flop or TermiX since 4 PM; DATA Foundation only reshared a dataset release",
+   "Radar only: Frame testnet .frame names with post-quantum sends (no token event)",
+   "Pre-launch projects still have no official token token address, so any token using their names is a scam",
    "SafeTrade: 51 listed coins; no new AI or quantum listings"
   ],
-  "x_reads_left_today": 984
+  "x_reads_left_today": 996
  },
  "watchlist": [
   {
