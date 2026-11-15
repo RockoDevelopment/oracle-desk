@@ -1,19 +1,16 @@
 {
- "generated_at": "2026-11-15T12:25:00-06:00",
+ "generated_at": "2026-11-15T16:30:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-15T08:10:00-06:00",
-  "next_scan": "2026-11-15T12:00:00-06:00",
+  "last_scan": "2026-11-15T16:30:00-06:00",
+  "next_scan": "2026-11-15T20:00:00-06:00",
   "activity": [
-   "GenLayer: X News says its public chain finished moving to Arbitrum Nitro (run by Conduit); no new official post found",
-   "Soqucoin launched a new website design; SOQUPOOL stratum still closes Wed 11/19 10 AM CT (official)",
-   "Quantus: 3 new commits in quantus-apps (desktop wallet onboarding)",
-   "Broad selloff: Quantus -10.7%, Ritual -10.6%, Verona -10.3%, Crynux -10.5%",
-   "SafeTrade: 51 listed coins; new are DAI, Primecoin, Zclassic, UraniumX (none AI or quantum); PROX listed per @safetrade (off-niche)",
-   "Rejected: Chipcoin (CHC) PQ claims, Asentum farm spam (repeat)",
-   "AIRDROP BOT 11/15: no new campaigns; GenLayer held at 2,000 CP; Axis simulator still erroring; TermiX and Quip waiting on the wallet"
+   "4 PM scan: X quantum + AI keyword searches and watchlist official accounts since noon CT",
+   "Soqucoin official week-in-review (SOQ market cap ATH ~$1.5M per project; advisory items already logged)",
+   "Narrative only: Stacks Lamport PQ sBTC mainnet transfer demo, Dora Factory PQ consensus testnet benchmark, BB84 Falcon-512 Solana tx",
+   "SafeTrade 50 bases, no new AI/quantum listings"
   ],
-  "x_reads_left_today": 987
+  "x_reads_left_today": 979
  },
  "watchlist": [
   {
