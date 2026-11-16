@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-11-16T08:20:00-06:00",
+ "generated_at": "2026-11-16T12:25:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-16T08:20:00-06:00",
-  "next_scan": "2026-11-16T12:00:00-06:00",
+  "last_scan": "2026-11-16T12:25:00-06:00",
+  "next_scan": "2026-11-16T16:00:00-06:00",
   "activity": [
-   "8 AM morning report: X watchlist accounts + AI and quantum keyword searches since Sun 8:20 PM CT, X News",
-   "SafeTrade 46 bases via CoinGecko; no new AI/quantum listings",
-   "GitHub: Quantus 4 commits (crypto crates relicensed to Apache-2.0), Quip solver 0.0.16-rc2, GenLayer genvm-manager, QRL qrl-contracts 0.2.0",
-   "Dataline: ZKPassport eligibility checks for the DAT public sale on Uniswap (official, still undated)",
+   "12 PM scan: X watchlist accounts + AI and quantum keyword searches since 8:15 AM CT",
+   "GenLayer asked CoinMarketCap for self-reporting dashboard access (official, listing prep; still no date or contract)",
+   "SafeTrade 48 bases via CoinGecko (+ARRR; PLS, ZCL, ZEC not in snapshot); no new AI/quantum listings",
+   "Repeats only: Asentum farm spam, fake Axis claim posts, fake Solana FLOP contract",
    "0 HIGH PRIORITY (0/3); no new open campaigns",
    "AIRDROP BOT 11/16: GenLayer portal now 2,500 CP; no new campaigns; TermiX and Quip waiting on the wallet"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
-  "x_reads_left_today": 989
+  "x_reads_left_today": 986
  },
  "alerts": [],
  "watchlist": [
@@ -275,7 +275,7 @@
    "fdv": null,
    "volume_24h": null,
    "dex_route": "No token yet; CoinGecko preview lists an Ethereum contract 0x4242...2a2f that GenLayer has not posted (Unverified); fake GEN tokens on Base/BSC/Solana",
-   "next_milestone": "Pre-Mainnet Staking opens on 'THE DAY' (undated). Public chain now on Arbitrum Nitro run by Conduit (X News summary and community posts Sun 11/15; no new @GenLayer post found). Missing: dated launch day, audit, official contract",
+   "next_milestone": "Pre-Mainnet Staking opens on 'THE DAY' (undated). Asked CoinMarketCap for self-reporting dashboard access Mon 11/16 (official, listing prep). Missing: dated launch day, audit, official contract",
    "milestone_date": null,
    "links": [
     {
@@ -1131,6 +1131,14 @@
  ],
  "prelaunch_updates": [
   {
+   "project": "GenLayer",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "GenLayer publicly asked CoinMarketCap to register two GenLayer emails to manage its self-reporting dashboard on CoinMarketCap (supply and project data). That points to listing prep, but there is still no launch date, contract or venue. CoinGecko's GEN preview page also shows an Ethereum contract GenLayer has not posted. Any GEN token before an official GenLayer post is a scam.",
+   "at": "2026-11-16T08:22:32-06:00",
+   "url": "https://x.com/GenLayer/status/2122334509785862322"
+  },
+  {
    "project": "Dataline",
    "theme": "AI",
    "source_type": "official",
@@ -1274,7 +1282,7 @@
    "at": "2026-11-16T08:20:00-06:00"
   }
  ],
- "snapshot_note": "Morning report Sun 11/15 ~8:10 AM CT. No HIGH PRIORITY (0/3). No new open campaigns. CoinGecko markets + SafeTrade tickers ~8:00 AM CT; X since Sat 8 PM CT. Not financial advice.",
+ "snapshot_note": "Noon scan Mon 11/16 ~12:25 PM CT. No HIGH PRIORITY (0/3). No new open campaigns. X since 8:15 AM CT; SafeTrade tickers via CoinGecko ~12:20 PM CT. Not financial advice.",
  "deadlines": [
   {
    "project": "Soqucoin",
