@@ -9,7 +9,8 @@
    "SafeTrade 46 bases via CoinGecko; no new AI/quantum listings",
    "GitHub: Quantus 4 commits (crypto crates relicensed to Apache-2.0), Quip solver 0.0.16-rc2, GenLayer genvm-manager, QRL qrl-contracts 0.2.0",
    "Dataline: ZKPassport eligibility checks for the DAT public sale on Uniswap (official, still undated)",
-   "0 HIGH PRIORITY (0/3); no new open campaigns"
+   "0 HIGH PRIORITY (0/3); no new open campaigns",
+   "AIRDROP BOT 11/16: GenLayer portal now 2,500 CP; no new campaigns; TermiX and Quip waiting on the wallet"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
@@ -1949,10 +1950,10 @@
   {
    "project": "GenLayer",
    "theme": "AI",
-   "what": "Season 2: 2,000 CP (last portal total AIRDROP BOT read, Nov 8); Justice accepted for 500 CP since then, new total not yet re-read. Mission 100 / GEN Before Mainnet was rejected and has ended. Mochi Telegram (+1,000) and CoinGecko (+1,500) still open. No new free missions. AIRDROP BOT Nov 13, not independently verified.",
+   "what": "Season 2: 2,500 CP and 125 GLP, 0 pending (portal total AIRDROP BOT read Nov 16). Mochi Telegram (+1,000) and CoinGecko (+1,500) still open. CMC $GEN post skipped (needs a cashtag; ends Nov 17). Mission 100 was rejected and has ended. AIRDROP BOT Nov 16, not independently verified.",
    "ends": null,
    "url": "https://portal.genlayer.foundation",
-   "points_earned": 2000
+   "points_earned": 2500
   },
   {
    "project": "Quip Network",
