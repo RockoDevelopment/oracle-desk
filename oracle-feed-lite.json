@@ -2,8 +2,8 @@
  "generated_at": "2026-11-15T20:25:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-15T16:30:00-06:00",
-  "next_scan": "2026-11-15T20:00:00-06:00",
+  "last_scan": "2026-11-15T20:25:00-06:00",
+  "next_scan": "2026-11-16T08:00:00-06:00",
   "activity": [
    "4 PM scan: X quantum + AI keyword searches and watchlist official accounts since noon CT",
    "Soqucoin official week-in-review (SOQ market cap ATH ~$1.5M per project; advisory items already logged)",
@@ -1586,7 +1586,7 @@
     "score": 81,
     "tier": "Strong",
     "dex": "Rhea Finance (NEAR)",
-    "note": "On SafeTrade the ticker is QUANTUS (=QTC); a separate QTC ticker on SafeTrade is another project. SafeTrade QUANTUS/USDT last ~$39.005 / ~$104,135 converted vol (snapshot Sun 11/15 ~8:00 AM CT). DEX route: Rhea Finance (NEAR).",
+    "note": "On SafeTrade the ticker is QUANTUS (=QTC); the separate QTC ticker on SafeTrade is a different, unrelated coin. SafeTrade QUANTUS/USDT last ~$39.005 / ~$104,135 converted vol (snapshot Sun 11/15 ~8:00 AM CT). DEX route: Rhea Finance (NEAR).",
     "pair": "QUANTUS/USDT"
    },
    {
