@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-16T16:25:00-06:00",
+ "generated_at": "2026-11-16T20:30:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-16T16:25:00-06:00",
-  "next_scan": "2026-11-16T20:00:00-06:00",
+  "last_scan": "2026-11-16T20:30:00-06:00",
+  "next_scan": "2026-11-17T08:00:00-06:00",
   "activity": [
-   "4 PM scan: X watchlist accounts + AI and quantum keyword searches since 12:15 PM CT",
-   "No launch news from watchlist accounts (Quip and Soqucoin reposts only)",
-   "New quantum radar (not passing filter): QOMX hybrid ML-DSA-87 testnet (@TehFund, BNB investment DAO), KVANTA5 ML-DSA-87 PoW chain (167 followers)",
-   "SafeTrade 48 bases via CoinGecko (rotation only: URX, DAI, ARRR, BTCZ, CSD, FLUX back in snapshot); no new AI/quantum listings",
-   "Repeats only: Asentum farm spam; Flop testnet 11/24 reposts (third-party)",
-   "AIRDROP BOT 11/16: GenLayer portal now 2,500 CP; no new campaigns; TermiX and Quip waiting on the wallet"
+   "8 PM scan: X watchlist accounts + AI and quantum keyword searches since 4:15 PM CT",
+   "Soqucoin teased 'Soqutomic Swaps' (atomic swaps SOQ to BTC/LTC/DOGE) on its roadmap (official, undated)",
+   "Quantus posted two-month mainnet stats: 400,000+ blocks, 12,000+ monthly active wallets, 200+ nodes (official)",
+   "AI radar (not passing filter): Knidos AI fund-manager testnet with activity points (@knidosxyz); airdrop not confirmed by the project, invite code needed, team not named",
+   "SafeTrade 48 bases via CoinGecko (rotation only: PLS back, DAI out); no new AI/quantum listings",
+   "Repeats only: Asentum farm spam; TRON Nile PQ testnet recaps; Flop testnet 11/24 reposts (third-party)"
   ],
-  "x_reads_left_today": 986
+  "x_reads_left_today": 995
  },
  "watchlist": [
   {
@@ -1244,6 +1244,13 @@
   ]
  },
  "rejections": [
+  {
+   "name": "Knidos (@knidosxyz)",
+   "theme": "AI",
+   "score": 42,
+   "reason": "AI trading fund manager with testnet activity points: team not named, Avalanche/xVentures backing and Nethermind audit claimed only by the project, airdrop for points not confirmed, invite codes passed around by farmers. Radar only",
+   "at": "2026-11-16T20:30:00-06:00"
+  },
   {
    "name": "ENTRØ (@entroquantum)",
    "theme": "Quantum",
