@@ -10,7 +10,8 @@
    "GitHub: Quantus desktop wallet redesign (5 commits), Quip solver-core 0.0.16 + solver-cuda 0.3.7-rc1, QRL rust-qrllib dependency bumps; GenLayer and Ritual 0",
    "Neptune Cash (NPT, on SafeTrade) says ML-DSA (Dilithium) signatures are implemented in its TASM VM (official dev update)",
    "Radar (not passing filter): AX1 $AX1 launch on Clanker (Base) this week with a pre-TGE agent quest; no named team, audit or tokenomics",
-   "0 HIGH PRIORITY (0/3); no new open campaigns that pass the filter"
+   "0 HIGH PRIORITY (0/3); no new open campaigns that pass the filter",
+   "AIRDROP BOT 11/17: GenLayer holds 2,500 CP, new mission GEN in the Court (to Nov 26); no new campaigns; TermiX and Quip waiting on the wallet"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
@@ -1965,7 +1966,7 @@
   {
    "project": "GenLayer",
    "theme": "AI",
-   "what": "Season 2: 2,500 CP and 125 GLP, 0 pending (portal total AIRDROP BOT read Nov 16). Mochi Telegram (+1,000) and CoinGecko (+1,500) still open. CMC $GEN post skipped (needs a cashtag; ends Nov 17). Mission 100 was rejected and has ended. AIRDROP BOT Nov 16, not independently verified.",
+   "what": "Season 2: 2,500 CP and 125 GLP, 0 pending (AIRDROP BOT Nov 17). New mission \"GEN in the Court\" runs until Nov 26, 6 AM CT. Mochi Telegram (+1,000) and CoinGecko (+1,500) still open. AIRDROP BOT report, not independently verified.",
    "ends": null,
    "url": "https://portal.genlayer.foundation",
    "points_earned": 2500
