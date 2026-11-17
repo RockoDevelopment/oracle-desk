@@ -1,17 +1,15 @@
 {
- "generated_at": "2026-11-17T12:25:00-06:00",
+ "generated_at": "2026-11-17T16:30:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-17T12:25:00-06:00",
-  "next_scan": "2026-11-17T16:00:00-06:00",
+  "last_scan": "2026-11-17T16:30:00-06:00",
+  "next_scan": "2026-11-17T20:00:00-06:00",
   "activity": [
-   "Noon scan: X watchlist and founder accounts + AI and quantum keyword searches since 8:10 AM CT",
-   "SafeTrade 49 bases via CoinGecko (normal rotation: ARRR, PLS, XPM seen before); no new AI/quantum listings; @safetrade no posts",
-   "Official posts with no launch news: GenLayer op-ed, Quip podcast clip, Soqucoin ML-DSA-44 post, Quantus weekly quantum recap",
-   "Radar (not passing filter): Action Model LAM Points Breakpoint offer with token presale access; Motes Genesis paid NFT shill wave; Heirloom (0 followers)",
-   "AIRDROP BOT 11/17: GenLayer holds 2,500 CP, new mission GEN in the Court (to Nov 26); no new campaigns; TermiX and Quip waiting on the wallet"
-  ],
-  "x_reads_left_today": 983
+   "4 PM scan: X watchlist and founder accounts + AI and quantum keyword searches since 12:20 PM CT",
+   "SafeTrade 48 bases via CoinGecko (all seen before, normal rotation); no new AI/quantum listings; no SafeTrade posts",
+   "Official posts with no launch news: Soqucoin SoquShield wallet promo (ML-DSA-44, already live), DAC Chain IBM quantum post, Fraction AI trading-agent stats",
+   "Keyword repeats only: Motes Genesis paid NFT wave (rejected), Asentum farm spam, TRON Nile PQ testnet, Fhenix x Arbitrum (known), Neptune ML-DSA review (known)"
+  ]
  },
  "watchlist": [
   {
@@ -1286,7 +1284,7 @@
    "at": "2026-11-17T08:15:00-06:00"
   }
  ],
- "snapshot_note": "Noon scan Tue 11/17 ~12:25 PM CT. No priority (0/3). No new open campaigns. X since 8:10 AM CT; SafeTrade tickers via CoinGecko ~12:20 PM CT. Not financial advice.",
+ "snapshot_note": "4 PM scan Tue 11/17 ~4:30 PM CT. No priority (0/3). No new open campaigns. X since 12:20 PM CT; SafeTrade tickers via CoinGecko ~4:25 PM CT. Not financial advice.",
  "deadlines": [
   {
    "project": "Soqucoin",
