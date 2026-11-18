@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:33:00-06:00",
+ "generated_at": "2026-11-18T16:22:15-06:00",
  "status": {
   "state": "idle",
   "last_scan": "2026-11-18T12:33:00-06:00",
@@ -1252,7 +1252,7 @@
    "at": "2026-11-18T08:03:22-06:00"
   }
  ],
- "snapshot_note": "Noon scan Wed 11/18 ~12:33 PM CT. No priority (0/3). No new open campaigns or pre-launch updates. X since 8:00 AM CT; SafeTrade tickers via CoinGecko ~12:30 PM CT. Not financial advice.",
+ "snapshot_note": "4 PM scan Wed 11/18 ~4:25 PM CT. No priority (0/3). No new open campaigns or pre-launch updates. X since 12:25 PM CT; SafeTrade tickers via CoinGecko ~4:21 PM CT (46 pairs, nothing new). Not financial advice.",
  "deadlines": [
   {
    "project": "Soqucoin",
