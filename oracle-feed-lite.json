@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-17T16:30:00-06:00",
+ "generated_at": "2026-11-17T20:35:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-17T16:30:00-06:00",
-  "next_scan": "2026-11-17T20:00:00-06:00",
+  "last_scan": "2026-11-17T20:35:00-06:00",
+  "next_scan": "2026-11-18T08:00:00-06:00",
   "activity": [
-   "4 PM scan: X watchlist and founder accounts + AI and quantum keyword searches since 12:20 PM CT",
-   "SafeTrade 48 bases via CoinGecko (all seen before, normal rotation); no new AI/quantum listings; no SafeTrade posts",
-   "Official posts with no launch news: Soqucoin SoquShield wallet promo (ML-DSA-44, already live), DAC Chain IBM quantum post, Fraction AI trading-agent stats",
-   "Keyword repeats only: Motes Genesis paid NFT wave (rejected), Asentum farm spam, TRON Nile PQ testnet, Fhenix x Arbitrum (known), Neptune ML-DSA review (known)"
-  ]
+   "8 PM scan: X watchlist accounts since 4:20 PM CT (no new posts)",
+   "Quantum + AI keyword searches: repeats only (Asentum farm spam, TRON PQ, Fhenix/Arbitrum, Blazecoin, FalQbit, Motes paid NFT, AntSeed points known)",
+   "SafeTrade via CoinGecko: 47 bases, nothing new (PLS dropped from snapshot)"
+  ],
+  "x_reads_left_today": 997
  },
  "watchlist": [
   {
@@ -1284,7 +1284,7 @@
    "at": "2026-11-17T08:15:00-06:00"
   }
  ],
- "snapshot_note": "4 PM scan Tue 11/17 ~4:30 PM CT. No priority (0/3). No new open campaigns. X since 12:20 PM CT; SafeTrade tickers via CoinGecko ~4:25 PM CT. Not financial advice.",
+ "snapshot_note": "8 PM scan Tue 11/17 ~8:35 PM CT. No priority (0/3). No new open campaigns or pre-launch updates. X since 4:20 PM CT; SafeTrade tickers via CoinGecko ~8:30 PM CT. Not financial advice.",
  "deadlines": [
   {
    "project": "Soqucoin",
