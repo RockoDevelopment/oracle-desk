@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-18T08:03:22-06:00",
+ "generated_at": "2026-11-18T12:33:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-18T08:03:22-06:00",
-  "next_scan": "2026-11-18T12:00:00-06:00",
+  "last_scan": "2026-11-18T12:33:00-06:00",
+  "next_scan": "2026-11-18T16:00:00-06:00",
   "activity": [
-   "8 AM morning report: X watchlist accounts + AI and quantum keyword searches since Tue 8:30 PM CT, X News",
-   "SafeTrade 48 bases via CoinGecko (PLS back); no new AI/quantum listings; @safetrade no posts",
-   "GitHub: Quantus desktop wallet send (6), Quip solver-cuda 0.3.7 (41), QRL qrysm fixes (16), Flop miner v0.2.0 + SDK v0.5.2 (13), Soqucoin (9), Crynux video tasks (4), GenLayer docs (2), Ritual 0",
-   "TermiX raised its Kaito creator pool to 0.4% of supply and extended it through TGE (official)",
+   "Noon scan: X watchlist accounts + AI and quantum keyword searches since 8 AM CT; tracked AI/quantum/venue accounts",
+   "SafeTrade 47 bases via CoinGecko (normal rotation); no new AI/quantum listings; @safetrade no posts",
+   "Quantus: Quantum Alliance X Space Thu 11/19 9 AM CT and a QTC swap guide (official)",
+   "GenLayer: Internet Court x 1inch integration (official, not a token listing)",
    "AIRDROP BOT 11/18: GenLayer holds 2,500 CP with two missions open; no new campaigns; TermiX and Quip waiting on the wallet"
   ],
-  "x_reads_left_today": 990
+  "x_reads_left_today": 986
  },
  "watchlist": [
   {
@@ -74,8 +74,8 @@
    "market_cap": 14609528,
    "volume_24h": 535429,
    "dex_route": "Rhea Finance (NEAR) qtc.omft.near; Raydium (Solana) via NEAR Intents, live Thu 11/12 (official; Solana mint not posted by Quantus, verify in-app). CEX: Bitrue QTC/USDT. pump.fun and Base QTC tokens are look-alike",
-   "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official). Desktop wallet now sends from transparent and encrypted accounts and ships the checkphrase word list (GitHub). Coming to @Chance_ (undated)",
-   "milestone_date": "2026-12-01T23:59:00-06:00",
+   "next_milestone": "Quantum Alliance founding contributors X Space Thu 11/19 9:00 AM CT (15:00 UTC, official; with Quip CTO Richard Carback). Then Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official). New official guide: how to swap in and out of QTC in the Quantus wallet. Coming to @Chance_ (undated)",
+   "milestone_date": "2026-11-19T09:00:00-06:00",
    "links": [
     {
      "label": "Quantus",
@@ -268,7 +268,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; CoinGecko preview lists an Ethereum token address [address hidden] that GenLayer has not posted; fake GEN tokens on Base/BSC/Solana",
-   "next_milestone": "Pre-Mainnet Staking opens on 'THE DAY' (undated). Asked CoinMarketCap for self-reporting dashboard access Mon 11/16 (official, listing prep). Missing: dated launch day, audit, official token address",
+   "next_milestone": "Pre-Mainnet Staking opens on 'THE DAY' (undated). Internet Court added 1inch trading inside agent deals, with GenLayer ruling disputes (official Wed 11/18; app integration, not a GEN listing). Asked CoinMarketCap for self-reporting access Mon 11/16. Missing: dated launch day, audit, official token address",
    "milestone_date": null,
    "links": [
     {
@@ -436,7 +436,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; any QUIP token is a scam",
-   "next_milestone": "External chain audit then mainnet and TGE (all undated). quip-solver-cuda 0.3.7 released (GitHub); 1,500+ testnet nodes at peak (official Fri 11/13)",
+   "next_milestone": "External chain audit then mainnet and TGE (all undated). CTO Richard Carback speaks on the Quantum Alliance X Space Thu 11/19 9:00 AM CT (hosted by @QuantusNetwork). quip-solver-cuda 0.3.7 released (GitHub)",
    "milestone_date": null,
    "links": [
     {
@@ -1252,7 +1252,7 @@
    "at": "2026-11-18T08:03:22-06:00"
   }
  ],
- "snapshot_note": "8 PM scan Tue 11/17 ~8:35 PM CT. No priority (0/3). No new open campaigns or pre-launch updates. X since 4:20 PM CT; SafeTrade tickers via CoinGecko ~8:30 PM CT. Not financial advice.",
+ "snapshot_note": "Noon scan Wed 11/18 ~12:33 PM CT. No priority (0/3). No new open campaigns or pre-launch updates. X since 8:00 AM CT; SafeTrade tickers via CoinGecko ~12:30 PM CT. Not financial advice.",
  "deadlines": [
   {
    "project": "Soqucoin",
