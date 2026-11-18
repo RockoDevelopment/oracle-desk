@@ -9,7 +9,8 @@
    "SafeTrade 48 bases via CoinGecko (PLS back); no new AI/quantum listings; @safetrade no posts",
    "GitHub: Quantus desktop wallet send (6), Quip solver-cuda 0.3.7 (41), QRL qrysm fixes (16), Flop miner v0.2.0 + SDK v0.5.2 (13), Soqucoin (9), Crynux video tasks (4), GenLayer docs (2), Ritual 0",
    "TermiX raised its Kaito creator pool to 0.4% of supply and extended it through TGE (official)",
-   "0 HIGH PRIORITY (0/3); no new open campaigns"
+   "0 HIGH PRIORITY (0/3); no new open campaigns",
+   "AIRDROP BOT 11/18: GenLayer holds 2,500 CP with two missions open; no new campaigns; TermiX and Quip waiting on the wallet"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
@@ -1946,7 +1947,7 @@
   {
    "project": "GenLayer",
    "theme": "AI",
-   "what": "Season 2: 2,500 CP and 125 GLP, 0 pending (AIRDROP BOT Nov 17). New mission \"GEN in the Court\" runs until Nov 26, 6 AM CT. Mochi Telegram (+1,000) and CoinGecko (+1,500) still open. AIRDROP BOT report, not independently verified.",
+   "what": "Season 2: 2,500 CP and 125 GLP, 0 pending (AIRDROP BOT Nov 18). Open missions: Internet Court Partner Demo Lab (ends ~Nov 22) and GEN in the Court (ends Nov 26, 6 AM CT). Mochi Telegram (+1,000) and CoinGecko (+1,500) still open. AIRDROP BOT report, not independently verified.",
    "ends": null,
    "url": "https://portal.genlayer.foundation",
    "points_earned": 2500
