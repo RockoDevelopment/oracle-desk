@@ -10,7 +10,8 @@
    "GitHub since Wed 8 AM: Quantus desktop multisig (7), Soqucoin relay rules (9), GenLayer GenVM v0.4 + docs (9), Flop CLI v0.6.0 + Python SDK v0.3.2 (2), Crynux video (2), Quip (1), QRL (1), Ritual 0",
    "Pearl +22.8% on ~$57M volume; Gonka bridge incident, funds returned (official)",
    "Bittensor quantum-resistant wallets reported live on mainnet (third party; no @opentensor post found)",
-   "0 HIGH PRIORITY (0/3); no new open campaigns"
+   "0 HIGH PRIORITY (0/3); no new open campaigns",
+   "AIRDROP BOT 11/19: GenLayer holds 2,500 CP (Justice accepted); no new campaigns; TermiX and Quip waiting on the wallet"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
@@ -1959,7 +1960,7 @@
   {
    "project": "GenLayer",
    "theme": "AI",
-   "what": "Season 2: 2,500 CP and 125 GLP, 0 pending (AIRDROP BOT Nov 18). Open missions: Internet Court Partner Demo Lab (ends ~Nov 22) and GEN in the Court (ends Nov 26, 6 AM CT). Mochi Telegram (+1,000) and CoinGecko (+1,500) still open. AIRDROP BOT report, not independently verified.",
+   "what": "Season 2: 2,500 CP and 125 GLP, 0 pending (AIRDROP BOT Nov 19). Justice (+500) accepted; GEN Before Mainnet rejected (appealable). GEN in the Court runs to Nov 26, 6 AM CT (not submitted). Mochi Telegram (+1,000) and CoinGecko (+1,500) still open. AIRDROP BOT report, not independently verified.",
    "ends": null,
    "url": "https://portal.genlayer.foundation",
    "points_earned": 2500
