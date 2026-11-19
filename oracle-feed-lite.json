@@ -1,17 +1,13 @@
 {
- "generated_at": "2026-11-19T12:40:00-06:00",
+ "generated_at": "2026-11-19T16:35:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-19T12:40:00-06:00",
-  "next_scan": "2026-11-19T16:00:00-06:00",
+  "last_scan": "2026-11-19T16:35:00-06:00",
+  "next_scan": "2026-11-19T20:00:00-06:00",
   "activity": [
-   "Noon scan: X watchlist accounts (AI + quantum) and AI / quantum keyword searches since 8 AM CT",
-   "SafeTrade 49 bases via CoinGecko: ARRR, KMD, PLS back in rotation, SOH out (all off-niche); @safetrade no posts",
-   "GenLayer x Pearl collaboration on validator inference (official); Quip: 'Mainnet is the last key piece' (official)",
-   "Quantus Quantum Alliance Space held; Soqucoin SOQUPOOL stratum closed (10 AM CT)",
-   "DAC Interstellar: new Nodiens partner crate + weekly check-in badge (part of existing campaign)",
-   "Repeats ignored: Asentum, Retium, QoreChain, Motes, Flop 11/24 chatter; rejected QSHLD Stellar meme",
-   "AIRDROP BOT 11/19: GenLayer holds 2,500 CP (Justice accepted); no new campaigns; TermiX and Quip waiting on the wallet"
+   "4 PM scan: X watchlist accounts (AI + quantum) and AI / quantum keyword searches since noon CT",
+   "GenLayer revised GEN tokenomics (official 11/18 paper): TGE unlock cut from 30.4% to 16.0% of supply; TGE still undated",
+   "SafeTrade 49 bases via CoinGecko: unchanged since noon (ARRR, KMD, PLS in, SOH out; off-niche); @safetrade no posts"
   ],
   "x_reads_left_today": 980
  },
@@ -265,12 +261,16 @@
     {
      "date": "2026-11-15",
      "score": 71
+    },
+    {
+     "date": "2026-11-19",
+     "score": 71
     }
    ],
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; CoinGecko preview lists an Ethereum token address [address hidden] that GenLayer has not posted; fake GEN tokens on Base/BSC/Solana",
-   "next_milestone": "Pre-Mainnet Staking opens on 'THE DAY' (undated): airdropped GEN auto-stakes and earns Staking Points from day one (official Thu 11/19). GenVM v0.4 deploy hardening and docs updates on GitHub. Missing: dated launch day, audit, official token address. Official Thu 11/19: collaborating with Pearl (@prlnet) for validator inference; most testnet validators use Pearl",
+   "next_milestone": "Pre-Mainnet Staking opens on 'THE DAY' (undated): airdropped GEN auto-stakes and earns Staking Points from day one (official). Revised tokenomics paper (official Wed 11/18): TGE unlock cut to 673.24M GEN (16.0%) from 1,275.75M (30.4%); Foundation and Early Ecosystem now vest; 4.2B supply and airdrop terms unchanged. Missing: dated launch day, audit, official token address",
    "milestone_date": null,
    "links": [
     {
@@ -296,7 +296,7 @@
    ],
    "upgrade_if": "Dated TGE + official Arbitrum token address + audit",
    "downgrade_if": "TGE slips past October",
-   "last_update": "2026-11-19T08:01:38-06:00",
+   "last_update": "2026-11-19T16:35:00-06:00",
    "price": null,
    "logo": "logos/genlayer.png",
    "website": "https://genlayer.com"
@@ -1120,6 +1120,14 @@
    "project": "GenLayer",
    "theme": "AI",
    "source_type": "official",
+   "text": "GenLayer published a revised GEN tokenomics paper (Wed 11/18): only 673.24M GEN (16.0% of supply) unlocks at TGE, down from 1,275.75M (30.4%). Foundation (840M) now 410.74M at TGE, 145.76M over months 1-2, 283.5M on the 48-month contributor schedule; Early Ecosystem 25% at TGE then 6.25%/month for 12 months. Supply (4.2B), allocation sizes, investor schedules and community airdrop terms unchanged; first-year issuance ~361M GEN (8.6%). TGE still undated; any GEN token now is a scam.",
+   "at": "2026-11-19T13:50:24-06:00",
+   "url": "https://x.com/GenLayer/status/2123504182816862687"
+  },
+  {
+   "project": "GenLayer",
+   "theme": "AI",
+   "source_type": "official",
    "text": "GenLayer restated Pre-Mainnet Staking: airdropped GEN counts from day one and, on THE DAY (launch day, still undated), starts staking automatically and earns Staking Points daily with no action needed. No token address or venue yet; any GEN token now is a scam.",
    "at": "2026-11-19T02:56:10-06:00",
    "url": "https://x.com/GenLayer/status/2123339539884507487"
@@ -1187,14 +1195,6 @@
    "text": "X News summary and community posts: GenLayer's public chain finished moving from ZK Stack to Arbitrum Nitro, operated by Conduit; GenVM and Optimistic Democracy unchanged. No new @GenLayer post found in this sweep, so treat as unconfirmed. Still no launch date or token address; any GEN token now is a scam.",
    "at": "2026-11-15T07:36:31-06:00",
    "url": "https://x.com/i/trending/2121270354362417655"
-  },
-  {
-   "project": "Axis Robotics",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "OPEN CAMPAIGN: Axis Robotics Season 2 now pays AXIS directly. From Sat 11/14 every verified, signed task (trajectory) earns 1 to 2.5 AXIS depending on difficulty, up to 5 runs per task; practice and 1-star tasks pay 0. Rewards settle every Saturday 10:00 UTC and are claimed to a Base wallet; unclaimed AXIS never expires. Referrals and multipliers removed. Join at hub.axisrobotics.ai. Unconfirmed: whether signing a task needs a wallet signature. No end date announced.",
-   "at": "2026-11-14T05:49:54-06:00",
-   "url": "https://x.com/axisrobotics/status/2121571321922601120"
   }
  ],
  "digest": {
