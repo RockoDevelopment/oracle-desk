@@ -1,18 +1,19 @@
 {
- "generated_at": "2026-11-19T08:01:38-06:00",
+ "generated_at": "2026-11-19T12:40:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-19T08:01:38-06:00",
-  "next_scan": "2026-11-19T12:00:00-06:00",
+  "last_scan": "2026-11-19T12:40:00-06:00",
+  "next_scan": "2026-11-19T16:00:00-06:00",
   "activity": [
-   "8 AM morning report: X watchlist accounts + AI and quantum keyword searches since Wed 8:15 PM CT, X News",
-   "SafeTrade 47 bases via CoinGecko (no change); no new AI/quantum listings; @safetrade no posts",
-   "GitHub since Wed 8 AM: Quantus desktop multisig (7), Soqucoin relay rules (9), GenLayer GenVM v0.4 + docs (9), Flop CLI v0.6.0 + Python SDK v0.3.2 (2), Crynux video (2), Quip (1), QRL (1), Ritual 0",
-   "Pearl +22.8% on ~$57M volume; Gonka bridge incident, funds returned (official)",
-   "Bittensor quantum-resistant wallets reported live on mainnet (third party; no @opentensor post found)",
+   "Noon scan: X watchlist accounts (AI + quantum) and AI / quantum keyword searches since 8 AM CT",
+   "SafeTrade 49 bases via CoinGecko: ARRR, KMD, PLS back in rotation, SOH out (all off-niche); @safetrade no posts",
+   "GenLayer x Pearl collaboration on validator inference (official); Quip: 'Mainnet is the last key piece' (official)",
+   "Quantus Quantum Alliance Space held; Soqucoin SOQUPOOL stratum closed (10 AM CT)",
+   "DAC Interstellar: new Nodiens partner crate + weekly check-in badge (part of existing campaign)",
+   "Repeats ignored: Asentum, Retium, QoreChain, Motes, Flop 11/24 chatter; rejected QSHLD Stellar meme",
    "AIRDROP BOT 11/19: GenLayer holds 2,500 CP (Justice accepted); no new campaigns; TermiX and Quip waiting on the wallet"
   ],
-  "x_reads_left_today": 986
+  "x_reads_left_today": 980
  },
  "watchlist": [
   {
@@ -75,8 +76,8 @@
    "market_cap": 13747408,
    "volume_24h": 445416,
    "dex_route": "Rhea Finance (NEAR) qtc.omft.near; Raydium (Solana) via NEAR Intents, live Thu 11/12 (official; Solana mint not posted by Quantus, verify in-app). CEX: Bitrue QTC/USDT. pump.fun and Base QTC tokens are look-alike",
-   "next_milestone": "Quantum Alliance founding contributors X Space Thu 11/19 9:00 AM CT (15:00 UTC, official; with Quip CTO Richard Carback). Then Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official). Desktop wallet can now propose multisig transfers (GitHub). Coming to @Chance_ (undated)",
-   "milestone_date": "2026-11-19T09:00:00-06:00",
+   "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official, time TBA). Quantum Alliance X Space held Thu 11/19 (official). Desktop wallet can now propose multisig transfers (GitHub). Coming to @Chance_ (undated)",
+   "milestone_date": "2026-12-01T23:59:00-06:00",
    "links": [
     {
      "label": "Quantus",
@@ -269,7 +270,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; CoinGecko preview lists an Ethereum token address [address hidden] that GenLayer has not posted; fake GEN tokens on Base/BSC/Solana",
-   "next_milestone": "Pre-Mainnet Staking opens on 'THE DAY' (undated): airdropped GEN auto-stakes and earns Staking Points from day one (official Thu 11/19). GenVM v0.4 deploy hardening and docs updates on GitHub. Missing: dated launch day, audit, official token address",
+   "next_milestone": "Pre-Mainnet Staking opens on 'THE DAY' (undated): airdropped GEN auto-stakes and earns Staking Points from day one (official Thu 11/19). GenVM v0.4 deploy hardening and docs updates on GitHub. Missing: dated launch day, audit, official token address. Official Thu 11/19: collaborating with Pearl (@prlnet) for validator inference; most testnet validators use Pearl",
    "milestone_date": null,
    "links": [
     {
@@ -437,7 +438,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; any QUIP token is a scam",
-   "next_milestone": "External chain audit then mainnet and TGE (all undated). CTO Richard Carback speaks on the Quantum Alliance X Space Thu 11/19 9:00 AM CT (hosted by @QuantusNetwork). Network figures refreshed on developers.quip.network (GitHub)",
+   "next_milestone": "External chain audit then mainnet and TGE (all undated). Official Thu 11/19: 'Mainnet is the last key piece' (Discord AMA clip). CTO Richard Carback joined the Quantum Alliance X Space Thu 11/19",
    "milestone_date": null,
    "links": [
     {
@@ -603,8 +604,8 @@
    "market_cap": 1056812,
    "volume_24h": 159614,
    "dex_route": "No official DEX route; CEX: SafeTrade (SOQ/USDT), NonKYC (SOQ/BTC+USDT), Biconomy (SOQ/USDT, indexed on CoinGecko Sun 11/8)",
-   "next_milestone": "SOQUPOOL stratum closes Thu 11/19 10:00 AM CT (16:00 UTC) then final payout as pool merges into LuxxPool. CoinGecko now lists NonKYC + SafeTrade + Biconomy SOQ/USDT",
-   "milestone_date": "2026-11-19T10:00:00-06:00",
+   "next_milestone": "SOQUPOOL stratum closed Thu 11/19 10:00 AM CT; final payout as the pool merges into LuxxPool. Next: CMC listing and team disclosure (undated). CoinGecko lists NonKYC + SafeTrade + Biconomy SOQ/USDT",
+   "milestone_date": null,
    "links": [
     {
      "label": "Soqucoin on X",
@@ -1259,9 +1260,16 @@
    "score": 22,
    "reason": "Repeat: early-contributor shill threads comparing itself to Hyperliquid; post-quantum claims still unconfirmed",
    "at": "2026-11-19T08:01:38-06:00"
+  },
+  {
+   "theme": "Quantum",
+   "score": 10,
+   "reason": "'Post-quantum shield' memecoin with holder airdrop shill; no team, code or audit",
+   "at": "2026-11-19T12:40:00-06:00",
+   "name": "QSHLD (Stellar)"
   }
  ],
- "snapshot_note": "8 PM scan Wed 11/18 ~8:30 PM CT. No priority (0/3). No new open campaigns or pre-launch updates. X since 4:15 PM CT; SafeTrade tickers via CoinGecko ~8:27 PM CT (47 bases, CNX rotated back in, nothing new). Not financial advice.",
+ "snapshot_note": "Noon scan Thu 11/19 ~12:40 PM CT. No priority (0/3). No new open campaigns or qualifying pre-launch updates. X since 8 AM CT; SafeTrade tickers via CoinGecko ~12:35 PM CT (49 bases, nothing new in niche). Not financial advice.",
  "deadlines": [
   {
    "project": "Quantus",
