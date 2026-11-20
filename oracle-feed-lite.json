@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-19T16:35:00-06:00",
+ "generated_at": "2026-11-19T20:30:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-19T16:35:00-06:00",
-  "next_scan": "2026-11-19T20:00:00-06:00",
+  "last_scan": "2026-11-19T20:30:00-06:00",
+  "next_scan": "2026-11-20T08:00:00-06:00",
   "activity": [
-   "4 PM scan: X watchlist accounts (AI + quantum) and AI / quantum keyword searches since noon CT",
-   "GenLayer revised GEN tokenomics (official 11/18 paper): TGE unlock cut from 30.4% to 16.0% of supply; TGE still undated",
-   "SafeTrade 49 bases via CoinGecko: unchanged since noon (ARRR, KMD, PLS in, SOH out; off-niche); @safetrade no posts"
-  ],
-  "x_reads_left_today": 980
+   "8 PM scan: X watchlist accounts (AI + quantum) and AI / quantum keyword searches since 4:30 PM CT",
+   "TermiX (official): Binance Agent ID holders can install TermiX Skills for 50 TP, one reward per wallet (task inside the existing TermiX points campaign)",
+   "Quantum: no new posts from Quantus, Quip, Soqucoin, DAC, QRL; Stellar Bell mainnet vote Mon 11/23 17:00 UTC (third party, known)",
+   "Rejected MISAKA ($100K MC 'post-quantum AI BlockDAG' giveaway shill); Asentum farm spam repeat"
+  ]
  },
  "watchlist": [
   {
@@ -604,7 +604,7 @@
    "market_cap": 1093227,
    "volume_24h": 171813,
    "dex_route": "No official DEX route; CEX: SafeTrade (SOQ/USDT), NonKYC (SOQ/BTC+USDT), Biconomy (SOQ/USDT, indexed on CoinGecko Sun 11/8)",
-   "next_milestone": "SOQUPOOL stratum closed Thu 11/19 10:00 AM CT; final payout as the pool merges into LuxxPool. Next: CMC listing and team disclosure (undated). CoinGecko lists NonKYC + SafeTrade + Biconomy SOQ/USDT",
+   "next_milestone": "CMC listing and team disclosure (undated). SOQUPOOL has merged into LuxxPool. CoinGecko lists NonKYC + SafeTrade + Biconomy SOQ/USDT",
    "milestone_date": null,
    "links": [
     {
@@ -945,7 +945,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet",
-   "next_milestone": "Kaito epoch 3 ends Sun 11/22 (third party, time TBA). Kaito creator pool raised to 0.4% of TMT supply and extended through TGE with new epochs (official Wed 11/18). TGE and tokenomics undated",
+   "next_milestone": "Kaito epoch 3 ends Sun 11/22 (third party, time TBA). New official task Thu 11/19: Binance Agent ID holders install TermiX Skills for 50 TP (one reward per wallet). Kaito creator pool 0.4% of TMT supply through TGE (official). TGE and tokenomics undated",
    "milestone_date": "2026-11-22T23:59:00-06:00",
    "links": [],
    "upgrade_if": "Dated TGE",
@@ -1117,6 +1117,14 @@
  ],
  "prelaunch_updates": [
   {
+   "project": "TermiX",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "TermiX: holders of a Binance Agent ID can install TermiX Skills through their linked agent and connect its Agentic Wallet for 50 TP (TermiX points), one reward per wallet. A new task inside the existing points campaign; TGE still undated, any TMT token now is a scam.",
+   "at": "2026-11-19T20:12:12-06:00",
+   "url": "https://x.com/termix_ai/status/2123600266096435560"
+  },
+  {
    "project": "GenLayer",
    "theme": "AI",
    "source_type": "official",
@@ -1240,6 +1248,13 @@
   ]
  },
  "rejections": [
+  {
+   "name": "MISAKA",
+   "theme": "Quantum",
+   "score": 10,
+   "reason": "$100K MC 'post-quantum AI BlockDAG' pushed through a cash giveaway shill ahead of a Dec 1 Solana migration; no credible sources",
+   "at": "2026-11-19T20:30:00-06:00"
+  },
   {
    "name": "Ozone Chain (OZO)",
    "theme": "Quantum",
