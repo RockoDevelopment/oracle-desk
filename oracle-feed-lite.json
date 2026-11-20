@@ -1,18 +1,20 @@
 {
- "generated_at": "2026-11-20T08:01:47-06:00",
+ "generated_at": "2026-11-20T12:23:26-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-20T08:01:47-06:00",
-  "next_scan": "2026-11-20T12:00:00-06:00",
+  "last_scan": "2026-11-20T12:23:26-06:00",
+  "next_scan": "2026-11-20T16:00:00-06:00",
   "activity": [
-   "8 AM morning report: X watchlist accounts (AI + quantum), AI and quantum keyword searches since Thu 8 PM CT, X News",
-   "Flop: Arthur Hayes says mainnet FLOP goes to users who give useful feedback on X and GitHub; CLI v0.7.1, SDK v0.3.3, operator application form on GitHub",
-   "SafeTrade 48 bases via CoinGecko (+FLUX, -NEXA, -ARRR; off-niche); no new AI or quantum listings; @safetrade no posts",
-   "GitHub since Thu 8 AM: Quip 68 (solver 0.3.9), QRL 11 (deps), Crynux 7 (node v3.8.0), Quantus 6, GenLayer 6, burnt-labs/Verona 5, Flop 4, Soqucoin 1, Ritual 0",
+   "Noon scan: X watchlist accounts (AI + quantum) and AI / post-quantum keyword searches since 8 AM CT",
+   "Quantus Cold Wallet is live (official): offline spare phone signs post-quantum QTC transactions via QR codes",
+   "Verona teased verUSD as its biggest launch yet (official, undated); Quip testnet passed 100k blocks, external audit still the last step",
+   "DATA Foundation launched Trace Echo (dataset exclusivity check, 325M files); GenLayer and Virtuals brand posts only",
+   "No new posts on launch or campaign topics from Flop, Arthur Hayes, TermiX, Fraction AI, Ritual, DAC (daily crate only) or SafeTrade",
+   "SafeTrade 47 bases via CoinGecko (ARRR back; CNX and KMD missing from the snapshot, rotation); no new AI or quantum listings",
    "Joined Flop Network feedback rewards (AIRDROP BOT posted critique from @RockoBuiltIt); no points yet",
    "AIRDROP BOT sweep 11/20: GenLayer 2,500 CP (rank ~#3,098); Quip and TermiX still waiting on the locked wallet"
   ],
-  "x_reads_left_today": 988
+  "x_reads_left_today": 980
  },
  "watchlist": [
   {
@@ -79,7 +81,7 @@
    "market_cap": 11702827,
    "volume_24h": 971436,
    "dex_route": "Rhea Finance (NEAR) qtc.omft.near; Raydium (Solana) via NEAR Intents, live Thu 11/12 (official; Solana mint not posted by Quantus, verify in-app). CEX: Bitrue QTC/USDT. pump.fun and Base QTC tokens are look-alike",
-   "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official, time TBA). Desktop wallet: live data refresh and panel layout with status footer (GitHub Fri 11/20). Coming to @Chance_ (undated)",
+   "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official, time TBA). Quantus Cold Wallet live Fri 11/20 (official): a spare offline phone signs post-quantum QTC transactions via QR codes. Coming to @Chance_ (undated)",
    "milestone_date": "2026-12-01T23:59:00-06:00",
    "links": [
     {
@@ -105,7 +107,7 @@
    ],
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
-   "last_update": "2026-11-20T12:00:36-06:00",
+   "last_update": "2026-11-20T12:23:26-06:00",
    "price": 33.11,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
@@ -380,7 +382,7 @@
    "market_cap": 29461622,
    "volume_24h": 3012374,
    "dex_route": "No official DEX route (exchanges only)",
-   "next_milestone": "Sui migration date + swap instructions (TBA)",
+   "next_milestone": "Sui migration date + swap instructions (TBA). Trace Echo launched Fri 11/20 (official): AI labs check dataset exclusivity against 325M files",
    "milestone_date": null,
    "links": [
     {
@@ -390,7 +392,7 @@
    ],
    "upgrade_if": "Migration date + audited Sui on-chain code",
    "downgrade_if": "Migration delays",
-   "last_update": "2026-11-20T12:00:36-06:00",
+   "last_update": "2026-11-20T12:23:26-06:00",
    "price": 0.081476,
    "logo": "logos/data-network.png",
    "website": "https://www.datafdn.org",
@@ -461,7 +463,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; any QUIP token is a scam",
-   "next_milestone": "External chain audit then mainnet and TGE (all undated). quip-solver release 0.3.9 (miner calibration) merged on GitHub Fri 11/20. Official Thu 11/19: 'Mainnet is the last key piece'",
+   "next_milestone": "External chain audit then mainnet and TGE (all undated). Testnet passed 100k blocks Fri 11/20 (official); audit is the only major step left. quip-solver 0.3.9 (miner calibration) on GitHub Fri 11/20",
    "milestone_date": null,
    "links": [
     {
@@ -471,7 +473,7 @@
    ],
    "upgrade_if": "Dated TGE, audit, mainnet",
    "downgrade_if": "More TGE slips",
-   "last_update": "2026-11-20T08:01:47-06:00",
+   "last_update": "2026-11-20T12:23:26-06:00",
    "price": null,
    "logo": "logos/quip-network.png",
    "website": "https://quip.network"
@@ -1137,7 +1139,7 @@
    "market_cap": 8235200,
    "volume_24h": 247402,
    "dex_route": "None verified (CEX: Bithumb, Bybit, Bitget, KuCoin, Gate, MEXC, Kraken)",
-   "next_milestone": "Next launch teased by @verona_dev Mon 11/16 (undated, no details). Flywheel (GIA accelerator) reports its Verona mainnet integration complete (partner post, reposted Fri 11/20). Audit of the PQ upgrade and an official DEX route still missing",
+   "next_milestone": "verUSD teased by @verona_dev Fri 11/20 as 'our biggest launch yet' (official, undated, no details). Flywheel (GIA accelerator) reports its Verona mainnet integration complete (partner post). Audit of the PQ upgrade and an official DEX route still missing",
    "milestone_date": null,
    "links": [
     {
@@ -1163,7 +1165,7 @@
    ],
    "upgrade_if": "Published audit of the PQ account upgrade, official docs naming the parameter sets, and an official DEX route",
    "downgrade_if": "PQ claims turn out marketing-only, or the paid promo wave is the only demand",
-   "last_update": "2026-11-20T12:00:36-06:00",
+   "last_update": "2026-11-20T12:23:26-06:00",
    "logo": "logos/verona.png",
    "website": "https://verona.dev",
    "cg_id": "verona",
@@ -1171,6 +1173,22 @@
   }
  ],
  "prelaunch_updates": [
+  {
+   "project": "Quip Network",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "Quip testnet passed 100,000 blocks; the team repeats that the only major step left before mainnet is an external chain audit. Mainnet and TGE remain undated; no QUIP token exists yet.",
+   "at": "2026-11-20T10:17:16-06:00",
+   "url": "https://x.com/quipnetwork/status/2123812934849884244"
+  },
+  {
+   "project": "Verona",
+   "theme": "Quantum",
+   "source_type": "official",
+   "text": "Verona teased verUSD: 'verUSD is on its way. Our biggest launch yet is next.' No date, mechanics, backing or token address published. Any verUSD token before an official Verona post is a scam.",
+   "at": "2026-11-20T09:39:46-06:00",
+   "url": "https://x.com/verona_dev/status/2123803495342195147"
+  },
   {
    "project": "Flop Network",
    "theme": "AI",
@@ -1234,22 +1252,6 @@
    "text": "Arthur Hayes: FLOP block rewards are weighted by inference processed (measured in floating-point work); the team will not advise on miner hardware. Flop Labs released miner v0.2.0, miner-vllm-toploc v0.2.0 and SDK v0.5.2 on GitHub ahead of the tentative Tue 11/24 testnet. No token yet; any FLOP token is a scam.",
    "at": "2026-11-18T02:18:44-06:00",
    "url": "https://x.com/CryptoHayes/status/2122967730429284364"
-  },
-  {
-   "project": "Neptune Cash",
-   "theme": "Quantum",
-   "source_type": "official",
-   "text": "Neptune Cash (NPT) dev update for Nov 16: post-quantum ML-DSA (Dilithium) signatures are now implemented in its TASM VM, and succinct block proofs are enforced on mainnet since block 62,500. Already trading (SafeTrade NPT/USDT), so this is a milestone note, not a launch.",
-   "at": "2026-11-17T07:42:15-06:00",
-   "url": "https://x.com/NeptuneCash/status/2122686758613606656"
-  },
-  {
-   "project": "GenLayer",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "GenLayer publicly asked CoinMarketCap to register two GenLayer emails to manage its self-reporting dashboard on CoinMarketCap (supply and project data). That points to listing prep, but there is still no launch date, token address or venue. CoinGecko's GEN preview page also shows an Ethereum token address GenLayer has not posted. Any GEN token before an official GenLayer post is a scam.",
-   "at": "2026-11-16T08:22:32-06:00",
-   "url": "https://x.com/GenLayer/status/2122334509785862322"
   }
  ],
  "digest": {
