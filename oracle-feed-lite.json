@@ -1,20 +1,21 @@
 {
- "generated_at": "2026-11-20T12:23:26-06:00",
+ "generated_at": "2026-11-20T16:35:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-20T12:23:26-06:00",
-  "next_scan": "2026-11-20T16:00:00-06:00",
+  "last_scan": "2026-11-20T16:35:00-06:00",
+  "next_scan": "2026-11-20T20:00:00-06:00",
   "activity": [
-   "Noon scan: X watchlist accounts (AI + quantum) and AI / post-quantum keyword searches since 8 AM CT",
-   "Quantus Cold Wallet is live (official): offline spare phone signs post-quantum QTC transactions via QR codes",
-   "Verona teased verUSD as its biggest launch yet (official, undated); Quip testnet passed 100k blocks, external audit still the last step",
-   "DATA Foundation launched Trace Echo (dataset exclusivity check, 325M files); GenLayer and Virtuals brand posts only",
-   "No new posts on launch or campaign topics from Flop, Arthur Hayes, TermiX, Fraction AI, Ritual, DAC (daily crate only) or SafeTrade",
-   "SafeTrade 47 bases via CoinGecko (ARRR back; CNX and KMD missing from the snapshot, rotation); no new AI or quantum listings",
+   "4 PM scan: X watchlist accounts (AI + quantum) and AI / post-quantum keyword searches since noon CT",
+   "SafeTrade listed NEB (Neural Engine Byte, AI-themed proof-of-work coin; pair NEB/USDT) at 4:16 PM CT: anonymous team, mainnet Wed 11/18 per third parties, no DEX route, not on CoinGecko; rejected for now (score 28)",
+   "QANplatform (QANX, already trading on PancakeSwap and Uniswap): mainnet code complete, auditor handover week of Mon 11/30, preliminary audit about 18 business days later (official)",
+   "MyQRLWallet now on iPhone with post-quantum accounts for the QRL 2.0 testnet (ecosystem wallet team)",
+   "Crynux Chat demo video (official, launch date not stated); Soqucoin and DAC posted post-quantum explainers only",
+   "No new posts on launch or campaign topics from GenLayer, Flop, Arthur Hayes, TermiX, Fraction AI, Ritual, Quip, Quantus or Verona",
+   "SafeTrade 47 bases via CoinGecko, same as noon (NEB not in the CoinGecko list yet)",
    "Joined Flop Network feedback rewards (AIRDROP BOT posted critique from @RockoBuiltIt); no points yet",
    "AIRDROP BOT sweep 11/20: GenLayer 2,500 CP (rank ~#3,098); Quip and TermiX still waiting on the locked wallet"
   ],
-  "x_reads_left_today": 980
+  "x_reads_left_today": 970
  },
  "watchlist": [
   {
@@ -1316,9 +1317,16 @@
    "score": 35,
    "reason": "Repeat: coordinated reply-shill under a promo account; PoA chain with no public code behind the quantum-resistant label",
    "at": "2026-11-20T08:01:47-06:00"
+  },
+  {
+   "name": "NEB (Neural Engine Byte)",
+   "theme": "AI",
+   "score": 28,
+   "reason": "New SafeTrade listing (NEB/USDT, Fri 11/20). Proof-of-work coin where mining trains a small neural network. Anonymous team (founder account 212 followers, created Oct 30), no DEX route, not on CoinGecko, miners from unknown GitHub accounts, no audit. NASA Kepler claim comes only from the founder.",
+   "at": "2026-11-20T16:35:00-06:00"
   }
  ],
- "snapshot_note": "8 AM morning report Fri 11/20 ~8:10 AM CT. No priority (0/3). New open campaign: Flop feedback rewards (founder). X since Thu 8 PM CT; CoinGecko + SafeTrade tickers ~7:56 AM CT (48 bases, nothing new in niche). Not financial advice.",
+ "snapshot_note": "4 PM scan Fri 11/20 ~4:35 PM CT. No priority (0/3). No new open campaigns. X since noon CT; CoinGecko SafeTrade tickers ~4:20 PM CT (47 bases, unchanged); SafeTrade listed NEB (AI-themed PoW, rejected 28). Not financial advice.",
  "deadlines": [
   {
    "project": "DAC Chain",
