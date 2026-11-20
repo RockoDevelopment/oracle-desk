@@ -9,7 +9,8 @@
    "Flop: Arthur Hayes says mainnet FLOP goes to users who give useful feedback on X and GitHub; CLI v0.7.1, SDK v0.3.3, operator application form on GitHub",
    "SafeTrade 48 bases via CoinGecko (+FLUX, -NEXA, -ARRR; off-niche); no new AI or quantum listings; @safetrade no posts",
    "GitHub since Thu 8 AM: Quip 68 (solver 0.3.9), QRL 11 (deps), Crynux 7 (node v3.8.0), Quantus 6, GenLayer 6, burnt-labs/Verona 5, Flop 4, Soqucoin 1, Ritual 0",
-   "Markets red after the Anthropic IPO: QTC -10.8%, SOQ -15.6%, Pearl -12.6%; 0 of 3 HIGH PRIORITY alerts used"
+   "Markets red after the Anthropic IPO: QTC -10.8%, SOQ -15.6%, Pearl -12.6%; 0 of 3 HIGH PRIORITY alerts used",
+   "Joined Flop Network feedback rewards (AIRDROP BOT posted critique from @RockoBuiltIt); no points yet"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
@@ -2014,6 +2015,14 @@
    "what": "Season 2 AXIS rewards: signed up Nov 14 with X (@RockoBuiltIt); the hub made its own embedded wallet (0x78bD..., not the Airdrop wallet). 5 reward tasks open at 1 to 1.5 AXIS each; none done yet (simulator network error and rate limit, retrying). Settles Saturdays 10:00 UTC, claim to Base. AIRDROP BOT Nov 14, not independently verified.",
    "ends": null,
    "url": "https://hub.axisrobotics.ai/",
+   "points_earned": 0
+  },
+  {
+   "project": "Flop Network",
+   "theme": "AI",
+   "what": "Feedback rewards (founder-announced, criteria and amounts unannounced): joined Nov 20. AIRDROP BOT posted a 2-post critique of Yellow Paper section 9.2 from @RockoBuiltIt replying to Arthur Hayes. No points yet. Testnet tentatively Tue 11/24. Any FLOP token now is a scam. AIRDROP BOT report, not independently verified.",
+   "ends": null,
+   "url": "https://flop.finance",
    "points_earned": 0
   }
  ]
