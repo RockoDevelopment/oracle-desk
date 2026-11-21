@@ -1,21 +1,20 @@
 {
- "generated_at": "2026-11-20T16:35:00-06:00",
+ "generated_at": "2026-11-20T20:35:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-20T16:35:00-06:00",
-  "next_scan": "2026-11-20T20:00:00-06:00",
+  "last_scan": "2026-11-20T20:35:00-06:00",
+  "next_scan": "2026-11-21T08:00:00-06:00",
   "activity": [
-   "4 PM scan: X watchlist accounts (AI + quantum) and AI / post-quantum keyword searches since noon CT",
-   "SafeTrade listed NEB (Neural Engine Byte, AI-themed proof-of-work coin; pair NEB/USDT) at 4:16 PM CT: anonymous team, mainnet Wed 11/18 per third parties, no DEX route, not on CoinGecko; rejected for now (score 28)",
-   "QANplatform (QANX, already trading on PancakeSwap and Uniswap): mainnet code complete, auditor handover week of Mon 11/30, preliminary audit about 18 business days later (official)",
-   "MyQRLWallet now on iPhone with post-quantum accounts for the QRL 2.0 testnet (ecosystem wallet team)",
-   "Crynux Chat demo video (official, launch date not stated); Soqucoin and DAC posted post-quantum explainers only",
-   "No new posts on launch or campaign topics from GenLayer, Flop, Arthur Hayes, TermiX, Fraction AI, Ritual, Quip, Quantus or Verona",
-   "SafeTrade 47 bases via CoinGecko, same as noon (NEB not in the CoinGecko list yet)",
+   "8 PM scan: X watchlist accounts (AI + quantum) and AI / post-quantum keyword searches since 4:15 PM CT",
+   "DAC Chain: still no official TGE time or token address from @dac_chain (last official post 12:53 PM CT, a post-quantum explainer). Community posts say the team is waiting on exchange confirmations and the AMA has slipped more than once (unconfirmed). The reported TGE Sat 11/21 6 PM CT is unconfirmed; any DACT token now is unconfirmed",
+   "Soqucoin explained why it uses ML-DSA-44 (lowest level, chosen for size and speed; can move to a higher level later) (official reply, no news)",
+   "No new launch or campaign posts from GenLayer, Flop, Arthur Hayes, TermiX, Axis, Crynux, DATA, Fraction AI, Ritual, Gonka, Quantus, Quip, QRL, QAN or Verona; Flop GitHub has no commits since 11:38 AM CT",
+   "SafeTrade: 47 bases via CoinGecko (Crynux CNX back, ZCL out: rotation); NEB still not in the CoinGecko list; no new @safetrade listing posts after NEB",
+   "Keyword noise skipped: Asentum farm posts, Motes allowlist shills, Falcon PL testnet claim (lead only)",
    "Joined Flop Network feedback rewards (AIRDROP BOT posted critique from @RockoBuiltIt); no points yet",
    "AIRDROP BOT sweep 11/20: GenLayer 2,500 CP (rank ~#3,098); Quip and TermiX still waiting on the locked wallet"
   ],
-  "x_reads_left_today": 970
+  "x_reads_left_today": 993
  },
  "watchlist": [
   {
@@ -1073,12 +1072,12 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "Base DACT pair not linked by DAC",
-   "next_milestone": "AMA with CIO Davide Costa Fri 11/20 (third-party, time TBA); TGE Sun 11/22 00:00 UTC (Sat 11/21 6 PM CT) reported by many accounts, still not posted by @dac_chain. Interstellar check-in and partner crates continue (official)",
+   "next_milestone": "AMA with CIO Davide Costa Fri 11/20 (third-party, time TBA; community says it has been postponed more than once). TGE Sun 11/22 00:00 UTC (Sat 11/21 6 PM CT) reported by many accounts, still not posted by @dac_chain; community posts say exchange confirmations are pending (unconfirmed). Any DACT token before an official token address is unconfirmed. Interstellar check-in and partner crates continue (official)",
    "milestone_date": "2026-11-20T23:59:00-06:00",
    "links": [],
    "upgrade_if": "Official dated TGE + verified token address",
    "downgrade_if": "Second missed date",
-   "last_update": "2026-11-09T12:20:00-06:00",
+   "last_update": "2026-11-20T20:35:00-06:00",
    "price": null,
    "logo": "logos/dac-chain.png",
    "website": "https://www.dachain.tech"
@@ -1175,6 +1174,14 @@
  ],
  "prelaunch_updates": [
   {
+   "project": "DAC Chain",
+   "theme": "Quantum",
+   "source_type": "rumor",
+   "text": "DAC Chain's reported TGE (Sat 11/21 6 PM CT) is now less than 24 hours away and @dac_chain still has not posted a time, venue or token address. Community posts say the team is waiting on exchange confirmations and does not want to announce a date it might change, and that the AMA has slipped more than once (unconfirmed, not from DAC). Treat any DACT token as unconfirmed until DAC posts the official token address.",
+   "at": "2026-11-20T16:28:47-06:00",
+   "url": "https://x.com/hudlcrush190/status/2123906429249520039"
+  },
+  {
    "project": "Quip Network",
    "theme": "Quantum",
    "source_type": "official",
@@ -1245,14 +1252,6 @@
    "text": "TermiX x Kaito creator campaign: total reward pool raised from 0.3% to 0.4% of the TermiX token supply and the campaign extended through TGE, with new epochs to come. TGE itself is still undated. Campaign already known (we are in TermiX Points); not a new campaign.",
    "at": "2026-11-18T04:24:23-06:00",
    "url": "https://x.com/termix_ai/status/2122999350884458849"
-  },
-  {
-   "project": "Flop Network",
-   "theme": "AI",
-   "source_type": "founder",
-   "text": "Arthur Hayes: FLOP block rewards are weighted by inference processed (measured in floating-point work); the team will not advise on miner hardware. Flop Labs released miner v0.2.0, miner-vllm-toploc v0.2.0 and SDK v0.5.2 on GitHub ahead of the tentative Tue 11/24 testnet. No token yet; any FLOP token is a scam.",
-   "at": "2026-11-18T02:18:44-06:00",
-   "url": "https://x.com/CryptoHayes/status/2122967730429284364"
   }
  ],
  "digest": {
@@ -1326,7 +1325,7 @@
    "at": "2026-11-20T16:35:00-06:00"
   }
  ],
- "snapshot_note": "4 PM scan Fri 11/20 ~4:35 PM CT. No priority (0/3). No new open campaigns. X since noon CT; CoinGecko SafeTrade tickers ~4:20 PM CT (47 bases, unchanged); SafeTrade listed NEB (AI-themed PoW, rejected 28). Not financial advice.",
+ "snapshot_note": "8 PM scan Fri 11/20 ~8:35 PM CT. No priority (0/3). No new open campaigns. X since 4:15 PM CT; CoinGecko SafeTrade tickers ~8:25 PM CT (47 bases, CNX back, ZCL out). DAC TGE (Sat 11/21 6 PM CT) still unconfirmed by @dac_chain. Not financial advice.",
  "deadlines": [
   {
    "project": "DAC Chain",
