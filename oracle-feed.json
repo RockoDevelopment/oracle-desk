@@ -11,7 +11,8 @@
    "Quantus -26.9% to $26.09 (24h $25.68 to $35.35, ~$1.35M vol); no project news found. QANX +44% with no new official post",
    "SafeTrade 50 bases via CoinGecko (+DAI, +KMD, +XPM, +ZCL, -FLUX; off-niche); NEB still not on CoinGecko; @safetrade no posts",
    "GitHub since Fri 8 AM: QRL 17, burnt-labs 15 (CI), Quantus 6, Soqucoin 6, GenLayer 6, Quip 3, Flop 1, Crynux 0, Ritual 0",
-   "0 of 3 HIGH PRIORITY alerts used; no new open campaigns"
+   "0 of 3 HIGH PRIORITY alerts used; no new open campaigns",
+   "GenLayer: GEN in the Court submitted by AIRDROP BOT, pending review; TermiX and Quip still waiting on the locked wallet"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
@@ -2053,7 +2054,7 @@
   {
    "project": "GenLayer",
    "theme": "AI",
-   "what": "Season 2: 2,500 CP and 125 GLP, Community Rank about #3,098 (AIRDROP BOT Nov 20). Justice (+500) accepted; GEN Before Mainnet rejected (appealable). GEN in the Court runs to Nov 26, 6 AM CT (not submitted). Mochi Telegram (+1,000) and CoinGecko (+1,500) still open. AIRDROP BOT report, not independently verified.",
+   "what": "Season 2: 2,500 CP and 125 GLP, GLP rank #1,134 of 1,792 (AIRDROP BOT Nov 21). Justice (+500) accepted; GEN Before Mainnet rejected (appealable). GEN in the Court submitted Nov 21, pending review. Mochi Telegram (+1,000) and CoinGecko (+1,500) still open. AIRDROP BOT report, not independently verified.",
    "ends": null,
    "url": "https://portal.genlayer.foundation",
    "points_earned": 2500
