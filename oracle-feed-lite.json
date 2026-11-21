@@ -1,19 +1,18 @@
 {
- "generated_at": "2026-11-21T08:05:53-06:00",
+ "generated_at": "2026-11-21T12:25:18-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-21T08:05:53-06:00",
-  "next_scan": "2026-11-21T12:00:00-06:00",
+  "last_scan": "2026-11-21T12:25:18-06:00",
+  "next_scan": "2026-11-21T16:00:00-06:00",
   "activity": [
-   "8 AM morning report: X watchlist accounts (AI + quantum), AI and quantum keyword searches since Fri 8 PM CT, X News",
-   "Soqucoin: XT.com listing of native SOQ announced (official); trading-open date not posted; CEX only, no DEX route",
-   "DAC Chain: still no TGE post from @dac_chain; community posts say the reported Sat 11/21 6 PM CT date was an internal planning window and no date is set until exchanges confirm (rumor)",
-   "Quantus -26.9% to $26.09 (24h $25.68 to $35.35, ~$1.35M vol); no project news found. QANX +44% with no new official post",
-   "SafeTrade 50 bases via CoinGecko (+DAI, +KMD, +XPM, +ZCL, -FLUX; off-niche); NEB still not on CoinGecko; @safetrade no posts",
-   "GitHub since Fri 8 AM: QRL 17, burnt-labs 15 (CI), Quantus 6, Soqucoin 6, GenLayer 6, Quip 3, Flop 1, Crynux 0, Ritual 0",
-   "GenLayer: GEN in the Court submitted by AIRDROP BOT, pending review; TermiX and Quip still waiting on the locked wallet"
+   "Noon scan: X watchlist accounts (AI + quantum), AI and quantum keyword searches since 8 AM CT, X News",
+   "Flop Labs: homepage form renamed 'register interest' (grants nothing); miner slots uncapped, onboarding throttled (official). Testnet Tue 11/24 still tentative",
+   "DAC Chain: still no TGE post from @dac_chain for the reported Sat 11/21 6 PM CT date; unofficial airdrop-checker links circulating (likely phishing)",
+   "Soqucoin restated: no ICO, no pre-mine, no team allocation; mainnet live since Oct 13 (official, no new milestone)",
+   "QANX ~+106% in 24h to ~$0.0136 with no official post; QTC ~$29.15 (-9% 24h), up from the morning low",
+   "SafeTrade 50 bases via CoinGecko, unchanged since 8 AM; @safetrade no posts"
   ],
-  "x_reads_left_today": 982
+  "x_reads_left_today": 972
  },
  "watchlist": [
   {
@@ -874,7 +873,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "NO TOKEN EXISTS; any FLOP is a scam",
-   "next_milestone": "Testnet and airdrop begin Tue 11/24 (tentative, time TBA; @flop_labs and Arthur Hayes). Hayes Fri 11/20: mainnet FLOP for users who give useful feedback on X and GitHub (criteria and amounts not published). CLI v0.7.2 on GitHub (Fri 11/20). Devnet has no rewards; any FLOP token is a scam",
+   "next_milestone": "Testnet and airdrop begin Tue 11/24 (tentative, time TBA; @flop_labs and Arthur Hayes). Flop Labs Sat 11/21: the homepage form is now 'register interest' and grants nothing; miner slots are not capped, but onboarding will be throttled for stability (official). Hayes Fri 11/20: mainnet FLOP for useful feedback on X and GitHub (criteria and amounts not published). Devnet has no rewards; any FLOP token is a scam",
    "milestone_date": "2026-11-24T23:59:00-06:00",
    "links": [
     {
@@ -888,7 +887,7 @@
    ],
    "upgrade_if": "Testnet goes live Tue 11/24 as posted, plus public docs and an audit",
    "downgrade_if": "Delays; look-alike tokens",
-   "last_update": "2026-11-20T08:01:47-06:00",
+   "last_update": "2026-11-21T12:25:18-06:00",
    "price": null,
    "logo": "logos/flop-network.png",
    "website": "https://flop.finance"
@@ -1123,12 +1122,12 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "Base DACT pair not linked by DAC",
-   "next_milestone": "TGE reported for Sun 11/22 00:00 UTC (Sat 11/21 6 PM CT) by many accounts but never posted by @dac_chain; community posts now say the team called that GitHub date an internal planning window and no date is set until exchanges confirm (rumor). Any DACT token before an official token address is unconfirmed. Interstellar check-in continues (official)",
+   "next_milestone": "TGE reported for Sun 11/22 00:00 UTC (Sat 11/21 6 PM CT) by many accounts but never posted by @dac_chain (still silent at noon Sat). Community posts say no date is set until exchanges confirm (rumor). 'Airdrop checker' links from random accounts are unconfirmed, likely phishing; never connect a wallet. Any DACT token before an official token address is unconfirmed. Interstellar check-in continues (official)",
    "milestone_date": "2026-11-21T18:00:00-06:00",
    "links": [],
    "upgrade_if": "Official dated TGE + verified token address",
    "downgrade_if": "Second missed date",
-   "last_update": "2026-11-21T08:05:53-06:00",
+   "last_update": "2026-11-21T12:25:18-06:00",
    "price": null,
    "logo": "logos/dac-chain.png",
    "website": "https://www.dachain.tech"
@@ -1229,6 +1228,22 @@
  ],
  "prelaunch_updates": [
   {
+   "project": "Flop Network",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "Flop Labs (reply, Sat 11/21): the homepage form is now called 'register interest'; it is not an application and grants nothing. Miner slots are not capped, but onboarding will be throttled to keep the network stable. Testnet/airdrop still Tue 11/24 (tentative). No token exists; any FLOP token is a scam.",
+   "at": "2026-11-21T08:09:25-06:00",
+   "url": "https://x.com/flop_labs/status/2124143145541873863"
+  },
+  {
+   "project": "DAC Chain",
+   "theme": "Quantum",
+   "source_type": "rumor",
+   "text": "DAC Chain: at noon Sat 11/21 @dac_chain still had not posted a TGE time, venue or token address for the reported Sat 11/21 6 PM CT date. Random accounts are sharing 'DACT airdrop checker' and 'mainnet portal' links that DAC has not published; treat them as likely phishing and never connect a wallet. Any DACT token before an official token address is unconfirmed.",
+   "at": "2026-11-21T09:46:19-06:00",
+   "url": "https://x.com/StarMaluks/status/2124167532852707560"
+  },
+  {
    "project": "DAC Chain",
    "theme": "Quantum",
    "source_type": "rumor",
@@ -1291,22 +1306,6 @@
    "text": "GenLayer published a revised GEN tokenomics paper (Wed 11/18): only 673.24M GEN (16.0% of supply) unlocks at TGE, down from 1,275.75M (30.4%). Foundation (840M) now 410.74M at TGE, 145.76M over months 1-2, 283.5M on the 48-month contributor schedule; Early Ecosystem 25% at TGE then 6.25%/month for 12 months. Supply (4.2B), allocation sizes, investor schedules and community airdrop terms unchanged; first-year issuance ~361M GEN (8.6%). TGE still undated; any GEN token now is a scam.",
    "at": "2026-11-19T13:50:24-06:00",
    "url": "https://x.com/GenLayer/status/2123504182816862687"
-  },
-  {
-   "project": "GenLayer",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "GenLayer restated Pre-Mainnet Staking: airdropped GEN counts from day one and, on THE DAY (launch day, still undated), starts staking automatically and earns Staking Points daily with no action needed. No token address or venue yet; any GEN token now is a scam.",
-   "at": "2026-11-19T02:56:10-06:00",
-   "url": "https://x.com/GenLayer/status/2123339539884507487"
-  },
-  {
-   "project": "Flop Network",
-   "theme": "AI",
-   "source_type": "founder",
-   "text": "Arthur Hayes: becoming a FLOP miner, validator, KOL or user needs no application or approval; point an AI agent at flop.finance/intro to get set up. Flop Labs shipped CLI v0.6.0 and Python SDK v0.3.2 and fixed devnet wallet enrollment. Testnet and airdrop still Tue 11/24 (tentative); devnet earns nothing. No token exists.",
-   "at": "2026-11-18T21:01:51-06:00",
-   "url": "https://x.com/CryptoHayes/status/2123250372848525313"
   }
  ],
  "digest": {
@@ -1379,7 +1378,7 @@
    "at": "2026-11-21T08:05:53-06:00"
   }
  ],
- "snapshot_note": "8 AM morning report Sat 11/21 ~8:10 AM CT. No priority (0/3). No new open campaigns. X since Fri 8 PM CT; CoinGecko + SafeTrade tickers ~8:02 AM CT (50 bases, nothing new in niche). Not financial advice.",
+ "snapshot_note": "Noon scan Sat 11/21 ~12:25 PM CT. No priority (0/3). No new open campaigns. X since 8 AM CT; CoinGecko prices + SafeTrade tickers ~12:24 PM CT (50 bases, unchanged). Not financial advice.",
  "deadlines": [
   {
    "project": "DAC Chain",
