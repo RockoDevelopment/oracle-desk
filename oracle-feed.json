@@ -1,22 +1,21 @@
 {
- "generated_at": "2026-11-22T08:06:02-06:00",
+ "generated_at": "2026-11-22T12:30:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-22T08:06:02-06:00",
-  "next_scan": "2026-11-22T12:00:00-06:00",
+  "last_scan": "2026-11-22T12:30:00-06:00",
+  "next_scan": "2026-11-22T16:00:00-06:00",
   "activity": [
-   "8 AM morning report: X watchlist accounts (quantum + 2 AI batches), AI and quantum keyword searches since Sat 8:24 PM CT, Flop and GenLayer checks, X News, web news",
-   "AI: no posts from Ritual, GenLayer, DATA, Fraction, Axis, Flop, Hayes, Crynux or TermiX overnight; Prime Intellect prime-rl 0.11.0 (RT, no token)",
-   "Flop: third-party \"Creator Program 1.2B FLOP, TGE Q1 2027\" posts; flop.finance lists a KOLs & creators register-interest form, figures not official. floplabs.ai is not on the official links page",
-   "Quantum: Soqucoin explainer replies (ML-DSA-44, emission schedule; official); @dac_chain still silent after the reported TGE passed; Mochimo PoS-vote education thread",
-   "Markets ~8:00 AM CT (CoinGecko 24h): QTC $28.58 (+9.7%), SOQ +9.0%, Pearl +11.6%, Gonka +30.8% thin, Ritual -4.5%, QANX -6.2%, QRL -3.0%",
-   "SafeTrade 45 bases via CoinGecko (no new; ARRR, ZER, KMD, ARB, SAFE not listed in this snapshot, off-niche); @safetrade no posts",
-   "GitHub since Sat 8 AM CT: QRL 20, Soqucoin 6, Quantus 3, GenLayer 2, Quip 1; Flop, Crynux, Ritual, burnt-labs 0",
+   "Noon scan: X watchlist accounts (1 quantum + 2 AI batches since 7:50 AM CT), AI and quantum keyword searches since Sat 8:20 PM CT, SafeTrade tickers, CoinGecko prices",
+   "AI: GenLayer Internet Court x 1inch Space Mon 11/23 9:00 AM CT (official). Flop: uptime alone earns no rewards, inference served counts (official reply). Kite at Binance Blockchain Week Bangkok Fri 11/28 to Sat 11/29 (official)",
+   "Quantum: Soqucoin and Mochimo education posts (official); Algorand algod v5.1.1 expands the base for post-quantum accounts (official); @dac_chain still silent; QRL, Quantus, Quip no new posts",
+   "Markets ~12:20 PM CT (CoinGecko 24h): QTC $29.37 (+0.6%), QANX -33.1%, Crynux -9.6%, Gonka +6.3%, others within 2.5%",
+   "SafeTrade 46 bases via CoinGecko: NEXA back (off-niche), none removed; @safetrade no posts",
+   "Rejected: ENTELEKRON (ENK) \"quantum-resistant\" TGE hype, 59-follower account. Solana pump.fun \"FLOP\" token still being shilled (impostor)",
    "0 of 3 HIGH PRIORITY alerts used; no new open campaigns"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
-  "x_reads_left_today": 976
+  "x_reads_left_today": 971
  },
  "alerts": [],
  "watchlist": [
@@ -120,7 +119,7 @@
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
    "last_update": "2026-11-22T12:08:02-06:00",
-   "price": 29.42,
+   "price": 29.37,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
    "cg_id": "quantus",
@@ -230,7 +229,7 @@
    "upgrade_if": "Named-firm audit; real DEX liquidity on Base/BSC; more CEX listings",
    "downgrade_if": "Heavy airdrop or issuance selling; bridge or chain incident",
    "last_update": "2026-11-22T12:08:02-06:00",
-   "price": 0.03237753,
+   "price": 0.03231952,
    "logo": "logos/ritual.png",
    "website": "https://ritual.net",
    "price_updated": "2026-11-22T12:08:02-06:00",
@@ -317,8 +316,8 @@
    "fdv": null,
    "volume_24h": null,
    "dex_route": "No token yet; CoinGecko preview lists an Ethereum contract 0x4242...2a2f that GenLayer has not posted (Unverified); fake GEN tokens on Base/BSC/Solana",
-   "next_milestone": "Pre-Mainnet Staking opens on 'THE DAY' (undated): airdropped GEN auto-stakes and earns Staking Points from day one (official). Revised tokenomics (official Wed 11/18): TGE unlock 673.24M GEN (16.0%). Developer skills docs updated to the rc15 API (GitHub Fri 11/20). Missing: dated launch day, audit, official contract",
-   "milestone_date": null,
+   "next_milestone": "Internet Court x 1inch Space Mon 11/23 9:00 AM CT with 1inch's CPTO and GenLayer's Chief Ecosystem Officer (official). Pre-Mainnet Staking opens on 'THE DAY' (undated): airdropped GEN auto-stakes and earns Staking Points from day one (official). Revised tokenomics (official Wed 11/18): TGE unlock 673.24M GEN (16.0%). Missing: dated launch day, audit, official contract",
+   "milestone_date": "2026-11-23T09:00:00-06:00",
    "links": [
     {
      "label": "GenLayer on X",
@@ -343,7 +342,7 @@
    ],
    "upgrade_if": "Dated TGE + official Arbitrum contract + audit",
    "downgrade_if": "TGE slips past October",
-   "last_update": "2026-11-19T16:35:00-06:00",
+   "last_update": "2026-11-22T12:30:00-06:00",
    "price": null,
    "logo": "logos/genlayer.png",
    "website": "https://genlayer.com"
@@ -432,7 +431,7 @@
    "upgrade_if": "Migration date + audited Sui contracts",
    "downgrade_if": "Migration delays",
    "last_update": "2026-11-22T12:08:02-06:00",
-   "price": 0.080562,
+   "price": 0.080083,
    "logo": "logos/data-network.png",
    "website": "https://www.datafdn.org",
    "cg_id": "story-2",
@@ -746,7 +745,7 @@
    "upgrade_if": "DEX liquidity, CMC listing, audit",
    "downgrade_if": "Pool centralization returns or partner claims don't hold up",
    "last_update": "2026-11-22T12:08:02-06:00",
-   "price": 0.000157,
+   "price": 0.00015694,
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
    "cg_id": "soqucoin",
@@ -844,7 +843,7 @@
    "upgrade_if": "Verified team, audit",
    "downgrade_if": "Heavy unlocks, more lock-up breaches, or no on-chain vesting published",
    "last_update": "2026-11-22T12:08:02-06:00",
-   "price": 0.088543,
+   "price": 0.088124,
    "logo": "logos/axis-robotics.png",
    "website": "https://axisrobotics.ai",
    "cg_id": "axis-robotics",
@@ -923,7 +922,7 @@
    "fdv": null,
    "volume_24h": null,
    "dex_route": "NO TOKEN EXISTS; any FLOP is a scam",
-   "next_milestone": "Testnet and airdrop begin Tue 11/24 (tentative, time TBA; @flop_labs and Arthur Hayes). Hayes: mainnet FLOP for useful feedback on X and GitHub (criteria and amounts unpublished). flop.finance lists register-interest forms for miners, validators and KOLs/creators; third-party 'Creator Program: 1.2B FLOP, TGE Q1 2027' posts are not on Flop's official links page. floplabs.ai is not an official domain. Any FLOP token is a scam",
+   "next_milestone": "Testnet and airdrop begin Tue 11/24 (tentative, time TBA; @flop_labs and Arthur Hayes). Rewards count inference served, not uptime alone (official reply Sun 11/22). Hayes: mainnet FLOP for useful feedback on X and GitHub (criteria and amounts unpublished). flop.finance lists register-interest forms for miners, validators and KOLs/creators; third-party 'Creator Program: 1.2B FLOP, TGE Q1 2027' posts are not on Flop's official links page. floplabs.ai is not an official domain. Any FLOP token is a scam",
    "milestone_date": "2026-11-24T23:59:00-06:00",
    "links": [
     {
@@ -937,7 +936,7 @@
    ],
    "upgrade_if": "Testnet goes live Tue 11/24 as posted, plus public docs and an audit",
    "downgrade_if": "Delays; impostor tokens",
-   "last_update": "2026-11-22T08:06:02-06:00",
+   "last_update": "2026-11-22T12:30:00-06:00",
    "price": null,
    "logo": "logos/flop-network.png",
    "website": "https://flop.finance"
@@ -1021,7 +1020,7 @@
    "upgrade_if": "Deeper liquidity, audit",
    "downgrade_if": "Liquidity stays thin",
    "last_update": "2026-11-22T12:08:02-06:00",
-   "price": 0.00052189,
+   "price": 0.00052705,
    "logo": "logos/crynux.png",
    "website": "https://crynux.io",
    "cg_id": "crynux",
@@ -1258,7 +1257,7 @@
      "score": 66
     }
    ],
-   "price": 0.087914,
+   "price": 0.087867,
    "market_cap": 8147511,
    "volume_24h": 191127,
    "dex_route": "None verified (CEX: Bithumb, Bybit, Bitget, KuCoin, Gate, MEXC, Kraken)",
@@ -1296,6 +1295,22 @@
   }
  ],
  "prelaunch_updates": [
+  {
+   "project": "GenLayer",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "GenLayer: Internet Court x 1inch live Space Mon 11/23 at 9:00 AM CT with 1inch CPTO @holdoesdev and GenLayer Chief Ecosystem Officer @raskovsky on agentic commerce. Integration first logged Wed 11/18. Still no dated launch day or official GEN contract; any GEN token now is fake.",
+   "at": "2026-11-22T12:30:00-06:00",
+   "url": "https://x.com/GenLayer/status/2124545535944413413"
+  },
+  {
+   "project": "Flop Network",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "Flop: uptime on its own does not count toward rewards; inference served is what counts (official reply). Testnet still Tue 11/24 (tentative). A Solana pump.fun 'FLOP' token is being shilled; Flop has no token, so it is a scam.",
+   "at": "2026-11-22T12:30:00-06:00",
+   "url": "https://x.com/flop_labs/status/2124547573629546878"
+  },
   {
    "project": "Flop Network",
    "theme": "AI",
@@ -1420,6 +1435,13 @@
  },
  "rejections": [
   {
+   "name": "ENTELEKRON (ENK)",
+   "theme": "Quantum",
+   "score": 10,
+   "reason": "\"One of the first quantum-resistant networks, TGE 7.7.2027 Triple 777 Day\": countdown hype, 59-follower account created Oct 2026, no named team, code, audit or named PQ algorithm",
+   "at": "2026-11-22T12:30:00-06:00"
+  },
+  {
    "name": "BKC Network (@BKC_Network)",
    "theme": "Quantum",
    "score": 10,
@@ -1452,6 +1474,15 @@
    "all_day": true,
    "approx": true,
    "url": "https://x.com/flop_labs/status/2121146318135644275",
+   "status": "open"
+  },
+  {
+   "project": "GenLayer",
+   "theme": "AI",
+   "title": "Internet Court x 1inch Space (AMA)",
+   "type": "AMA",
+   "date": "2026-11-23T09:00:00-06:00",
+   "url": "https://x.com/GenLayer/status/2124545535944413413",
    "status": "open"
   }
  ],
@@ -2080,7 +2111,7 @@
    }
   ]
  },
- "prices_updated": "2026-11-22T12:08:02-06:00",
+ "prices_updated": "2026-11-22T12:30:00-06:00",
  "airdrops": [
   {
    "project": "TermiX",
