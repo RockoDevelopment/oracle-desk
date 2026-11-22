@@ -1,21 +1,21 @@
 {
- "generated_at": "2026-11-21T16:23:25-06:00",
+ "generated_at": "2026-11-21T20:24:14-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-21T16:23:25-06:00",
-  "next_scan": "2026-11-21T20:00:00-06:00",
+  "last_scan": "2026-11-21T20:24:14-06:00",
+  "next_scan": "2026-11-22T08:00:00-06:00",
   "activity": [
-   "4 PM scan: X watchlist accounts (AI + quantum, 3 batches), AI and quantum keyword searches since noon CT, pre-launch project mentions",
-   "DAC Chain: @dac_chain still has not posted a TGE time, venue or contract for the reported Sat 11/21 6 PM CT date; treat any DACT token or checker link as unverified",
-   "Flop Network: testnet Tue 11/24 still tentative; only third-party explainers since noon, no new official info",
-   "Soqucoin: ML-DSA-44 / IOSCO and PQCAT posts (official, no new milestone). Quantus: IOSCO quantum warning RT only",
-   "Markets ~4:25 PM CT (CoinGecko 24h): QTC $31.47 (+8.2%), QANX $0.01219 (+50.5%), Crynux +24.4%, Ritual +13.1%; no official news behind the moves",
-   "SafeTrade 49 bases via CoinGecko (50 at noon; one off-niche pair dropped); QTC, QUANTUS, SOQ, CNX, GNK, NOCK, PEARL, QUBIC still listed; @safetrade no posts",
+   "8 PM scan: X watchlist accounts (AI + quantum batches), AI and quantum keyword searches since 4:15 PM CT, DAC Chain mentions and timeline",
+   "DAC Chain: reported Sat 11/21 6 PM CT TGE passed with no post from @dac_chain; third-party claim the date was pulled from the vesting repo (rumor). Any DACT token is unverified",
+   "AI: no new posts from watchlist accounts since 4:15 PM CT; Flop testnet Tue 11/24 still tentative (third-party chatter only)",
+   "Soqucoin: ML-DSA-44 / migration explainer posts (official, no new milestone)",
+   "Markets ~8:25 PM CT (CoinGecko 24h): QANX $0.01152 (+27.9%), Ritual $0.03241 (+9.8%), QRL $0.906, Verona $0.0901, Axis $0.0885, Crynux -5.9%",
+   "SafeTrade 49 bases via CoinGecko (unchanged since 4 PM); @safetrade no posts",
    "0 of 3 HIGH PRIORITY alerts used; no new open campaigns"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
-  "x_reads_left_today": 966
+  "x_reads_left_today": 989
  },
  "alerts": [],
  "watchlist": [
@@ -1138,12 +1138,12 @@
    "fdv": null,
    "volume_24h": null,
    "dex_route": "Unverified; Base DACT pair not linked by DAC",
-   "next_milestone": "TGE reported for Sun 11/22 00:00 UTC (Sat 11/21 6 PM CT) by many accounts but never posted by @dac_chain (still silent at 4:20 PM CT Sat). Community posts say no date is set until exchanges confirm (rumor). 'Airdrop checker' links from random accounts are unverified, likely phishing; never connect a wallet. Any DACT token before an official contract is unverified. Interstellar check-in continues (official)",
-   "milestone_date": "2026-11-21T18:00:00-06:00",
+   "next_milestone": "No TGE date. The reported Sun 11/22 00:00 UTC (Sat 11/21 6 PM CT) TGE passed with no post from @dac_chain (last post Fri 11/20). A third-party post says the 11/22 date was removed from the vesting repo and TGE is now 'to be announced' (rumor, unverified). Any DACT token or 'airdrop checker' link before an official contract is a scam; never connect a wallet. Interstellar check-in continues (official)",
+   "milestone_date": null,
    "links": [],
    "upgrade_if": "Official dated TGE + verified contract",
    "downgrade_if": "Second missed date",
-   "last_update": "2026-11-21T16:23:25-06:00",
+   "last_update": "2026-11-21T20:24:14-06:00",
    "price": null,
    "logo": "logos/dac-chain.png",
    "website": "https://www.dachain.tech"
@@ -1244,6 +1244,14 @@
  ],
  "prelaunch_updates": [
   {
+   "project": "DAC Chain",
+   "theme": "Quantum",
+   "source_type": "rumor",
+   "text": "DAC Chain: the reported Sat 11/21 6 PM CT (11/22 00:00 UTC) TGE passed with no announcement, time, venue or contract from @dac_chain (no posts since Fri 11/20). A third-party post claims the 11/22 date was removed from the vesting repo and TGE is now 'to be announced' (rumor, unverified). Any DACT token now trading is not official; treat 'DACT TGE is live' and checker links as scams.",
+   "at": "2026-11-21T20:24:14-06:00",
+   "url": "https://x.com/ayuratna767/status/2124293127913849189"
+  },
+  {
    "project": "Flop Network",
    "theme": "AI",
    "source_type": "official",
@@ -1314,14 +1322,6 @@
    "text": "TermiX: holders of a Binance Agent ID can install TermiX Skills through their linked agent and connect its Agentic Wallet for 50 TP (TermiX points), one reward per wallet. A new task inside the existing points campaign; TGE still undated, any TMT token now is a scam.",
    "at": "2026-11-19T20:12:12-06:00",
    "url": "https://x.com/termix_ai/status/2123600266096435560"
-  },
-  {
-   "project": "GenLayer",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "GenLayer published a revised GEN tokenomics paper (Wed 11/18): only 673.24M GEN (16.0% of supply) unlocks at TGE, down from 1,275.75M (30.4%). Foundation (840M) now 410.74M at TGE, 145.76M over months 1-2, 283.5M on the 48-month contributor schedule; Early Ecosystem 25% at TGE then 6.25%/month for 12 months. Supply (4.2B), allocation sizes, investor schedules and community airdrop terms unchanged; first-year issuance ~361M GEN (8.6%). TGE still undated; any GEN token now is a scam.",
-   "at": "2026-11-19T13:50:24-06:00",
-   "url": "https://x.com/GenLayer/status/2123504182816862687"
   }
  ],
  "digest": {
@@ -1395,18 +1395,8 @@
    "at": "2026-11-21T08:05:53-06:00"
   }
  ],
- "snapshot_note": "4 PM scan Sat 11/21 ~4:25 PM CT. No HIGH PRIORITY (0/3). No new open campaigns or pre-launch updates. X since noon CT; CoinGecko prices + SafeTrade tickers ~4:25 PM CT (49 bases). Not financial advice.",
+ "snapshot_note": "8 PM scan Sat 11/21 ~8:25 PM CT. No HIGH PRIORITY (0/3). No new open campaigns. DAC Chain reported TGE date passed with no official TGE. X since 4:15 PM CT; CoinGecko prices + SafeTrade tickers ~8:25 PM CT (49 bases). Not financial advice.",
  "deadlines": [
-  {
-   "project": "DAC Chain",
-   "theme": "Quantum",
-   "title": "TGE (reported, never posted by @dac_chain; community now says no date is set)",
-   "type": "TGE",
-   "date": "2026-11-21T18:00:00-06:00",
-   "approx": true,
-   "url": "https://x.com/RenoWae9/status/2123986257265230205",
-   "status": "open"
-  },
   {
    "project": "Flop Network",
    "theme": "AI",
