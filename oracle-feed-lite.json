@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-22T16:30:00-06:00",
+ "generated_at": "2026-11-22T20:30:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-22T16:30:00-06:00",
-  "next_scan": "2026-11-22T20:00:00-06:00",
+  "last_scan": "2026-11-22T20:30:00-06:00",
+  "next_scan": "2026-11-23T08:00:00-06:00",
   "activity": [
-   "4 PM scan: X watchlist accounts (2 AI + 1 quantum batches since 12:25 PM CT), AI and quantum keyword searches, SafeTrade tickers",
-   "AI: no new posts from Ritual, GenLayer, DATA, Fraction, Axis, Flop Labs, Crynux, TermiX, Verona or Kite since noon. Gensyn Agent Competition: Evidence Mining (prize contest, registration extended to Wed 11/25; not a token campaign). Flop testnet Tue 11/24 still tentative",
-   "Quantum: Soqucoin education posts on ML-DSA-44 signature size and merge mining (official); QoreChain post-quantum hackathon promos (repeat); @dac_chain, Quantus, QRL and Quip quiet",
-   "SafeTrade 45 bases via CoinGecko: rotation only (DAI, XPM present; ARRR, KMD, SAFE, SOH, ZCL absent), no AI or quantum adds",
-   "Rejected / repeats: Asentum post-quantum airdrop-farm referral spam, Motes Genesis NFT shills"
+   "8 PM scan: X watchlist accounts (2 AI + 1 quantum batches since 4:15 PM CT), AI and quantum keyword searches, SafeTrade tickers",
+   "AI: Arthur Hayes says Flop devnet activity is picking up ahead of testnet (founder; no new dates). Flop testnet Tue 11/24 still tentative. Motes teased an \"Aura Points Testnet\" coming soon (official, undated; not open, not vetted). No new posts from Ritual, GenLayer, DATA, Fraction, Axis, Crynux, TermiX, Verona or Kite",
+   "Quantum: Soqucoin merge-mining and ML-DSA-44 posts (official); NaoX PQ migration replies; Stellar Protocol 30 vote Mon 11/23 (narrative). Quantus, QRL, Quip and @dac_chain quiet",
+   "SafeTrade 45 bases via CoinGecko: rotation only (SAFE back; DAI, ZCL absent), no AI or quantum adds",
+   "Rejected / repeats: Asentum post-quantum airdrop-farm referral spam, Retium testnet farm promos, Motes shills, low-follower Sombra and BrainChain promos"
   ],
-  "x_reads_left_today": 966
+  "x_reads_left_today": 993
  },
  "watchlist": [
   {
