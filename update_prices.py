@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Refresh live-token prices in oracle-feed.json (CoinGecko public API). Run every 15 minutes, then publish."""
+"""Refresh live-token prices in oracle-feed.json (CoinGecko public API). Run every hour, then publish."""
 import json, sys, urllib.request, urllib.parse, datetime, os, fcntl, zoneinfo
 D = os.path.dirname(os.path.abspath(__file__))
 lock = open(os.path.join(D, '.prices.lock'), 'w'); fcntl.flock(lock, fcntl.LOCK_EX)
