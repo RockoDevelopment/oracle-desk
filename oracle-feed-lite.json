@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-23T16:25:00-06:00",
+ "generated_at": "2026-11-23T20:20:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-23T16:25:00-06:00",
-  "next_scan": "2026-11-23T20:00:00-06:00",
+  "last_scan": "2026-11-23T20:20:00-06:00",
+  "next_scan": "2026-11-24T08:00:00-06:00",
   "activity": [
-   "4 PM scan: X watchlist accounts (quantum + AI batches), AI and quantum keyword searches since 12:15 PM CT, SafeTrade tickers (CoinGecko)",
-   "Quantum: Stellar Foundation (@StellarOrg) confirmed Bell (Protocol 30) is live on mainnet, adding post-quantum ML-DSA signature checks for on-chain code (XLM already trades; narrative only). Soqucoin and Quip explainer posts, no new dates",
-   "AI: Teneo replied again 'more information on TGE soon' (no date). Gensyn Evidence Mining contest starts in two days (prize contest, already noted). Flop testnet still Tue 11/24 1:00 AM CT",
-   "SafeTrade: 48 pairs' bases (ZCL back, off-niche); no new AI or quantum listings"
+   "8 PM scan: 6 X searches (AI + quantum keywords, watchlist official accounts), SafeTrade tickers",
+   "Flop testnet Tue 11/24 1:00 AM CT unchanged",
+   "Stellar Bell (Protocol 30) ML-DSA mainnet coverage: narrative only",
+   "SafeTrade 48 bases, no new AI/quantum listings"
   ],
-  "x_reads_left_today": 967
+  "x_reads_left_today": 994
  },
  "watchlist": [
   {
