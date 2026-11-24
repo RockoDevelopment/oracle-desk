@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-23T20:20:00-06:00",
+ "generated_at": "2026-11-24T08:04:08-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-23T20:20:00-06:00",
-  "next_scan": "2026-11-24T08:00:00-06:00",
+  "last_scan": "2026-11-24T08:04:08-06:00",
+  "next_scan": "2026-11-24T12:00:00-06:00",
   "activity": [
-   "8 PM scan: 6 X searches (AI + quantum keywords, watchlist official accounts), SafeTrade tickers",
-   "0 HIGH PRIORITY (0/3); no new open campaigns",
-   "Flop testnet Tue 11/24 1:00 AM CT unchanged",
-   "Stellar Bell (Protocol 30) ML-DSA mainnet coverage: narrative only",
-   "SafeTrade 48 bases, no new AI/quantum listings"
+   "8 AM digest: 14 X reads (watchlist accounts, AI + quantum keywords, X News, Crypto.com check), CoinGecko markets + AI/quantum categories, SafeTrade tickers, GitHub commits",
+   "0 HIGH PRIORITY (0/3); 1 newly found open campaign (Teneo Beacon Season 5)",
+   "Flop testnet live Tue 11/24 6:56 AM CT (unscored opening, features switching on)",
+   "Ritual listed on Crypto.com (RITUAL/USD, CEX); Quantus +12.9%, stuck swap resolved",
+   "SafeTrade 50 bases, no new AI/quantum listings"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
@@ -90,11 +90,11 @@
      "score": 81
     }
    ],
-   "market_cap": 11673656,
+   "market_cap": 11677138,
    "fdv": 500900000.0,
-   "volume_24h": 1157236,
+   "volume_24h": 1179275,
    "dex_route": "Rhea Finance (NEAR) qtc.omft.near; Raydium (Solana) via NEAR Intents, live Thu 11/12 (official; Solana mint not posted by Quantus, verify in-app). CEX: Bitrue QTC/USDT. pump.fun and Base QTC tokens are impostors",
-   "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official, time TBA). Stuck QTC to USDT swap (single report): co-founder @n13 says it failed on the NEAR side, opened a ticket with NEAR and will make the user whole (founder reply, Mon 11/23). 'How to Get QTC on Solana' guide posted Mon 11/23 (official; same Raydium route). Cold Wallet live since Fri 11/20 (official)",
+   "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official, time TBA). Stuck QTC to USDT swap resolved Tue 11/24: co-founder @n13 says NEAR fixed the issue and the user confirmed the QTC arrived. Desktop wallet: cold-wallet accounts, Keystone signing steps, swap limit and orphaned-swap notices (GitHub Tue 11/24)",
    "milestone_date": "2026-12-01T23:59:00-06:00",
    "links": [
     {
@@ -120,12 +120,12 @@
    ],
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
-   "last_update": "2026-11-24T08:02:07-06:00",
-   "price": 32.37,
+   "last_update": "2026-11-24T08:04:08-06:00",
+   "price": 32.38,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
    "cg_id": "quantus",
-   "price_updated": "2026-11-24T08:02:07-06:00"
+   "price_updated": "2026-11-24T08:04:08-06:00"
   },
   {
    "name": "Ritual",
@@ -208,11 +208,11 @@
      "score": 76
     }
    ],
-   "market_cap": 54447925,
+   "market_cap": 54461025,
    "fdv": null,
-   "volume_24h": 1619530,
+   "volume_24h": 1624243,
    "dex_route": "Base/BSC bridged 0x256E...8C37; official Base pool about $6 liquidity, so no real DEX route (CEX: Coinbase, Gate, MEXC)",
-   "next_milestone": "Real DEX liquidity on Base or BSC and an audit (both undated)",
+   "next_milestone": "Listed on Crypto.com Exchange and App Tue 11/24 (RITUAL/USD, CEX only; official @Cryptocom_Exch). Still missing real DEX liquidity on Base or BSC and an audit (both undated)",
    "milestone_date": null,
    "links": [
     {
@@ -234,11 +234,11 @@
    ],
    "upgrade_if": "Named-firm audit; real DEX liquidity on Base/BSC; more CEX listings",
    "downgrade_if": "Heavy airdrop or issuance selling; bridge or chain incident",
-   "last_update": "2026-11-24T08:02:07-06:00",
-   "price": 0.03024885,
+   "last_update": "2026-11-24T08:04:08-06:00",
+   "price": 0.03024556,
    "logo": "logos/ritual.png",
    "website": "https://ritual.net",
-   "price_updated": "2026-11-24T08:02:07-06:00",
+   "price_updated": "2026-11-24T08:04:08-06:00",
    "cg_id": "ritual"
   },
   {
@@ -326,7 +326,7 @@
    "fdv": null,
    "volume_24h": null,
    "dex_route": "No token yet; CoinGecko preview lists an Ethereum contract 0x4242...2a2f that GenLayer has not posted (Unverified); fake GEN tokens on Base/BSC/Solana",
-   "next_milestone": "Mission GEN in the Court ends Thu 11/26 6:00 AM CT. Internet Court x 1inch integration announced Mon 11/23 (official). Pre-Mainnet Staking opens on 'THE DAY' (undated). Revised tokenomics (official Wed 11/18): TGE unlock 673.24M GEN (16.0%). Missing: dated launch day, audit, official contract",
+   "next_milestone": "Mission GEN in the Court ends Thu 11/26 6:00 AM CT. Tue 11/24: GenLayer quote-posted Aero's 'Cleared for landing' with 👀 (official tease, no details); third parties read it as GEN launching on Aero with TGE 'likely December' (rumor). Missing: dated launch day, audit, official contract",
    "milestone_date": "2026-11-26T06:00:00-06:00",
    "links": [
     {
@@ -352,7 +352,7 @@
    ],
    "upgrade_if": "Dated TGE + official Arbitrum contract + audit",
    "downgrade_if": "TGE slips past October",
-   "last_update": "2026-11-23T12:20:00-06:00",
+   "last_update": "2026-11-24T08:04:08-06:00",
    "price": null,
    "logo": "logos/genlayer.png",
    "website": "https://genlayer.com"
@@ -430,9 +430,9 @@
      "score": 69
     }
    ],
-   "market_cap": 28617715,
+   "market_cap": 28791284,
    "fdv": 150700000.0,
-   "volume_24h": 4199596,
+   "volume_24h": 6488063,
    "dex_route": "No official DEX route (exchanges only)",
    "next_milestone": "Sui migration date + swap instructions (TBA). Trace Echo launched Fri 11/20 (official): AI labs check dataset exclusivity against 325M files",
    "milestone_date": null,
@@ -445,11 +445,11 @@
    "upgrade_if": "Migration date + audited Sui contracts",
    "downgrade_if": "Migration delays",
    "last_update": "2026-11-24T08:02:07-06:00",
-   "price": 0.079102,
+   "price": 0.079584,
    "logo": "logos/data-network.png",
    "website": "https://www.datafdn.org",
    "cg_id": "story-2",
-   "price_updated": "2026-11-24T08:02:07-06:00"
+   "price_updated": "2026-11-24T08:04:08-06:00"
   },
   {
    "name": "Quip Network",
@@ -724,11 +724,11 @@
      "score": 68
     }
    ],
-   "market_cap": 859138,
+   "market_cap": 858266,
    "fdv": null,
-   "volume_24h": 157750,
+   "volume_24h": 157812,
    "dex_route": "No official DEX route; CEX: SafeTrade (SOQ/USDT), NonKYC (SOQ/BTC+USDT), Biconomy (SOQ/USDT, indexed on CoinGecko Sun 11/8)",
-   "next_milestone": "XT.com listing of native SOQ (official Sat 11/21; trading-open date TBA, CEX only). Teaser Mon 11/23: 'the post-quantum era... gets unleashed before 2027' (official, no details). CMC listing and team disclosure (undated). Mining-Dutch pool added Mon 11/23 (official). Still no official DEX route",
+   "next_milestone": "XT.com listing of native SOQ (official Sat 11/21; trading-open date TBA, CEX only). SoquShield wallet release 2.7.0 build 36 (GitHub Mon 11/23). 'Unleashed before 2027' teaser (official, no details). Still no official DEX route",
    "milestone_date": null,
    "links": [
     {
@@ -770,12 +770,12 @@
    ],
    "upgrade_if": "DEX liquidity, CMC listing, audit",
    "downgrade_if": "Pool centralization returns or partner claims don't hold up",
-   "last_update": "2026-11-24T08:02:07-06:00",
-   "price": 0.00013414,
+   "last_update": "2026-11-24T08:04:08-06:00",
+   "price": 0.00013399,
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
    "cg_id": "soqucoin",
-   "price_updated": "2026-11-24T08:02:07-06:00"
+   "price_updated": "2026-11-24T08:04:08-06:00"
   },
   {
    "name": "Axis Robotics",
@@ -850,9 +850,9 @@
      "score": 52
     }
    ],
-   "market_cap": 13592715,
+   "market_cap": 13634783,
    "fdv": null,
-   "volume_24h": 3096332,
+   "volume_24h": 3756200,
    "dex_route": "Uniswap v4 (Base) 0x5be75e3b0aff5d1a042a5363ae36acb1d6d755ea",
    "next_milestone": "Next Season 2 weekly settlement Sat 11/28 4:00 AM CT (Saturdays 10:00 UTC, claim on Base). Skills Atlas thread Mon 11/23 (official): 30 to 100 human demos per task, easy tasks retired, new demos go to harder tasks. On-chain vesting and legal review undated",
    "milestone_date": "2026-11-28T04:00:00-06:00",
@@ -873,19 +873,19 @@
    "upgrade_if": "Verified team, audit",
    "downgrade_if": "Heavy unlocks, more lock-up breaches, or no on-chain vesting published",
    "last_update": "2026-11-24T08:02:07-06:00",
-   "price": 0.08238,
+   "price": 0.082642,
    "logo": "logos/axis-robotics.png",
    "website": "https://axisrobotics.ai",
    "cg_id": "axis-robotics",
-   "price_updated": "2026-11-24T08:02:07-06:00"
+   "price_updated": "2026-11-24T08:04:08-06:00"
   },
   {
    "name": "Flop Network",
    "ticker": "FLOP",
    "theme": "AI",
-   "stage": "Public devnet (live Tue 11/3); testnet opens Tue 11/24 1:00 AM CT (official)",
+   "stage": "Testnet live Tue 11/24 (unscored opening)",
    "tier": "WATCH",
-   "score": 60,
+   "score": 62,
    "score_history": [
     {
      "date": "2026-10-22",
@@ -950,14 +950,18 @@
     {
      "date": "2026-11-23",
      "score": 60
+    },
+    {
+     "date": "2026-11-24",
+     "score": 62
     }
    ],
    "market_cap": null,
    "fdv": null,
    "volume_24h": null,
    "dex_route": "NO TOKEN EXISTS; any FLOP is a scam",
-   "next_milestone": "Testnet opens Tue 11/24 1:00 AM CT (07:00 UTC, official @flop_labs). Agents need no approval or waitlist: claim test FLOP from the faucet daily (Technocore chat or one API call) and spend it on inference. The testnet (up to ~90 days, snapshot at its close) is the only route to the genesis airdrop; mainnet Q1 2027 is provisional (official testnet page). CLI v0.8.0 and Python SDK v0.3.4 released (GitHub Mon 11/23). Test FLOP has no value; any FLOP token is a scam",
-   "milestone_date": "2026-11-24T01:00:00-06:00",
+   "next_milestone": "Testnet went live Tue 11/24 6:56 AM CT after a ~6 h delay (official); features switch on over the following hours; explorer testnet.flopscan.io. Only settled inference in the later scored phase (undated, up to ~90 days) counts toward the genesis airdrop; mainnet Q1 2027 provisional. CLI v0.8.1 and a testnet model-upload sponsorship form (GitHub). Test FLOP has no value; any FLOP token is a scam",
+   "milestone_date": "",
    "links": [
     {
      "label": "Flop on X",
@@ -970,7 +974,7 @@
    ],
    "upgrade_if": "Testnet opens on time and runs stably; published airdrop rules; named engineering team; audit",
    "downgrade_if": "Delays; impostor tokens",
-   "last_update": "2026-11-23T08:04:55-06:00",
+   "last_update": "2026-11-24T08:04:08-06:00",
    "price": null,
    "logo": "logos/flop-network.png",
    "website": "https://flop.finance"
@@ -1048,21 +1052,21 @@
      "score": 51
     }
    ],
-   "market_cap": 1214434,
+   "market_cap": 1214447,
    "fdv": null,
    "volume_24h": 83.65,
    "dex_route": "Uniswap v4 (Base) 0x9557dd9e241bc9636732623b672b4090af519396 (thin)",
-   "next_milestone": "AI chat app on Crynux GPUs (undated). crynux-relay video task support and video metrics docs (GitHub Mon 11/23). API Key Sharing marketplace live since Wed 11/11 (official)",
+   "next_milestone": "AI chat app on Crynux GPUs (undated). Bridge video support and custom stop strings for GPT tasks (GitHub Tue 11/24). 24h +33% is on ~$84 volume (thin book, ignore)",
    "milestone_date": null,
    "links": [],
    "upgrade_if": "Deeper liquidity, audit",
    "downgrade_if": "Liquidity stays thin",
-   "last_update": "2026-11-24T08:02:07-06:00",
-   "price": 0.00069927,
+   "last_update": "2026-11-24T08:04:08-06:00",
+   "price": 0.00069929,
    "logo": "logos/crynux.png",
    "website": "https://crynux.io",
    "cg_id": "crynux",
-   "price_updated": "2026-11-24T08:02:07-06:00"
+   "price_updated": "2026-11-24T08:04:08-06:00"
   },
   {
    "name": "TermiX",
@@ -1141,12 +1145,12 @@
    "fdv": null,
    "volume_24h": null,
    "dex_route": "No token yet",
-   "next_milestone": "TGE and tokenomics undated. Official security warning Mon 11/23: TermiX has raised no funds from the public and backs no fundraising in its name. Binance Agent ID Skills task 50 TP (official). Kaito epoch 3 ended Sun 11/22",
+   "next_milestone": "TGE and tokenomics undated. Kaito Katalyst Epoch 4 (final epoch) reported to run Mon 11/23 to Tue 12/22 (third party, not yet posted by @termix_ai). Official: no public fundraising in its name",
    "milestone_date": null,
    "links": [],
    "upgrade_if": "Dated TGE",
    "downgrade_if": "Revenue fades",
-   "last_update": "2026-11-23T08:04:55-06:00",
+   "last_update": "2026-11-24T08:04:08-06:00",
    "price": null,
    "logo": "logos/termix.png",
    "website": "https://termix.ai"
@@ -1307,9 +1311,9 @@
      "score": 66
     }
    ],
-   "price": 0.086817,
-   "market_cap": 8045858,
-   "volume_24h": 168840,
+   "price": 0.086782,
+   "market_cap": 8046865,
+   "volume_24h": 168808,
    "dex_route": "None verified (CEX: Bithumb, Bybit, Bitget, KuCoin, Gate, MEXC, Kraken)",
    "next_milestone": "verUSD teased again Mon 11/23 ('verUSD is at the door', official, undated, no partner named). Audit of the PQ upgrade and an official DEX route still missing",
    "milestone_date": null,
@@ -1341,10 +1345,42 @@
    "logo": "logos/verona.png",
    "website": "https://verona.dev",
    "cg_id": "verona",
-   "price_updated": "2026-11-24T08:02:07-06:00"
+   "price_updated": "2026-11-24T08:04:08-06:00"
   }
  ],
  "prelaunch_updates": [
+  {
+   "project": "Teneo",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "OPEN CAMPAIGN (official): Teneo Beacon Season 5 is live (Tue 11/24 7:04 AM CT post; Season 4 USDC payouts sent on-chain). Join by creating a Teneo account and running the Beacon app (shares your unused bandwidth with AI agents) on a phone or computer; uptime earns Fragments toward seasonal USDC draws, and Teneo says Fragments count toward its future token. Season 5 pool and end date not posted (seasons have run 60 days). Payout needs a linked EVM wallet. Teneo is radar only (no score yet). Use only teneo-protocol.ai links; ignore referral codes. Any Teneo token before an official contract is fake.",
+   "at": "2026-11-24T08:04:08-06:00",
+   "url": "https://x.com/teneo_protocol/status/2125214030293848381"
+  },
+  {
+   "project": "Flop Network",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "Flop testnet is live (Tue 11/24 6:56 AM CT, about 6 hours late). Flop calls it a very early release with features switching on over the coming hours; explorer: testnet.flopscan.io. This opening is unscored: only settled inference in the later scored phase counts toward the genesis airdrop. AIRDROP BOT checked at 7:35 AM CT: nothing to claim yet.",
+   "at": "2026-11-24T08:04:08-06:00",
+   "url": "https://x.com/flop_labs/status/2125212060481093834"
+  },
+  {
+   "project": "GenLayer",
+   "theme": "AI",
+   "source_type": "rumor",
+   "text": "GenLayer quote-posted Aero's 'Cleared for landing' with 👀 (official tease, no details). Third-party accounts say GEN will launch on Aero (Base DEX) with TGE likely in December; not confirmed by GenLayer. Still no dated launch day, audit or official contract; any GEN token now is fake.",
+   "at": "2026-11-24T08:04:08-06:00",
+   "url": "https://x.com/GenLayer/status/2125164101970371028"
+  },
+  {
+   "project": "Quantus",
+   "theme": "Quantum",
+   "source_type": "founder",
+   "text": "Quantus stuck swap resolved: co-founder @n13 says the NEAR team fixed the issue, and the user confirmed the QTC arrived (Tue 11/24 ~3:45 AM CT). Single case, now closed.",
+   "at": "2026-11-24T08:04:08-06:00",
+   "url": "https://x.com/n13/status/2125163079235457082"
+  },
   {
    "project": "Quantus",
    "theme": "Quantum",
@@ -1392,145 +1428,102 @@
    "text": "Flop: uptime on its own does not count toward rewards; inference served is what counts (official reply). Testnet still Tue 11/24 (tentative). A Solana pump.fun 'FLOP' token is being shilled; Flop has no token, so it is a scam.",
    "at": "2026-11-22T12:30:00-06:00",
    "url": "https://x.com/flop_labs/status/2124547573629546878"
-  },
-  {
-   "project": "Flop Network",
-   "theme": "AI",
-   "source_type": "rumor",
-   "text": "Flop: many airdrop accounts are pushing a 'FLOP Creator Program' (1.2B FLOP for creators, mainnet and TGE Q1 2027). flop.finance does show a 'KOLs & creators' register-interest form next to the miner and validator forms, but the allocation and TGE figures are not on Flop's official links page, and Flop says register interest grants nothing. Testnet still Tue 11/24 (tentative). floplabs.ai, shared by a Telegram channel, is not an official Flop domain. Any FLOP token is a scam.",
-   "at": "2026-11-22T08:06:02-06:00",
-   "url": "https://flop.finance/official/"
-  },
-  {
-   "project": "DAC Chain",
-   "theme": "Quantum",
-   "source_type": "rumor",
-   "text": "DAC Chain: the reported Sat 11/21 6 PM CT (11/22 00:00 UTC) TGE passed with no announcement, time, venue or contract from @dac_chain (no posts since Fri 11/20). A third-party post claims the 11/22 date was removed from the vesting repo and TGE is now 'to be announced' (rumor, unverified). Any DACT token now trading is not official; treat 'DACT TGE is live' and checker links as scams.",
-   "at": "2026-11-21T20:24:14-06:00",
-   "url": "https://x.com/ayuratna767/status/2124293127913849189"
-  },
-  {
-   "project": "DAC Chain",
-   "theme": "Quantum",
-   "source_type": "rumor",
-   "text": "DAC Chain: at noon Sat 11/21 @dac_chain still had not posted a TGE time, venue or contract for the reported Sat 11/21 6 PM CT date. Random accounts are sharing 'DACT airdrop checker' and 'mainnet portal' links that DAC has not published; treat them as likely phishing and never connect a wallet. Any DACT token before an official contract is unverified.",
-   "at": "2026-11-21T09:46:19-06:00",
-   "url": "https://x.com/StarMaluks/status/2124167532852707560"
-  },
-  {
-   "project": "Flop Network",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "Flop Labs (reply, Sat 11/21): the homepage form is now called 'register interest'; it is not an application and grants nothing. Miner slots are not capped, but onboarding will be throttled to keep the network stable. Testnet/airdrop still Tue 11/24 (tentative). No token exists; any FLOP token is a scam.",
-   "at": "2026-11-21T08:09:25-06:00",
-   "url": "https://x.com/flop_labs/status/2124143145541873863"
   }
  ],
  "digest": {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "top3": [
    {
     "name": "Flop Network",
-    "why": "AI pick: testnet opens Tue 11/24 1:00 AM CT (07:00 UTC, official). Agents claim test FLOP daily and spend it on inference; the testnet is the only route to the genesis airdrop. Check flop.finance/testnet before joining. No FLOP token exists; any FLOP token is a scam.",
+    "why": "AI pick: testnet went live Tue 11/24 6:56 AM CT (official) as an unscored opening; features are switching on over the day. Watch for the scored phase rules, since only settled inference there counts toward the genesis airdrop. No FLOP token exists; any FLOP token is a scam.",
     "logo": "logos/flop-network.png",
     "url": "https://flop.finance"
    },
    {
     "name": "Quantus",
-    "why": "Quantum pick: QTC flat at $28.56 (24h $27.39 to $29.53, ~$521K vol). One user reports a QTC to USDT swap marked successful but not received; co-founder @n13 asked for 24 hours to investigate. Watch for the outcome. DEX route: Rhea Finance (NEAR).",
+    "why": "Quantum pick: QTC +12.9% to $32.38 (24h $28.85 to $35.10) on ~$1.18M volume, about double yesterday, so not a thin-book spike. The one stuck NEAR swap is resolved. DEX route: Rhea Finance (NEAR).",
     "logo": "logos/quantus.png",
     "url": "https://www.quantus.com"
    },
    {
     "name": "GenLayer",
-    "why": "AI near-miss (71): 1inch Space Mon 11/23 9 AM CT and a new AntSeed inference-cost benchmark (official). Still no launch date, audit or official contract; any GEN token is fake.",
+    "why": "AI near-miss (71): GenLayer teased Aero's 'Cleared for landing' post; third parties say GEN launches on Aero with TGE likely in December (unconfirmed). GEN in the Court ends Thu 11/26 6 AM CT. Still missing a dated launch day, audit and official contract.",
     "logo": "logos/genlayer.png",
     "url": "https://genlayer.com"
    }
   ],
   "ai": [
-   "No new HIGH PRIORITY (0 of 3). No new open campaigns",
-   "Flop testnet opens Tue 11/24 1:00 AM CT (official); testnet work is the only route to the genesis airdrop; CLI v0.8.0 released. Score 58 to 60",
-   "Open: Flop testnet + feedback rewards; GenLayer S2 (GEN in the Court to Thu 11/26 6 AM CT); TermiX Points; Axis S2 (next settlement Sat 11/28 4 AM CT)",
-   "GenLayer 71 near-miss: AntSeed benchmark (official), 1inch Space Mon 9 AM CT; still no launch date, audit or contract",
-   "TermiX: official warning, no public fundraising in its name. Axis: Skills Atlas thread (easy tasks retired)",
-   "Ritual $0.0295 (-8.8%, ~$1.1M vol); DATA $0.0818 (+1.7%); Axis $0.0879 (-0.4%); Pearl (SafeTrade) $2.35 (+18.3%, ~$36M vol)",
-   "Radar: DECA Labs points (Polychain, Pantera, Accel; official says no token). Rejected: ZNODE (Stellar AI meme token)"
+   "No new HIGH PRIORITY (0 of 3). New open campaign: Teneo Beacon Season 5 (run the Beacon bandwidth app, earn Fragments toward USDC draws; pool and end date unconfirmed)",
+   "Flop testnet live Tue 11/24 6:56 AM CT (official, ~6 h late), unscored opening; scored phase undated. Flop 60 to 62",
+   "Still open: Flop testnet + feedback rewards; GenLayer S2 (GEN in the Court to Thu 11/26 6 AM CT); TermiX Points (Epoch 4 reported to Tue 12/22, unconfirmed); Axis S2 (next settlement Sat 11/28 4 AM CT)",
+   "Ritual listed on Crypto.com (RITUAL/USD, CEX); $0.0302 (+2.3%, ~$1.6M vol); still no real DEX liquidity",
+   "GenLayer 71: official 👀 on Aero 'Cleared for landing'; Aero launch and December TGE are rumors",
+   "DATA $0.0796 (-3.8%); Axis $0.0826 (-6.7%); Pearl (SafeTrade) $2.06 (-12.3%, ~$37M vol); Crynux +33% on ~$84 vol (thin, ignored)",
+   "Rejected: Motes and Lightchain AI (repeats)"
   ],
   "quantum": [
-   "Quantus $28.56 (+0.2%, 24h $27.39 to $29.53, ~$521K vol); co-founder investigating one stuck swap report; desktop swap screens (GitHub)",
-   "Soqucoin $0.000143 (-8.9%); \"unleashed before 2027\" teaser (official, no details). XT.com listing date still TBA",
-   "Verona $0.0888 (flat): verUSD \"at the door\" (official, undated)",
-   "Algorand $0.0865 (+14.5%); QRL $0.904 (+3.0%), OTS key tracker in offline wallet generator (GitHub); QANX $0.00936 (-5.8%)",
-   "Quip: network figures refreshed (GitHub); audit and TGE undated. DAC: still no official TGE post; launch-code farm posts continue",
-   "Narrative: Stellar P30 vote Mon 11/23 11 AM CT (ML-DSA in Soroban); regulator \"quantum washing\" talk; TRON PQ testnet explainers (repeat)",
-   "Rejected: SIWORLD (new), Asentum/Retium farm promos (repeat)"
+   "Quantus $32.38 (+12.9%, 24h $28.85 to $35.10, ~$1.18M vol); stuck NEAR swap resolved; desktop cold-wallet and swap work (GitHub)",
+   "Soqucoin $0.000134 (-6.6%); SoquShield wallet 2.7.0 (GitHub); XT.com listing still undated",
+   "QRL $0.873 (-3.4%); Algorand $0.0790 (-9.5%); QANX -8.5%; Verona $0.0868 (-2.3%); NPT -13.4% thin",
+   "Quip: validator payout docs and feedback app 0.16 (GitHub); audit and TGE undated. DAC: still no official TGE post",
+   "Narrative: Stellar Bell (ML-DSA in contracts) coverage; Ethereum Foundation hash-based migration target Dec 2028; DeepMind agents cut quantum-algorithm costs up to 290x",
+   "Rejected: Xeris (pump.fun token, unverified PQ claims), Asentum/Retium farm promos (repeat)"
   ]
  },
  "rejections": [
   {
-   "name": "SIWORLD (@thesiworld)",
+   "name": "Xeris (XERIS)",
    "theme": "Quantum",
-   "score": 18,
-   "reason": "\"Post-quantum private payment network, public testnet pre-launch\": 10-follower account created Oct 2026, no named team, public code, audit or date",
-   "at": "2026-11-23T08:04:55-06:00"
+   "score": 22,
+   "reason": "\"Patent pending post-quantum L1\" with a Solana pump.fun token and community 'soon we moon' posts; no named NIST algorithm, team or code found; CertiK claim not checked against CertiK",
+   "at": "2026-11-24T08:04:08-06:00"
   },
   {
-   "name": "ZNODE (Stellar token)",
+   "name": "Motes (Ondo integration posts)",
    "theme": "AI",
-   "score": 5,
-   "reason": "\"Decentralized AI compute routing, liquidity locked forever\" meme-token shill from a 57-follower account; no team, code or docs",
-   "at": "2026-11-23T08:04:55-06:00"
+   "score": 20,
+   "reason": "Repeat: NFT-agent sale pushed by a coordinated shill wave; Ondo integration is the project's own claim",
+   "at": "2026-11-24T08:04:08-06:00"
+  },
+  {
+   "name": "Lightchain AI (devnet sprint)",
+   "theme": "AI",
+   "score": 40,
+   "reason": "Repeat: devnet roadmap sprint only; earlier presale-style marketing; no audit or independent backing",
+   "at": "2026-11-24T08:04:08-06:00"
   },
   {
    "name": "Asentum / Retium farm promos",
    "theme": "Quantum",
    "score": 20,
    "reason": "Repeat: copy-paste PQ testnet farming posts from low-follower accounts; teams unverified, no audit",
-   "at": "2026-11-23T08:04:55-06:00"
-  },
-  {
-   "name": "Ozone (OZO)",
-   "theme": "Quantum",
-   "score": 30,
-   "reason": "Coordinated paid shill wave: identical 'bought $5000 on MEXC, T-1 listing, buyback, 20-30X' posts from many large accounts; pump language",
-   "at": "2026-11-23T12:20:00-06:00"
+   "at": "2026-11-24T08:04:08-06:00"
   }
  ],
- "snapshot_note": "8 AM morning report Mon 11/23 ~8:15 AM CT. No HIGH PRIORITY (0/3). No new open campaigns; Flop testnet now dated Tue 11/24 1:00 AM CT (official). X since Sun 8:24 PM CT; CoinGecko + SafeTrade tickers ~8:00 AM CT (46 bases, no niche adds). Not financial advice.",
- "deadlines": [
-  {
-   "project": "Flop Network",
-   "theme": "AI",
-   "title": "Testnet opens 07:00 UTC; airdrop measured on testnet work (official)",
-   "type": "Testnet",
-   "date": "2026-11-24T01:00:00-06:00",
-   "url": "https://x.com/flop_labs/status/2124776944885743659",
-   "status": "open"
-  }
- ],
+ "snapshot_note": "8 AM morning report Tue 11/24 ~8:05 AM CT. No HIGH PRIORITY (0/3). New open campaign: Teneo Beacon Season 5. Flop testnet live 6:56 AM CT (unscored). X since Mon 8:20 PM CT; CoinGecko + SafeTrade tickers ~8:00 AM CT (50 bases, no niche adds). Not financial advice.",
+ "deadlines": [],
  "report": {
-  "updated": "2026-11-23T08:04:55-06:00",
-  "intro": "Quiet night with one dated update. No new HIGH PRIORITY (0 of 3) and no new open campaigns. Flop Labs confirmed its testnet opens Tue 11/24 at 1:00 AM CT (07:00 UTC), and the testnet is the only route to the genesis airdrop. Quantus is flat at $28.56, and its co-founder is looking into one user's stuck swap.",
-  "snapshots": "CoinGecko markets + SafeTrade tickers ~8:00 AM CT Mon 11/23; X posts since 2026-11-23T02:24:00Z (Sun 8:24 PM CT); X News; GitHub public commit search since Sun 8 AM CT (Quantus 18, QRL 12, Crynux 5, Quip 4, Flop 2, GenLayer 1; Soqucoin, Ritual, burnt-labs 0). CoinGecko quantum-resistant category: no new coins (30); AI categories rank churn only. CoinGecko new-listings endpoint needs a paid plan (not used).",
+  "updated": "2026-11-24T08:04:08-06:00",
+  "intro": "Busy start in AI, quiet in quantum. No new HIGH PRIORITY (0 of 3). Flop's testnet went live at 6:56 AM CT as an unscored opening, and Teneo's Beacon Season 5 is a newly found open campaign. Ritual was listed on Crypto.com. Quantus is up 12.9% on real volume, and its one stuck swap is resolved.",
+  "snapshots": "CoinGecko markets + SafeTrade tickers ~7:59 AM CT Tue 11/24; X posts since 2026-11-24T02:20:00Z (Mon 8:20 PM CT); X News; GitHub public commit search since Mon 8 AM CT (Quantus 24, QRL 18, Quip 13, Soqucoin 9, GenLayer 4, Crynux 3, Flop 2; Ritual and burnt-labs 0). CoinGecko quantum-resistant category: no new coins (30); AI categories rank churn only. CoinGecko new-listings endpoint needs a paid plan (not used).",
   "disclaimer": "Research only, not financial advice. Never a recommendation to buy or sell. Snapshots can move quickly; thin books can print misleading prints.",
   "takeaways": [
-   "No new HIGH PRIORITY (0 of 3). GenLayer 71 is still the closest pre-launch near-miss and lacks a dated launch day, an audit and an official contract",
-   "Flop testnet opens Tue 11/24 1:00 AM CT (official). Agents claim test FLOP daily and spend it on inference; the testnet is the only route to the genesis airdrop. Flop moves 58 to 60",
-   "No new open campaigns. Still open: Flop testnet + feedback rewards, GenLayer Season 2 (GEN in the Court ends Thu 11/26 6 AM CT), Quip Points, TermiX Points, Axis Season 2",
-   "Quantus flat at $28.56; one user's QTC to USDT swap is under investigation by the co-founder (single report, not a confirmed incident)",
-   "TermiX: official warning that it has raised no public funds; anyone fundraising in its name is a scam",
-   "Narrative: Stellar P30 (ML-DSA in Soroban) vote Mon 11/23 11 AM CT; Algorand +14.5% with no project news found"
+   "No new HIGH PRIORITY (0 of 3). GenLayer 71 is still the closest pre-launch near-miss: no dated launch day, audit or official contract",
+   "NEW open campaign: Teneo Beacon Season 5 (run the Beacon bandwidth app, earn Fragments toward USDC draws; pool and end date unconfirmed). Not on the airdrops list until AIRDROP BOT signs up",
+   "Flop testnet live Tue 11/24 6:56 AM CT (official, ~6 h late). Unscored opening; only the later scored phase counts. Flop moves 60 to 62",
+   "Ritual listed on Crypto.com Exchange and App (RITUAL/USD). CEX only; still no real DEX liquidity",
+   "Quantus +12.9% to $32.38 on ~$1.18M volume; the stuck NEAR swap is resolved (user confirmed)",
+   "GenLayer teased Aero's 'Cleared for landing'; GEN on Aero and a December TGE are third-party rumors"
   ],
   "prelaunch": [
    {
     "project": "GenLayer",
     "ticker": "GEN",
     "theme": "AI",
-    "coming": "GEN launch day (\"THE DAY\"), airdrop auto-staked into Pre-Mainnet Staking, then mainnet",
-    "when": "Undated",
+    "coming": "GEN launch day (\"THE DAY\"), airdrop auto-staked into Pre-Mainnet Staking; Aero listing rumored",
+    "when": "Undated (December rumored, unconfirmed)",
     "score": 71,
-    "why": "Closest AI near-miss (71). AntSeed benchmark and 1inch Space Mon 11/23; still missing a dated launch day, an audit and an official contract"
+    "why": "Closest AI near-miss (71). Official 👀 on Aero's 'Cleared for landing'; still missing a dated launch day, an audit and an official contract"
    },
    {
     "project": "Quip Network",
@@ -1554,10 +1547,10 @@
     "project": "Flop Network",
     "ticker": "FLOP",
     "theme": "AI",
-    "coming": "Testnet (only route to the genesis airdrop); mainnet Q1 2027 provisional",
-    "when": "Testnet opens Tue 11/24 1:00 AM CT (07:00 UTC, official)",
-    "score": 60,
-    "why": "Dated by @flop_labs; agents claim test FLOP daily and spend it on inference; airdrop rules not final; any FLOP token is a scam"
+    "coming": "Scored testnet phase (genesis airdrop measured there); mainnet Q1 2027 provisional",
+    "when": "Testnet live Tue 11/24 6:56 AM CT (unscored); scored phase undated",
+    "score": 62,
+    "why": "Delivered the testnet on the announced day; features switching on; airdrop rules not final; any FLOP token is a scam"
    },
    {
     "project": "TermiX",
@@ -1566,16 +1559,16 @@
     "coming": "TGE + tokenomics",
     "when": "Undated",
     "score": 50,
-    "why": "Free points steps done; official warning Mon 11/23: no public fundraising; TGE undated"
+    "why": "Free points steps done; Epoch 4 reported to Tue 12/22 (unconfirmed); no public fundraising"
    },
    {
     "project": "DAC Chain",
     "ticker": "DACT",
     "theme": "Quantum",
     "coming": "TGE (no date)",
-    "when": "Undated. Reported Sat 11/21 6 PM CT date passed with no post from @dac_chain",
+    "when": "Undated. Third parties say the team is waiting on exchanges (rumor)",
     "score": 48,
-    "why": "Second missed date; stays REJECT until an official dated post, contract and DEX pool"
+    "why": "Two missed dates; stays REJECT until an official dated post, contract and DEX pool"
    }
   ],
   "radar_only": [
@@ -1586,7 +1579,6 @@
    "QRL 2.0",
    "Prime Intellect",
    "Nous Research",
-   "Teneo",
    "OptimAI",
    "Stellar Bell (P30)",
    "Starknet PQ L1 research",
@@ -1604,7 +1596,8 @@
    "Fhenix (quantum-safe FHE AMA Tue 11/17)",
    "AX1 ($AX1 Clanker launch)",
    "KForge (Kaspa agent token launchpad)",
-   "DECA Labs (points, no token)"
+   "DECA Labs (points, no token)",
+   "Teneo (Beacon Season 5 open)"
   ],
   "tokens": [
    {
@@ -1613,9 +1606,9 @@
     "theme": "Quantum",
     "category": "PQ PoW",
     "tier": "Strong",
-    "price": 28.56,
-    "market_cap": 10244980,
-    "volume_24h": 520530,
+    "price": 32.38,
+    "market_cap": 11677138,
+    "volume_24h": 1179275,
     "score": 81,
     "dex": "Rhea Finance (NEAR)"
    },
@@ -1625,9 +1618,9 @@
     "theme": "Quantum",
     "category": "PQ ledger",
     "tier": "Strong",
-    "price": 0.904118,
-    "market_cap": 70876500,
-    "volume_24h": 4526.03,
+    "price": 0.87347,
+    "market_cap": 68472616,
+    "volume_24h": 21582,
     "score": 77,
     "dex": ""
    },
@@ -1637,9 +1630,9 @@
     "theme": "Quantum",
     "category": "PQ-adjacent L1",
     "tier": "Strong",
-    "price": 0.086538,
-    "market_cap": 785957227,
-    "volume_24h": 28914639,
+    "price": 0.078983,
+    "market_cap": 717353035,
+    "volume_24h": 35927618,
     "score": 78,
     "dex": "Native Algorand DEXs"
    },
@@ -1649,9 +1642,9 @@
     "theme": "Quantum",
     "category": "PQ",
     "tier": "Strong",
-    "price": 0.08373,
-    "market_cap": 12192331,
-    "volume_24h": 24550,
+    "price": 0.079729,
+    "market_cap": 11620239,
+    "volume_24h": 25782,
     "score": 67,
     "dex": ""
    },
@@ -1661,10 +1654,10 @@
     "theme": "Quantum",
     "category": "PQ PoW",
     "tier": "Spec",
-    "price": 0.00014308,
-    "market_cap": 895963,
-    "volume_24h": 154960,
-    "score": 65,
+    "price": 0.00013399,
+    "market_cap": 858266,
+    "volume_24h": 157812,
+    "score": 68,
     "dex": ""
    },
    {
@@ -1673,9 +1666,9 @@
     "theme": "Quantum",
     "category": "PQ accounts",
     "tier": "Spec",
-    "price": 0.08882,
-    "market_cap": 8231490,
-    "volume_24h": 174196,
+    "price": 0.086782,
+    "market_cap": 8046865,
+    "volume_24h": 168808,
     "score": 66,
     "dex": ""
    },
@@ -1685,9 +1678,9 @@
     "theme": "Quantum",
     "category": "PQ L1 claim",
     "tier": "Spec",
-    "price": 0.00935763,
-    "market_cap": 15907978,
-    "volume_24h": 223910,
+    "price": 0.00866159,
+    "market_cap": 14718685,
+    "volume_24h": 103591,
     "score": 58,
     "dex": "PancakeSwap / Uniswap"
    },
@@ -1697,9 +1690,9 @@
     "theme": "Quantum",
     "category": "PQ",
     "tier": "Spec",
-    "price": 0.03752358,
-    "market_cap": 1394752,
-    "volume_24h": 5401.1,
+    "price": 0.0367233,
+    "market_cap": 1364754,
+    "volume_24h": 19518.93,
     "score": 57,
     "dex": "PancakeSwap / Uniswap"
    },
@@ -1709,9 +1702,9 @@
     "theme": "Quantum",
     "category": "PQ",
     "tier": "Spec",
-    "price": 0.149875,
-    "market_cap": 714846,
-    "volume_24h": 1305.95,
+    "price": 0.129868,
+    "market_cap": 620604,
+    "volume_24h": 2446.24,
     "score": 52,
     "dex": ""
    },
@@ -1721,9 +1714,9 @@
     "theme": "AI",
     "category": "AI execution L1",
     "tier": "HIGH",
-    "price": 0.02947331,
-    "market_cap": 53051952,
-    "volume_24h": 1138630,
+    "price": 0.03024556,
+    "market_cap": 54461025,
+    "volume_24h": 1624243,
     "score": 76,
     "dex": ""
    },
@@ -1733,9 +1726,9 @@
     "theme": "AI",
     "category": "AI data",
     "tier": "WATCH",
-    "price": 0.081795,
-    "market_cap": 29588739,
-    "volume_24h": 4686723,
+    "price": 0.079584,
+    "market_cap": 28791284,
+    "volume_24h": 6488063,
     "score": 69,
     "dex": ""
    },
@@ -1745,9 +1738,9 @@
     "theme": "AI",
     "category": "AI PoUW",
     "tier": "WATCH",
-    "price": 2.35,
-    "market_cap": 913474889,
-    "volume_24h": 35775738,
+    "price": 2.06,
+    "market_cap": 802597743,
+    "volume_24h": 36825029,
     "score": 72,
     "dex": ""
    },
@@ -1757,9 +1750,9 @@
     "theme": "AI",
     "category": "AI compute",
     "tier": "WATCH",
-    "price": 0.139883,
-    "market_cap": 0.0,
-    "volume_24h": 7654.3,
+    "price": 0.139857,
+    "market_cap": 0,
+    "volume_24h": 7120.85,
     "score": 69,
     "dex": "WGNK Uniswap ETH"
    },
@@ -1769,9 +1762,9 @@
     "theme": "AI",
     "category": "Physical AI data",
     "tier": "WATCH",
-    "price": 0.087918,
-    "market_cap": 14506451,
-    "volume_24h": 4297114,
+    "price": 0.082642,
+    "market_cap": 13634783,
+    "volume_24h": 3756200,
     "score": 52,
     "dex": "Uniswap Base"
    },
@@ -1781,9 +1774,9 @@
     "theme": "AI",
     "category": "AI GPU",
     "tier": "Spec",
-    "price": 0.001395,
-    "market_cap": 886822,
-    "volume_24h": 69483,
+    "price": 0.00135177,
+    "market_cap": 859331,
+    "volume_24h": 67360,
     "score": 52,
     "dex": "Uniswap ETH thin"
    },
@@ -1793,9 +1786,9 @@
     "theme": "AI",
     "category": "AI compute",
     "tier": "Spec",
-    "price": 0.00052513,
-    "market_cap": 912002,
-    "volume_24h": 548.01,
+    "price": 0.00069929,
+    "market_cap": 1214447,
+    "volume_24h": 83.65,
     "score": 51,
     "dex": "Uniswap V4 Base thin"
    }
@@ -1896,125 +1889,131 @@
     "theme": "AI",
     "fakes": "Any FRAC token before @FractionAI_xyz posts a contract; 'FRAC' Fractal PoW Coin on Base is unrelated",
     "official": "No token or contract yet"
+   },
+   {
+    "project": "Teneo",
+    "theme": "AI",
+    "fakes": "Any Teneo or AGENTIC token before an official contract; referral-code 'Season 5 airdrop' guides",
+    "official": "No token yet; links only from teneo-protocol.ai and @teneo_protocol"
    }
   ],
-  "safetrade_source": "CoinGecko exchanges/safe_trade/tickers snapshot Mon 11/23 ~8:00 AM CT (46 unique bases; +ARB, +URX, -XPM vs Sun 8 PM, off-niche rotation)",
+  "safetrade_source": "CoinGecko exchanges/safe_trade/tickers snapshot Tue 11/24 ~7:59 AM CT (50 unique bases vs 48 Mon 8 PM; off-niche rotation, no new AI or quantum listings)",
   "safetrade": [
    {
     "project": "Quantus",
     "ticker": "QUANTUS",
     "theme": "Quantum",
-    "price": 28.56,
-    "market_cap": 10244980,
-    "volume_24h": 520530,
+    "price": 32.38,
+    "market_cap": 11677138,
+    "volume_24h": 1179275,
     "score": 81,
     "tier": "Strong",
     "dex": "Rhea Finance (NEAR)",
-    "note": "On SafeTrade the ticker is QUANTUS (=QTC); the separate QTC ticker on SafeTrade is a different, unrelated coin. SafeTrade QUANTUS/USDT last ~$28.53 / ~$45,862 converted vol (snapshot Mon 11/23 ~8:00 AM CT). DEX route: Rhea Finance (NEAR).",
+    "note": "On SafeTrade the ticker is QUANTUS (=QTC); the separate QTC ticker on SafeTrade is a different, unrelated coin. DEX route: Rhea Finance (NEAR). +12.9% in 24h on ~$1.18M volume (24h $28.85 to $35.10). SafeTrade QUANTUS/USDT last ~$31.854 / ~$76,845 converted vol (snapshot Tue 11/24 ~7:59 AM CT).",
     "pair": "QUANTUS/USDT"
    },
    {
     "project": "Soqucoin",
     "ticker": "SOQ",
     "theme": "Quantum",
-    "price": 0.00014308,
-    "market_cap": 895963,
-    "volume_24h": 154960,
+    "price": 0.00013399,
+    "market_cap": 858266,
+    "volume_24h": 157812,
     "score": 65,
     "tier": "Spec",
     "dex": "",
-    "note": "No DEX route. XT.com listing announced Sat 11/21 (official, date TBA). SafeTrade SOQ/USDT last ~$0.0001402 / ~$2,205 converted vol (snapshot Mon 11/23 ~8:00 AM CT).",
+    "note": "No DEX route. XT.com listing announced Sat 11/21 (official, date TBA). SafeTrade SOQ/USDT last ~$0.00013 / ~$3,279 converted vol (snapshot Tue 11/24 ~7:59 AM CT).",
     "pair": "SOQ/USDT"
    },
    {
     "project": "Pearl",
     "ticker": "PEARL",
     "theme": "AI",
-    "price": 2.35,
-    "market_cap": 913474889,
-    "volume_24h": 35775738,
+    "price": 2.06,
+    "market_cap": 802597743,
+    "volume_24h": 36825029,
     "score": 72,
     "tier": "WATCH",
     "dex": "",
-    "note": "No DEX route. +18.3% in 24h on ~$36M volume (24h $1.96 to $2.39). SafeTrade PEARL/USDT last ~$2.35 / ~$5,580,276 converted vol (snapshot Mon 11/23 ~8:00 AM CT).",
+    "note": "No DEX route. -12.3% in 24h on ~$37M volume (24h $2.04 to $2.48). SafeTrade PEARL/USDT last ~$2.071 / ~$5,242,303 converted vol (snapshot Tue 11/24 ~7:59 AM CT).",
     "pair": "PEARL/USDT"
    },
    {
     "project": "Gonka",
     "ticker": "GNK",
     "theme": "AI",
-    "price": 0.139883,
-    "market_cap": 0.0,
-    "volume_24h": 7654.3,
+    "price": 0.139857,
+    "market_cap": 0,
+    "volume_24h": 7120.85,
     "score": 69,
     "tier": "WATCH",
     "dex": "WGNK Uniswap ETH",
-    "note": "DEX route: WGNK Uniswap ETH. -17.6% in 24h on ~$7.7K volume (thin; 24h $0.140 to $0.170). SafeTrade GNK/USDT last ~$0.14 / ~$7,654 converted vol (snapshot Mon 11/23 ~8:00 AM CT).",
+    "note": "DEX route: WGNK Uniswap ETH. Flat in 24h on ~$7K volume (thin). SafeTrade GNK/USDT last ~$0.14 / ~$7,121 converted vol (snapshot Tue 11/24 ~7:59 AM CT).",
     "pair": "GNK/USDT"
    },
    {
     "project": "Clore.ai",
     "ticker": "CLORE",
     "theme": "AI",
-    "price": 0.001395,
-    "market_cap": 886822,
-    "volume_24h": 69483,
+    "price": 0.00135177,
+    "market_cap": 859331,
+    "volume_24h": 67360,
     "score": 52,
     "tier": "Spec",
     "dex": "Uniswap ETH thin",
-    "note": "DEX route: Uniswap ETH thin. SafeTrade CLORE/USDT last ~$0.00153162 / ~$194 converted vol (snapshot Mon 11/23 ~8:00 AM CT).",
+    "note": "DEX route: Uniswap ETH thin. SafeTrade CLORE/USDT last ~$0.0014 / ~$183 converted vol (snapshot Tue 11/24 ~7:59 AM CT).",
     "pair": "CLORE/USDT"
    },
    {
     "project": "Neptune Cash",
     "ticker": "NPT",
     "theme": "Quantum",
-    "price": 0.149875,
-    "market_cap": 714846,
-    "volume_24h": 1305.95,
+    "price": 0.129868,
+    "market_cap": 620604,
+    "volume_24h": 2446.24,
     "score": 52,
     "tier": "Spec",
     "dex": "",
-    "note": "No DEX route. ML-DSA implemented in TASM (official, Nov 16 dev update); 24h move is on thin volume. SafeTrade NPT/USDT last ~$0.15 / ~$1,306 converted vol (snapshot Mon 11/23 ~8:00 AM CT).",
+    "note": "No DEX route. ML-DSA implemented in TASM (official, Nov 16 dev update); 24h move is on thin volume. SafeTrade NPT/USDT last ~$0.13 / ~$2,446 converted vol (snapshot Tue 11/24 ~7:59 AM CT).",
     "pair": "NPT/USDT"
    },
    {
     "project": "Parano1d",
     "ticker": "NOID",
     "theme": "Quantum",
-    "price": 0.111107,
-    "market_cap": 1389131,
-    "volume_24h": 27691,
+    "price": 0.092905,
+    "market_cap": 1163296,
+    "volume_24h": 44705,
     "score": 35,
     "tier": "REJECT",
     "dex": "",
-    "note": "No DEX route. SafeTrade NOID/USDT last ~$0.1112 / ~$27,691 converted vol (snapshot Mon 11/23 ~8:00 AM CT).",
+    "note": "No DEX route. -16.4% in 24h (24h $0.084 to $0.127). SafeTrade NOID/USDT last ~$0.093 / ~$44,704 converted vol (snapshot Tue 11/24 ~7:59 AM CT).",
     "pair": "NOID/USDT"
    },
    {
     "project": "TensorCash",
     "ticker": "TSC",
     "theme": "AI",
-    "price": 2.49,
-    "market_cap": 11544003,
-    "volume_24h": 90724,
+    "price": 3.13,
+    "market_cap": 14572363,
+    "volume_24h": 143834,
     "score": 47,
     "tier": "REJECT",
     "dex": "",
-    "note": "No DEX route. SafeTrade TSC/USDT last ~$2.489 / ~$90,725 converted vol (snapshot Mon 11/23 ~8:00 AM CT).",
+    "note": "No DEX route. +26% in 24h on ~$144K volume (24h $2.40 to $3.20), mostly SafeTrade. SafeTrade TSC/USDT last ~$3.1368 / ~$142,617 converted vol (snapshot Tue 11/24 ~7:59 AM CT).",
     "pair": "TSC/USDT"
    },
    {
     "project": "Crynux",
     "ticker": "CNX",
     "theme": "AI",
-    "price": 0.00052513,
-    "market_cap": 912002,
-    "volume_24h": 548.01,
+    "price": 0.00069929,
+    "market_cap": 1214447,
+    "volume_24h": 83.65,
     "score": 51,
     "tier": "WATCH",
     "dex": "",
-    "note": "DEX route: Uniswap V4 (Base), thin. SafeTrade CNX/USDT last ~$0.0005 / ~$199 converted vol (snapshot Mon 11/23 ~8:00 AM CT).",
+    "note": "DEX route: Uniswap V4 (Base), thin. +33% in 24h on ~$84 volume: thin-book move, ignored. SafeTrade CNX/USDT last ~$0.0007 / ~$84 converted vol (snapshot Tue 11/24 ~7:59 AM CT).",
     "pair": "CNX/USDT"
    }
   ],
@@ -2023,7 +2022,7 @@
    "x": "https://x.com/safetrade",
    "site": "https://safetrade.com",
    "announcements": "https://x.com/safetrade",
-   "listing_posts": "@safetrade: no posts overnight. CoinGecko shows 46 bases (+ARB, +URX, -XPM; off-niche rotation). No new AI or quantum listings.",
+   "listing_posts": "@safetrade: no posts overnight. CoinGecko shows 50 bases (off-niche rotation). No new AI or quantum listings.",
    "launchpad": "None",
    "trust_score": 2,
    "steps": [
@@ -2045,101 +2044,106 @@
    {
     "section": "prelaunch",
     "theme": "AI",
-    "text": "GenLayer (71) is closest to the AI bar. Missing: a dated launch day, an audit and an official contract, so no alert fired."
+    "text": "GenLayer (71) is closest to the AI bar. Missing: a dated launch day, an audit and an official contract. The Aero tease is official but says nothing concrete, so no alert fired."
    },
    {
     "section": "prelaunch",
     "theme": "AI",
-    "text": "Flop (60): testnet opens Tue 11/24 1:00 AM CT (official post plus the official testnet page). Pre-token, airdrop rules not final, no audit, so it stays WATCH."
+    "text": "Flop (60 to 62): testnet launched Tue 11/24 6:56 AM CT as promised (about 6 h late). Unscored opening, airdrop rules not final, no audit, so it stays WATCH."
+   },
+   {
+    "section": "prelaunch",
+    "theme": "AI",
+    "text": "Teneo Beacon Season 5 (new open campaign): bandwidth-sharing app on your own device, Fragments toward USDC draws; pool, end date and token terms unconfirmed. Teneo is radar only."
    },
    {
     "section": "prelaunch",
     "theme": "Quantum",
-    "text": "Quip (65): needs an external audit and a dated TGE. DAC (48): still no official TGE post or contract after two missed dates; stays REJECT."
+    "text": "Quip (65): needs an external audit and a dated TGE. DAC (48): still no official TGE post or contract; stays REJECT."
    },
    {
     "section": "tokens",
     "theme": "AI",
-    "text": "Ritual (76) -8.8% ($0.0295, 24h $0.0283 to $0.0335, ~$1.1M vol), no news. Still needs real DEX liquidity and an audit for a fresh alert."
+    "text": "Ritual (76) +2.3% ($0.0302, 24h $0.0294 to $0.0341, ~$1.6M vol) after the Crypto.com listing (CEX). Still needs real DEX liquidity and an audit for a fresh alert."
    },
    {
     "section": "tokens",
     "theme": "Quantum",
-    "text": "Quantus (81) flat ($28.56, 24h $27.39 to $29.53, ~$521K vol). One user's QTC to USDT swap shows success but funds not received; co-founder @n13 is investigating (single report). Score unchanged."
+    "text": "Quantus (81) +12.9% ($32.38, 24h $28.85 to $35.10, ~$1.18M vol, about double Monday's). The single stuck NEAR swap is resolved. Score unchanged."
    },
    {
     "section": "tokens",
     "theme": "Quantum",
-    "text": "Algorand +14.5% ($0.0865, ~$29M vol) with no new official post found; Soqucoin -8.9% ($0.000143)."
+    "text": "Broad dip with BTC -5.2% (~$59.95K): Algorand -9.5%, QANX -8.5%, Soqucoin -6.6%, QRL -3.4%."
    },
    {
     "section": "impostors",
     "theme": "AI",
-    "text": "GenLayer, Flop, TermiX and Fraction have no token yet; any GEN, FLOP, TMT or FRAC contract is fake. Flop test FLOP has no value. @FlopNetwork is a fan account, not Flop (official list: flop.finance/official). TermiX raises no public funds."
+    "text": "GenLayer, Flop, TermiX, Fraction and Teneo have no token yet; any GEN, FLOP, TMT, FRAC or Teneo token is fake. Test FLOP has no value. @FlopNetwork is a fan account."
    },
    {
     "section": "impostors",
     "theme": "Quantum",
-    "text": "DAC has posted no DACT contract; launch-code and crate posts are farming. Soqucoin is a native coin with no token contract. Quantus has no smart contracts; native QTC is only qtc.omft.near on NEAR."
+    "text": "DAC has posted no DACT contract. Soqucoin is a native coin with no token contract. Quantus has no smart contracts; native QTC is only qtc.omft.near on NEAR."
    },
    {
     "section": "safetrade",
     "theme": "Quantum",
-    "text": "SafeTrade 46 bases, no new niche listings. QUANTUS/USDT ~$28.53. Soqucoin XT.com listing still undated."
+    "text": "SafeTrade 50 bases, no new niche listings. QUANTUS/USDT ~$31.85. Soqucoin XT.com listing still undated."
    }
   ],
   "sources": [
    {
-    "title": "Flop testnet date (official)",
-    "url": "https://x.com/flop_labs/status/2124776944885743659"
+    "title": "Flop testnet live (official)",
+    "url": "https://x.com/flop_labs/status/2125212060481093834"
    },
    {
-    "title": "Flop testnet page (official)",
-    "url": "https://flop.finance/testnet"
+    "title": "Flop testnet delay (official)",
+    "url": "https://x.com/flop_labs/status/2125118836169167330"
    },
    {
-    "title": "Flop official links & verification",
-    "url": "https://flop.finance/official/"
+    "title": "Flop testnet explorer",
+    "url": "https://testnet.flopscan.io/"
    },
    {
-    "title": "Flop CLI v0.8.0 (GitHub)",
-    "url": "https://github.com/flop-labs/network"
+    "title": "Teneo Beacon Season 5 (official)",
+    "url": "https://x.com/teneo_protocol/status/2125214030293848381"
    },
    {
-    "title": "GenLayer x AntSeed benchmark (official)",
-    "url": "https://x.com/GenLayer/status/2124850454060573051"
+    "title": "Teneo Beacon page (official)",
+    "url": "https://www.teneo-protocol.ai/beacon"
    },
    {
-    "title": "TermiX security warning (official)",
-    "url": "https://x.com/termix_ai/status/2124802178116468842"
+    "title": "Crypto.com Exchange lists Ritual",
+    "url": "https://x.com/Cryptocom_Exch/status/2125160402040377775"
    },
    {
-    "title": "Axis Skills Atlas thread (official)",
-    "url": "https://x.com/axisrobotics/status/2124835699342164028"
+    "title": "Quantus swap fixed (co-founder)",
+    "url": "https://x.com/n13/status/2125163079235457082"
    },
    {
-    "title": "Quantus swap report and co-founder reply",
-    "url": "https://x.com/n13/status/2124852488503521477"
+    "title": "Quantus swap confirmed by user",
+    "url": "https://x.com/Mr_Brekelee/status/2125164978789347449"
+   },
+   {
+    "title": "GenLayer Aero tease (official)",
+    "url": "https://x.com/GenLayer/status/2125164101970371028"
    },
    {
     "title": "Quantus apps commits",
     "url": "https://github.com/Quantus-Network/quantus-apps/commits"
    },
    {
-    "title": "Soqucoin teaser (official)",
-    "url": "https://x.com/soqucoin/status/2124792601220137259"
+    "title": "Flop network repo (CLI v0.8.1)",
+    "url": "https://github.com/flop-labs/network"
    },
    {
-    "title": "Verona verUSD teaser (official)",
-    "url": "https://x.com/verona_dev/status/2124865310738260244"
+    "title": "TermiX Epoch 4 (third party)",
+    "url": "https://x.com/itsayenxu/status/2125068582853955694"
    },
    {
-    "title": "Stellar P30 vote (third party)",
-    "url": "https://x.com/StickyDev420/status/2124788246378844458"
-   },
-   {
-    "title": "DECA Labs rewards (official)",
-    "url": "https://decalabs.ai/rewards"
+    "title": "Ethereum Foundation security (X News)",
+    "url": "https://x.com/i/trending/2125065039686340673"
    },
    {
     "title": "CoinGecko SafeTrade tickers",
@@ -2147,7 +2151,7 @@
    }
   ]
  },
- "prices_updated": "2026-11-24T08:02:07-06:00",
+ "prices_updated": "2026-11-24T08:04:08-06:00",
  "airdrops": [
   {
    "project": "TermiX",
