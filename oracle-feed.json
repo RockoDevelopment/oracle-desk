@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-24T08:04:08-06:00",
+ "generated_at": "2026-11-24T12:26:44-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-24T08:04:08-06:00",
-  "next_scan": "2026-11-24T12:00:00-06:00",
+  "last_scan": "2026-11-24T12:26:44-06:00",
+  "next_scan": "2026-11-24T16:00:00-06:00",
   "activity": [
-   "8 AM digest: 14 X reads (watchlist accounts, AI + quantum keywords, X News, Crypto.com check), CoinGecko markets + AI/quantum categories, SafeTrade tickers, GitHub commits",
-   "0 HIGH PRIORITY (0/3); 1 newly found open campaign (Teneo Beacon Season 5)",
-   "Flop testnet live Tue 11/24 6:56 AM CT (unscored opening, features switching on)",
-   "Ritual listed on Crypto.com (RITUAL/USD, CEX); Quantus +12.9%, stuck swap resolved",
-   "SafeTrade 50 bases, no new AI/quantum listings"
+   "Noon scan: 10 X reads (51 watchlist/venue accounts in 3 batches + AI and quantum keyword searches), SafeTrade tickers via CoinGecko",
+   "0 HIGH PRIORITY (0/3); no new open campaigns; no new pre-launch launch info",
+   "GenLayer: Internet Court live on Taskmarket (Daydreams agent jobs) - product integration, no token news",
+   "Quantus, Soqucoin, DAC, Pearl: product/education posts only",
+   "SafeTrade 48 bases, no new AI/quantum listings"
   ],
   "alerts_used_today": 0,
   "alert_cap": 3,
-  "x_reads_left_today": 983
+  "x_reads_left_today": 971
  },
  "alerts": [],
  "watchlist": [
@@ -326,7 +326,7 @@
    "fdv": null,
    "volume_24h": null,
    "dex_route": "No token yet; CoinGecko preview lists an Ethereum contract 0x4242...2a2f that GenLayer has not posted (Unverified); fake GEN tokens on Base/BSC/Solana",
-   "next_milestone": "Mission GEN in the Court ends Thu 11/26 6:00 AM CT. Tue 11/24: GenLayer quote-posted Aero's 'Cleared for landing' with 👀 (official tease, no details); third parties read it as GEN launching on Aero with TGE 'likely December' (rumor). Missing: dated launch day, audit, official contract",
+   "next_milestone": "Mission GEN in the Court ends Thu 11/26 6:00 AM CT. Tue 11/24: GenLayer quote-posted Aero's 'Cleared for landing' with 👀 (official tease, no details); third parties read it as GEN launching on Aero with TGE 'likely December' (rumor). Internet Court went live on Taskmarket by Daydreams Tue 11/24 (official integration). Missing: dated launch day, audit, official contract",
    "milestone_date": "2026-11-26T06:00:00-06:00",
    "links": [
     {
@@ -352,7 +352,7 @@
    ],
    "upgrade_if": "Dated TGE + official Arbitrum contract + audit",
    "downgrade_if": "TGE slips past October",
-   "last_update": "2026-11-24T08:04:08-06:00",
+   "last_update": "2026-11-24T12:26:44-06:00",
    "price": null,
    "logo": "logos/genlayer.png",
    "website": "https://genlayer.com"
