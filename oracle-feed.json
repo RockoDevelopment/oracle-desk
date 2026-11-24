@@ -2188,7 +2188,7 @@
   {
    "project": "Flop Network",
    "theme": "AI",
-   "what": "Testnet opened Tue 11/24 as an unscored phase: no sign-in, faucet or claim yet, and features are switching on over the coming hours (AIRDROP BOT checked 7:35 AM CT, will recheck today). Only settled inference sessions in the later scored phase (up to ~90 days, mainnet Q1 2027) count toward the genesis airdrop. Devnet faucet gives no airdrop credit; validator and miner roles skipped (hardware). Feedback rewards: joined Nov 20, 2-post Yellow Paper critique posted from @RockoBuiltIt, no points yet. Any FLOP token or floplabs.ai link is a scam. AIRDROP BOT report, not independently verified.",
+   "what": "Testnet opened Tue 11/24 as an unscored phase: no sign-in, testnet faucet or claim yet (AIRDROP BOT rechecked 1:00 PM CT). Per official docs, earning starts only at a publicly announced scored-phase activation block (none announced yet); earlier activity earns zero with no backfill. Only settled inference in the scored phase (up to ~90 days, mainnet Q1 2027) counts toward the genesis airdrop. Devnet faucet gives no airdrop credit; validator and miner roles skipped (hardware). Feedback rewards: joined Nov 20, 2-post Yellow Paper critique posted from @RockoBuiltIt, no points yet. Any FLOP token or floplabs.ai link is a scam. AIRDROP BOT report, not independently verified.",
    "ends": null,
    "url": "https://flop.finance",
    "points_earned": 0
