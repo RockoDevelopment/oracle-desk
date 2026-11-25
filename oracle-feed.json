@@ -2068,8 +2068,8 @@
     "volume_24h": 125.94,
     "score": 51,
     "tier": "WATCH",
-    "dex": "",
-    "note": "No DEX route. -21.7% in 24h (range $0.00054195 to $0.00069945) on ~$126 volume (thin book, ignore the move). SafeTrade CNX/USDT last ~$0.0007 / ~$9 converted vol (snapshot Wed 11/25 ~8:00 AM CT).",
+    "dex": "Uniswap V4 Base thin",
+    "note": "DEX route: Uniswap V4 (Base), thin. -21.7% in 24h (range $0.00054195 to $0.00069945) on ~$126 volume (thin book, ignore the move). SafeTrade CNX/USDT last ~$0.0007 / ~$9 converted vol (snapshot Wed 11/25 ~8:00 AM CT).",
     "pair": "CNX/USDT"
    }
   ],
