@@ -1,17 +1,16 @@
 {
- "generated_at": "2026-11-24T16:25:00-06:00",
+ "generated_at": "2026-11-24T20:30:00-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-24T16:25:00-06:00",
-  "next_scan": "2026-11-24T20:00:00-06:00",
+  "last_scan": "2026-11-24T20:30:00-06:00",
+  "next_scan": "2026-11-25T08:00:00-06:00",
   "activity": [
-   "4 PM scan: 6 X reads (watchlist/venue/AI-lab accounts in 3 batches + AI and quantum keyword searches since 12:20 PM CT), SafeTrade tickers via CoinGecko",
-   "Quip: CEO podcast on quantum theft risk (education); Soqucoin: Mining-Dutch pool + LuxxPool partner note",
-   "Nous Research: NVIDIA Vera CPU DevKit for Hermes agent swarms (no token); QRL, DAC, Algorand: PQ education posts",
-   "Flop testnet: third-party guides only, still unscored; no new @flop_labs posts since noon",
-   "SafeTrade 49 bases (FLUX/PLS/ZER off-niche rotation), no new AI/quantum listings"
+   "AI: Flop testnet third-party guides (repeat, still unscored); ARO Network radar lead (unvetted); Motes Aura Points shill wave (repeat)",
+   "Quantum: Quip Aglais testnet hosted on Flux (official infra note); Cronos post-quantum upgrade groundwork (already-trading, narrative); Soqucoin RT LuxxPool listing; Algorand Falcon accounts / Stellar P30 (repeat)",
+   "SafeTrade 49 bases, no new AI/quantum listings",
+   "Rejected: ATQM referral-pitch posts (scam pattern)"
   ],
-  "x_reads_left_today": 963
+  "x_reads_left_today": 994
  },
  "watchlist": [
   {
@@ -1482,6 +1481,13 @@
    "score": 20,
    "reason": "Repeat: copy-paste PQ testnet farming posts from low-follower accounts; teams unconfirmed, no audit",
    "at": "2026-11-24T08:04:08-06:00"
+  },
+  {
+   "name": "ATQM",
+   "theme": "Quantum",
+   "score": 10,
+   "reason": "Reply-spam posts pushing swaps of silver/XRP/ETH into ATQM via a personal referral link; recycled scam pattern, no verifiable team, code or product found",
+   "at": "2026-11-24T20:30:00-06:00"
   }
  ],
  "snapshot_note": "8 AM morning report Tue 11/24 ~8:05 AM CT. No priority (0/3). New open campaign: Teneo Beacon Season 5. Flop testnet live 6:56 AM CT (unscored). X since Mon 8:20 PM CT; CoinGecko + SafeTrade tickers ~8:00 AM CT (50 bases, no niche adds). Not financial advice.",
