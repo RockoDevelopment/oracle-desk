@@ -1,17 +1,16 @@
 {
- "generated_at": "2026-11-25T12:21:02-06:00",
+ "generated_at": "2026-11-25T16:21:50-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-25T12:21:02-06:00",
-  "next_scan": "2026-11-25T16:00:00-06:00",
+  "last_scan": "2026-11-25T16:21:50-06:00",
+  "next_scan": "2026-11-25T20:00:00-06:00",
   "activity": [
-   "Noon scan: X watchlist accounts (AI batch + quantum batch) and AI and quantum keyword searches since 8 AM CT, SafeTrade tickers",
-   "AI: GenLayer (official) calls Clarke the last testnet before mainnet; X Live Thu 11/26 10 AM CT on validators and Pre-Mainnet Staking. Flop testnet third-party farming guides (repeat, still unscored). DATA Echo whitelist and Verona Bangkok posts (repeat)",
-   "Quantum: Soqucoin restates Halborn audit (30 findings fixed, repeat). DAC Interstellar adds \"Discover\" education games (DAC stays REJECT tier). QoreChain testnet v3.2.10 and QoreX 1.2.5 wallet (low trust). Quip creator-campaign posts (third party)",
-   "SafeTrade 47 bases via CoinGecko (-FLUX, ZEC, ZER vs 8 AM), no AI or quantum adds",
-   "Rejected: LATTICE post-quantum launchpad on Robinhood Chain (2-follower account, no team or audit)"
+   "4 PM scan: X watchlist accounts (AI batch + quantum batch) and AI and quantum keyword searches since 12:15 PM CT, SafeTrade tickers",
+   "AI: Flop Labs recaps Arthur Hayes on free agent inference during testnet with credit toward mainnet FLOP (restates known testnet plan; still unscored phase). Teneo replies \"more information on TGE soon\" (repeat, no date). Gensyn prediction-market research post. Motes Genesis NFT airdrop shills continue (not vetted)",
+   "Quantum: Algorand says 4 million mainnet transactions now signed with Falcon post-quantum signatures, up from 1.5 million in mid-October (already-trading, narrative only). TRON Nile testnet PQ signatures (repeat). Quip creator-campaign posts and Asentum farm posts (third party, repeats)",
+   "SafeTrade 46 bases via CoinGecko, no AI or quantum adds"
   ],
-  "x_reads_left_today": 981
+  "x_reads_left_today": 977
  },
  "watchlist": [
   {
@@ -1536,7 +1535,7 @@
    "at": "2026-11-25T08:06:36-06:00"
   }
  ],
- "snapshot_note": "Noon scan Wed 11/25 ~12:30 PM CT. No priority (0/3). No new open campaigns. One official pre-launch update (GenLayer Clarke = last testnet before mainnet). X since 8 AM CT; SafeTrade tickers ~12:25 PM CT (47 bases, no niche adds). Not financial advice.",
+ "snapshot_note": "4 PM scan Wed 11/25 ~4:25 PM CT. No priority (0/3). No new open campaigns or official pre-launch dates. X since 12:15 PM CT; SafeTrade tickers ~4:22 PM CT (46 bases, no niche adds). Not financial advice.",
  "deadlines": [
   {
    "project": "GenLayer",
