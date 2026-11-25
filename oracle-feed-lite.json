@@ -91,8 +91,8 @@
      "score": 81
     }
    ],
-   "market_cap": 10495085,
-   "volume_24h": 640599,
+   "market_cap": 10515567,
+   "volume_24h": 641351,
    "dex_route": "Rhea Finance (NEAR) qtc.omft.near; Raydium (Solana) via NEAR Intents, live Thu 11/12 (official; Solana mint not posted by Quantus, verify in-app). CEX: Bitrue QTC/USDT. pump.fun and Base QTC tokens are look-alike",
    "next_milestone": "Blockchain Life Forum Dubai Tue 12/1 to Wed 12/2 (official, time TBA). Desktop wallet multisig proposals (approve, execute, cancel) and received-funds notifications (GitHub Wed 11/25). Cold Wallet live since Fri 11/20 (official)",
    "milestone_date": "2026-12-01T23:59:00-06:00",
@@ -120,12 +120,12 @@
    ],
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
-   "last_update": "2026-11-25T15:05:23-06:00",
-   "price": 28.89,
+   "last_update": "2026-11-25T15:58:35-06:00",
+   "price": 28.91,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
    "cg_id": "quantus",
-   "price_updated": "2026-11-25T15:05:23-06:00"
+   "price_updated": "2026-11-25T15:58:35-06:00"
   },
   {
    "name": "Ritual",
@@ -212,8 +212,8 @@
      "score": 76
     }
    ],
-   "market_cap": 52104394,
-   "volume_24h": 891247,
+   "market_cap": 52184500,
+   "volume_24h": 892438,
    "dex_route": "Base/BSC bridged [address hidden]; official Base pool about $6 liquidity, so no real DEX route (CEX: Coinbase, Gate, MEXC)",
    "next_milestone": "Listed on Crypto.com Exchange and App Tue 11/24 (RITUAL/USD, CEX only; official @Cryptocom_Exch). Still missing real DEX liquidity on Base or BSC and an audit (both undated)",
    "milestone_date": null,
@@ -237,11 +237,11 @@
    ],
    "upgrade_if": "Named-firm audit; real DEX liquidity on Base/BSC; more CEX listings",
    "downgrade_if": "Heavy airdrop or issuance selling; bridge or chain incident",
-   "last_update": "2026-11-25T15:05:23-06:00",
-   "price": 0.02895559,
+   "last_update": "2026-11-25T15:58:35-06:00",
+   "price": 0.02898943,
    "logo": "logos/ritual.png",
    "website": "https://ritual.net",
-   "price_updated": "2026-11-25T15:05:23-06:00",
+   "price_updated": "2026-11-25T15:58:35-06:00",
    "cg_id": "ritual"
   },
   {
@@ -440,8 +440,8 @@
      "score": 69
     }
    ],
-   "market_cap": 29739563,
-   "volume_24h": 5590783,
+   "market_cap": 29584237,
+   "volume_24h": 5576597,
    "dex_route": "No official DEX route (exchanges only)",
    "next_milestone": "Sui migration date + swap instructions (TBA). Trace Echo launched Fri 11/20 (official): AI labs check dataset exclusivity against 325M files",
    "milestone_date": null,
@@ -453,12 +453,12 @@
    ],
    "upgrade_if": "Migration date + audited Sui on-chain code",
    "downgrade_if": "Migration delays",
-   "last_update": "2026-11-25T15:05:23-06:00",
-   "price": 0.082196,
+   "last_update": "2026-11-25T15:58:35-06:00",
+   "price": 0.081741,
    "logo": "logos/data-network.png",
    "website": "https://www.datafdn.org",
    "cg_id": "story-2",
-   "price_updated": "2026-11-25T15:05:23-06:00"
+   "price_updated": "2026-11-25T15:58:35-06:00"
   },
   {
    "name": "Quip Network",
@@ -743,8 +743,8 @@
      "score": 68
     }
    ],
-   "market_cap": 878458,
-   "volume_24h": 197593,
+   "market_cap": 859969,
+   "volume_24h": 192960,
    "dex_route": "No official DEX route; CEX: SafeTrade (SOQ/USDT), NonKYC (SOQ/BTC+USDT), Biconomy (SOQ/USDT, indexed on CoinGecko Sun 11/8)",
    "next_milestone": "XT.com listing of native SOQ (official Sat 11/21; trading-open date TBA, CEX only). 'Unleashed before 2027' teaser (official, no details). No commits since Tue 11/24 8 AM CT. 24h -20.3% on ~$149K volume. Still no official DEX route",
    "milestone_date": null,
@@ -788,12 +788,12 @@
    ],
    "upgrade_if": "DEX liquidity, CMC listing, audit",
    "downgrade_if": "Pool centralization returns or partner claims don't hold up",
-   "last_update": "2026-11-25T15:05:23-06:00",
-   "price": 0.00013345,
+   "last_update": "2026-11-25T15:58:35-06:00",
+   "price": 0.00012961,
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
    "cg_id": "soqucoin",
-   "price_updated": "2026-11-25T15:05:23-06:00"
+   "price_updated": "2026-11-25T15:58:35-06:00"
   },
   {
    "name": "Axis Robotics",
@@ -872,8 +872,8 @@
      "score": 52
     }
    ],
-   "market_cap": 12952373,
-   "volume_24h": 1618439,
+   "market_cap": 13123101,
+   "volume_24h": 4745199,
    "dex_route": "Uniswap v4 (Base) [address hidden]",
    "next_milestone": "Next Season 2 weekly settlement Sat 11/28 4:00 AM CT (Saturdays 10:00 UTC, claim on Base). Grasping model sim-to-real milestone Wed 11/25 (official: ~75% real-world success, ~45% on unseen objects). On-chain vesting and legal review undated",
    "milestone_date": "2026-11-28T04:00:00-06:00",
@@ -893,12 +893,12 @@
    ],
    "upgrade_if": "Verified team, audit",
    "downgrade_if": "Heavy unlocks, more lock-up breaches, or no on-chain vesting published",
-   "last_update": "2026-11-25T15:05:23-06:00",
-   "price": 0.078501,
+   "last_update": "2026-11-25T15:58:35-06:00",
+   "price": 0.080128,
    "logo": "logos/axis-robotics.png",
    "website": "https://axisrobotics.ai",
    "cg_id": "axis-robotics",
-   "price_updated": "2026-11-25T15:05:23-06:00"
+   "price_updated": "2026-11-25T15:58:35-06:00"
   },
   {
    "name": "Flop Network",
@@ -1080,20 +1080,20 @@
      "score": 51
     }
    ],
-   "market_cap": 957434,
-   "volume_24h": 670.28,
+   "market_cap": 951214,
+   "volume_24h": 1158.71,
    "dex_route": "Uniswap v4 (Base) [address hidden] (thin)",
    "next_milestone": "AI chat app on Crynux GPUs (undated). Video task stats in the portal and relay dtype handling (GitHub Wed 11/25). 24h -21.7% on ~$126 volume (thin book, ignore)",
    "milestone_date": null,
    "links": [],
    "upgrade_if": "Deeper liquidity, audit",
    "downgrade_if": "Liquidity stays thin",
-   "last_update": "2026-11-25T15:05:23-06:00",
-   "price": 0.00055129,
+   "last_update": "2026-11-25T15:58:35-06:00",
+   "price": 0.00054771,
    "logo": "logos/crynux.png",
    "website": "https://crynux.io",
    "cg_id": "crynux",
-   "price_updated": "2026-11-25T15:05:23-06:00"
+   "price_updated": "2026-11-25T15:58:35-06:00"
   },
   {
    "name": "TermiX",
@@ -1348,9 +1348,9 @@
      "score": 66
     }
    ],
-   "price": 0.084974,
-   "market_cap": 7879875,
-   "volume_24h": 249962,
+   "price": 0.085031,
+   "market_cap": 7884182,
+   "volume_24h": 249369,
    "dex_route": "None verified (CEX: Bithumb, Bybit, Bitget, KuCoin, Gate, MEXC, Kraken)",
    "next_milestone": "Co-hosts Kite AI's 'Proof of AI' Bangkok Closing Night Sun 11/29 6 to 10 PM Bangkok time (5 to 9 AM CT), per official @GoKiteAI post. verUSD teased Mon 11/23 (undated). Audit of the PQ upgrade and an official DEX route still missing",
    "milestone_date": "2026-11-29T05:00:00-06:00",
@@ -1378,11 +1378,11 @@
    ],
    "upgrade_if": "Published audit of the PQ account upgrade, official docs naming the parameter sets, and an official DEX route",
    "downgrade_if": "PQ claims turn out marketing-only, or the paid promo wave is the only demand",
-   "last_update": "2026-11-25T15:05:23-06:00",
+   "last_update": "2026-11-25T15:58:35-06:00",
    "logo": "logos/verona.png",
    "website": "https://verona.dev",
    "cg_id": "verona",
-   "price_updated": "2026-11-25T15:05:23-06:00"
+   "price_updated": "2026-11-25T15:58:35-06:00"
   }
  ],
  "prelaunch_updates": [
@@ -2074,7 +2074,7 @@
    }
   ]
  },
- "prices_updated": "2026-11-25T15:05:23-06:00",
+ "prices_updated": "2026-11-25T15:58:35-06:00",
  "alerts": [],
  "lite": true
 }
