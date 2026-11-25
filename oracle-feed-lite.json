@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-25T08:06:36-06:00",
+ "generated_at": "2026-11-25T12:21:02-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-25T08:06:36-06:00",
-  "next_scan": "2026-11-25T12:00:00-06:00",
+  "last_scan": "2026-11-25T12:21:02-06:00",
+  "next_scan": "2026-11-25T16:00:00-06:00",
   "activity": [
-   "8 AM morning report: X watchlist accounts (quantum batch + AI batch) and AI, quantum and campaign keyword searches since Tue 8 PM CT, X News, CoinGecko markets and categories, SafeTrade tickers, GitHub commits, web checks (Flop faucet; safetrade.com blocked by Cloudflare)",
-   "AI: Flop testnet day 2 (official): validator registration open for first 50 seats; agent and miner work counts only from a voucher start block TBA. Testnet faucet now shows open. GenLayer Bradbury Phase 3 deployed (GitHub). Axis sim-to-real grasping milestone",
-   "Quantum: quiet. Quantus -11.8% ($28.43) after Tuesday's +12.9%; desktop multisig work (GitHub). Soqucoin -20.3%. QRL wallet provider 2.0.0 migrates to QRL 2.0 (GitHub). Mochimo, QMS education posts",
-   "SafeTrade 50 bases via CoinGecko (+ARRR, FLUX, SOH, ZCL, ZER; -ARB vs Mon), no AI or quantum adds; @safetrade no posts",
-   "Rejected: Elyra Genesis Season 1 (copy-paste verification-code wave, account made Nov 13), Lupp (38-follower agent launchpad), Asentum/Retium/DAC shill posts (repeat)"
+   "Noon scan: X watchlist accounts (AI batch + quantum batch) and AI and quantum keyword searches since 8 AM CT, SafeTrade tickers",
+   "AI: GenLayer (official) calls Clarke the last testnet before mainnet; X Live Thu 11/26 10 AM CT on validators and Pre-Mainnet Staking. Flop testnet third-party farming guides (repeat, still unscored). DATA Echo whitelist and Verona Bangkok posts (repeat)",
+   "Quantum: Soqucoin restates Halborn audit (30 findings fixed, repeat). DAC Interstellar adds \"Discover\" education games (DAC stays REJECT tier). QoreChain testnet v3.2.10 and QoreX 1.2.5 wallet (low trust). Quip creator-campaign posts (third party)",
+   "SafeTrade 47 bases via CoinGecko (-FLUX, ZEC, ZER vs 8 AM), no AI or quantum adds",
+   "Rejected: LATTICE post-quantum launchpad on Robinhood Chain (2-follower account, no team or audit)"
   ],
-  "x_reads_left_today": 984
+  "x_reads_left_today": 981
  },
  "watchlist": [
   {
@@ -332,7 +332,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; CoinGecko preview lists an Ethereum token address [address hidden] that GenLayer has not posted; fake GEN tokens on Base/BSC/Solana",
-   "next_milestone": "Mission GEN in the Court ends Thu 11/26 6:00 AM CT (official portal). Bradbury testnet Phase 3 deployed Tue 11/24 on chain 4221, node v0.6.0, plus an epoch-zero bootstrap guide (GitHub, Wed 11/25). Aero 'Cleared for landing' tease (official, no details); December TGE is a rumor. Missing: dated launch day, audit, official token address",
+   "next_milestone": "Mission GEN in the Court ends Thu 11/26 6:00 AM CT (official portal). Official X Live Thu 11/26 10:00 AM CT (16:00 UTC) on Clarke, described as the last testnet before mainnet, what's next for validators and where Pre-Mainnet Staking fits (official Wed 11/25). Bradbury Phase 3 deployed Tue 11/24 (GitHub). Mainnet and TGE still undated",
    "milestone_date": "2026-11-26T06:00:00-06:00",
    "links": [
     {
@@ -358,7 +358,7 @@
    ],
    "upgrade_if": "Dated TGE + official Arbitrum token address + audit",
    "downgrade_if": "TGE slips past October",
-   "last_update": "2026-11-25T08:06:36-06:00",
+   "last_update": "2026-11-25T12:21:02-06:00",
    "price": null,
    "logo": "logos/genlayer.png",
    "website": "https://genlayer.com"
@@ -1387,6 +1387,14 @@
  ],
  "prelaunch_updates": [
   {
+   "project": "GenLayer",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "GenLayer (official X, Wed 11/25): Clarke is 'the last testnet before mainnet'. X Live Thu 11/26 at 10:00 AM CT (16:00 UTC) with Chief Ecosystem Officer @raskovsky and @AnaRegen on what's next for validators and where Pre-Mainnet Staking comes in. No mainnet or TGE date yet. Any GEN token before an official token address is a scam.",
+   "at": "2026-11-25T12:21:02-06:00",
+   "url": "https://x.com/GenLayer/status/2125630278194569243"
+  },
+  {
    "project": "Flop Network",
    "theme": "AI",
    "source_type": "official",
@@ -1457,14 +1465,6 @@
    "text": "OPEN CAMPAIGN (official, dated): Flop Network testnet goes live Tue 11/24 at 1:00 AM CT (07:00 UTC). Agents need no approval or waitlist: claim test FLOP from the faucet every day in Technocore chat or with one API call, then spend it on inference. Flop's testnet page says the testnet is the only route to the genesis airdrop (up to ~90 days, snapshot at its close). Test FLOP has no value; any FLOP token is a scam. Official links only: flop.finance/official.",
    "at": "2026-11-23T08:04:55-06:00",
    "url": "https://x.com/flop_labs/status/2124776944885743659"
-  },
-  {
-   "project": "TermiX",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "TermiX security warning: it has raised no funds from the public in any form and backs no one raising funds in its name. Anyone asking for money as TermiX is a scam. TGE and tokenomics still undated.",
-   "at": "2026-11-23T08:04:55-06:00",
-   "url": "https://x.com/termix_ai/status/2124802178116468842"
   }
  ],
  "digest": {
@@ -1508,6 +1508,13 @@
  },
  "rejections": [
   {
+   "name": "LATTICE (post-quantum launchpad)",
+   "theme": "Quantum",
+   "score": 15,
+   "reason": "Robinhood Chain launchpad selling ML-DSA-65 \"sealed\" launches; X account @latticetools has 2 followers, no named team, code or audit",
+   "at": "2026-11-25T12:21:02-06:00"
+  },
+  {
    "name": "Elyra (Genesis Season 1)",
    "theme": "AI",
    "score": 25,
@@ -1529,7 +1536,7 @@
    "at": "2026-11-25T08:06:36-06:00"
   }
  ],
- "snapshot_note": "8 AM morning report Wed 11/25 ~8:15 AM CT. No priority (0/3). No new open campaigns. X since Tue 8 PM CT; CoinGecko + SafeTrade tickers ~8:00 AM CT (50 bases, no niche adds). Not financial advice.",
+ "snapshot_note": "Noon scan Wed 11/25 ~12:30 PM CT. No priority (0/3). No new open campaigns. One official pre-launch update (GenLayer Clarke = last testnet before mainnet). X since 8 AM CT; SafeTrade tickers ~12:25 PM CT (47 bases, no niche adds). Not financial advice.",
  "deadlines": [
   {
    "project": "GenLayer",
