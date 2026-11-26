@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-25T16:21:50-06:00",
+ "generated_at": "2026-11-25T20:20:18-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-25T16:21:50-06:00",
-  "next_scan": "2026-11-25T20:00:00-06:00",
+  "last_scan": "2026-11-25T20:20:18-06:00",
+  "next_scan": "2026-11-26T08:00:00-06:00",
   "activity": [
-   "4 PM scan: X watchlist accounts (AI batch + quantum batch) and AI and quantum keyword searches since 12:15 PM CT, SafeTrade tickers",
-   "AI: Flop Labs recaps Arthur Hayes on free agent inference during testnet with credit toward mainnet FLOP (restates known testnet plan; still unscored phase). Teneo replies \"more information on TGE soon\" (repeat, no date). Gensyn prediction-market research post. Motes Genesis NFT airdrop shills continue (not vetted)",
-   "Quantum: Algorand says 4 million mainnet transactions now signed with Falcon post-quantum signatures, up from 1.5 million in mid-October (already-trading, narrative only). TRON Nile testnet PQ signatures (repeat). Quip creator-campaign posts and Asentum farm posts (third party, repeats)",
+   "8 PM scan: X watchlist accounts (AI batch + quantum batch) and AI and quantum keyword searches since 4:20 PM CT, SafeTrade tickers",
+   "AI: no new official posts from watchlist accounts. Flop testnet agent-farming posts and DECA Labs points threads (repeats; DECA has no token). Fake Axis Robotics \"airdrop claim\" portal post again: Axis already launched, ignore claim links",
+   "Quantum: Stellar Protocol 30 ML-DSA verification on mainnet (repeat). Quip paper-trading and account explainer posts, Asentum farm posts, Retium Whisk DEX redesign (third party, repeats)",
    "SafeTrade 46 bases via CoinGecko, no AI or quantum adds"
   ],
-  "x_reads_left_today": 977
+  "x_reads_left_today": 994
  },
  "watchlist": [
   {
@@ -1535,7 +1535,7 @@
    "at": "2026-11-25T08:06:36-06:00"
   }
  ],
- "snapshot_note": "4 PM scan Wed 11/25 ~4:25 PM CT. No priority (0/3). No new open campaigns or official pre-launch dates. X since 12:15 PM CT; SafeTrade tickers ~4:22 PM CT (46 bases, no niche adds). Not financial advice.",
+ "snapshot_note": "8 PM scan Wed 11/25 ~8:25 PM CT. No priority (0/3). No new open campaigns or official pre-launch dates. X since 4:20 PM CT; SafeTrade tickers ~8:22 PM CT (46 bases, no niche adds). Not financial advice.",
  "deadlines": [
   {
    "project": "GenLayer",
