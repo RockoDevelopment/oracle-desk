@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-26T12:19:59-06:00",
+ "generated_at": "2026-11-26T16:19:48-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-26T12:19:59-06:00",
-  "next_scan": "2026-11-26T16:00:00-06:00",
+  "last_scan": "2026-11-26T16:19:48-06:00",
+  "next_scan": "2026-11-26T20:00:00-06:00",
   "activity": [
-   "Noon scan: X watchlist accounts (quantum batch + AI batch), AI and quantum keyword searches since 8 AM CT, SafeTrade tickers, web check of flop.finance/testnet",
-   "AI: GenLayer published its Pre-Mainnet Staking article (official): Clarke is the mainnet release candidate, mainnet 'soon after' (undated); staking program not live yet. Flop opened testnet miner onboarding (GPU needed), still unscored",
-   "Quantum: no launches. Soqucoin first anniversary Thu 12/17 (official); Quantus and QRL posted quantum-threat commentary only",
-   "SafeTrade 48 bases via CoinGecko (+ZEC vs 8 AM), no AI or quantum adds"
+   "4 PM scan: X watchlist accounts (quantum batch + AI batch), AI and quantum keyword searches since noon CT, SafeTrade tickers, web check of flop.finance/testnet",
+   "AI: GenLayer teased 'THE DAY is set' (official, no date yet). Dataline teased 'something very big is almost here' (official). Hayes says free testnet compute qualifies for mainnet FLOP, but the official page still says unscored",
+   "Quantum: no launches. PearlBridge (community bridge, not confirmed as Pearl Research Labs) posted its WPRL token address; Retium ID NFT mint (not a points campaign)",
+   "SafeTrade 48 bases via CoinGecko, unchanged since noon, no AI or quantum adds"
   ],
-  "x_reads_left_today": 977
+  "x_reads_left_today": 970
  },
  "watchlist": [
   {
@@ -123,7 +123,7 @@
    ],
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
-   "last_update": "2026-11-26T15:59:37-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "price": 29.63,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
@@ -244,7 +244,7 @@
    ],
    "upgrade_if": "Named-firm audit; real DEX liquidity on Base/BSC; more CEX listings",
    "downgrade_if": "Heavy airdrop or issuance selling; bridge or chain incident",
-   "last_update": "2026-11-26T15:59:37-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "price": 0.02755947,
    "logo": "logos/ritual.png",
    "website": "https://ritual.net",
@@ -343,7 +343,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; CoinGecko preview lists an Ethereum token address [address hidden] that GenLayer has not posted; fake GEN tokens on Base/BSC/Solana",
-   "next_milestone": "Pre-Mainnet Staking program goes live (official article Thu 11/26, undated): stake GEN for 1 Staking Point per GEN per day; top scorers win Foundation-delegated validator seats (42k GEN per seat, smaller holders in a lottery; unclaimed community airdrop GEN auto-participates); seats need 30 days of Clarke nodes. Clarke is the mainnet release candidate and mainnet 'will arrive soon after' (undated). No audit, no official token address",
+   "next_milestone": "'THE DAY is set' teaser (official Thu 11/26 2:04 PM CT; date not yet disclosed, likely mainnet or TGE). Pre-Mainnet Staking program goes live (undated): 1 Staking Point per GEN per day; 42k GEN per seat, smaller holders in a lottery; unclaimed airdrop GEN auto-participates. Clarke is the mainnet release candidate. No audit, no official token address: any GEN token on sale is a scam",
    "milestone_date": null,
    "links": [
     {
@@ -369,7 +369,7 @@
    ],
    "upgrade_if": "Dated TGE + official Arbitrum token address + audit",
    "downgrade_if": "TGE slips past October",
-   "last_update": "2026-11-26T12:19:59-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "price": null,
    "logo": "logos/genlayer.png",
    "website": "https://genlayer.com"
@@ -468,7 +468,7 @@
    ],
    "upgrade_if": "Migration date + audited Sui on-chain code",
    "downgrade_if": "Migration delays",
-   "last_update": "2026-11-26T15:59:37-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "price": 0.08427,
    "logo": "logos/data-network.png",
    "website": "https://www.datafdn.org",
@@ -569,7 +569,7 @@
    ],
    "upgrade_if": "Dated TGE, audit, mainnet",
    "downgrade_if": "More TGE slips",
-   "last_update": "2026-11-26T12:19:59-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "price": null,
    "logo": "logos/quip-network.png",
    "website": "https://quip.network"
@@ -668,7 +668,7 @@
    ],
    "upgrade_if": "Official Nov 11 confirmation",
    "downgrade_if": "Date moves",
-   "last_update": "2026-11-26T12:19:59-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "price": null,
    "logo": "logos/fraction-ai.png",
    "website": "https://fractionai.xyz"
@@ -815,7 +815,7 @@
    ],
    "upgrade_if": "DEX liquidity, CMC listing, audit",
    "downgrade_if": "Pool centralization returns or partner claims don't hold up",
-   "last_update": "2026-11-26T15:59:37-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "price": 0.00012921,
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
@@ -924,7 +924,7 @@
    ],
    "upgrade_if": "Verified team, audit",
    "downgrade_if": "Heavy unlocks, more lock-up breaches, or no on-chain vesting published",
-   "last_update": "2026-11-26T15:59:37-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "price": 0.076778,
    "logo": "logos/axis-robotics.png",
    "website": "https://axisrobotics.ai",
@@ -1019,7 +1019,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "NO TOKEN EXISTS; any FLOP is a scam",
-   "next_milestone": "Arthur Hayes on the Binance Blockchain Week Bangkok main stage Sat 11/28 11:15 AM Bangkok time (Fri 11/27 10:15 PM CT, official). Testnet miner onboarding open (official Thu 11/26 11:13 AM CT, GPU 16 GB+ needed, 50+ miners online); site still says unscored and no voucher start block is announced. Mainnet Q1 2027 (provisional). Any FLOP token is a scam",
+   "next_milestone": "Arthur Hayes on the Binance Blockchain Week Bangkok main stage Sat 11/28 11:15 AM Bangkok time (Fri 11/27 10:15 PM CT, official). Founder says using the free testnet compute qualifies for mainnet FLOP (Thu 11/26), but the official testnet page still says unscored with no voucher start block. Mainnet Q1 2027 (provisional). Any FLOP token is a scam",
    "milestone_date": "2026-11-27T22:15:00-06:00",
    "links": [
     {
@@ -1033,7 +1033,7 @@
    ],
    "upgrade_if": "Testnet opens on time and runs stably; published airdrop rules; named engineering team; audit",
    "downgrade_if": "Delays; look-alike tokens",
-   "last_update": "2026-11-26T12:19:59-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "price": null,
    "logo": "logos/flop-network.png",
    "website": "https://flop.finance"
@@ -1127,7 +1127,7 @@
    "links": [],
    "upgrade_if": "Deeper liquidity, audit",
    "downgrade_if": "Liquidity stays thin",
-   "last_update": "2026-11-26T15:59:37-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "price": 0.00054651,
    "logo": "logos/crynux.png",
    "website": "https://crynux.io",
@@ -1223,7 +1223,7 @@
    "links": [],
    "upgrade_if": "Dated TGE",
    "downgrade_if": "Revenue fades",
-   "last_update": "2026-11-26T12:19:59-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "price": null,
    "logo": "logos/termix.png",
    "website": "https://termix.ai"
@@ -1321,7 +1321,7 @@
    "links": [],
    "upgrade_if": "Official dated TGE + verified token address",
    "downgrade_if": "Second missed date",
-   "last_update": "2026-11-26T12:19:59-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "price": null,
    "logo": "logos/dac-chain.png",
    "website": "https://www.dachain.tech"
@@ -1429,7 +1429,7 @@
    ],
    "upgrade_if": "Published audit of the PQ account upgrade, official docs naming the parameter sets, and an official DEX route",
    "downgrade_if": "PQ claims turn out marketing-only, or the paid promo wave is the only demand",
-   "last_update": "2026-11-26T15:59:37-06:00",
+   "last_update": "2026-11-26T16:19:48-06:00",
    "logo": "logos/verona.png",
    "website": "https://verona.dev",
    "cg_id": "verona",
@@ -1437,6 +1437,30 @@
   }
  ],
  "prelaunch_updates": [
+  {
+   "project": "GenLayer",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "Teaser: 'The internet finally has a court date. THE DAY is set. Stay close.' The date itself is not disclosed yet (likely mainnet or TGE, unconfirmed). No official GEN token address yet: any GEN token on sale is a scam.",
+   "at": "2026-11-26T16:19:48-06:00",
+   "url": "https://x.com/GenLayer/status/2126044537382650354"
+  },
+  {
+   "project": "Dataline",
+   "theme": "AI",
+   "source_type": "official",
+   "text": "Teaser: 'Something very big is almost here. Stay close.' (thanks quest and wallet-link participants). The DAT public sale on Uniswap CCA is still undated; any DAT token before an official token address is a scam.",
+   "at": "2026-11-26T16:19:48-06:00",
+   "url": "https://x.com/DatalineAI/status/2126052802640441499"
+  },
+  {
+   "project": "Flop Network",
+   "theme": "AI",
+   "source_type": "founder",
+   "text": "Arthur Hayes: 'Come and use the free compute and qualify for mainnet FLOP.' The official testnet page still says the opening is unscored, with voucher earning off and no start block announced, so treat it as unconfirmed. Any FLOP token is a scam.",
+   "at": "2026-11-26T16:19:48-06:00",
+   "url": "https://x.com/CryptoHayes/status/2126052405737570513"
+  },
   {
    "project": "GenLayer",
    "theme": "AI",
@@ -1492,30 +1516,6 @@
    "text": "GenLayer GitHub: Bradbury testnet Phase 3 deployed Tue 11/24 (chain 4221, node v0.6.0) and an epoch-zero validator bootstrap guide published Wed 11/25. Development signal only: still no dated launch day, audit or official token address. Mission GEN in the Court closes Thu 11/26 6:00 AM CT.",
    "at": "2026-11-25T08:06:36-06:00",
    "url": "https://github.com/genlayerlabs/genlayer-networks"
-  },
-  {
-   "project": "Teneo",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "OPEN CAMPAIGN (official): Teneo Beacon Season 5 is live (Tue 11/24 7:04 AM CT post; Season 4 USDC payouts sent on-chain). Join by creating a Teneo account and running the Beacon app (shares your unused bandwidth with AI agents) on a phone or computer; uptime earns Fragments toward seasonal USDC draws, and Teneo says Fragments count toward its future token. Season 5 pool and end date not posted (seasons have run 60 days). Payout needs a linked EVM wallet. Teneo is radar only (no score yet). Use only teneo-protocol.ai links; ignore referral codes. Any Teneo token before an official token address is fake.",
-   "at": "2026-11-24T08:04:08-06:00",
-   "url": "https://x.com/teneo_protocol/status/2125214030293848381"
-  },
-  {
-   "project": "Flop Network",
-   "theme": "AI",
-   "source_type": "official",
-   "text": "Flop testnet is live (Tue 11/24 6:56 AM CT, about 6 hours late). Flop calls it a very early release with features switching on over the coming hours; explorer: testnet.flopscan.io. This opening is unscored: only settled inference in the later scored phase counts toward the genesis airdrop. AIRDROP BOT checked at 7:35 AM CT: nothing to claim yet.",
-   "at": "2026-11-24T08:04:08-06:00",
-   "url": "https://x.com/flop_labs/status/2125212060481093834"
-  },
-  {
-   "project": "GenLayer",
-   "theme": "AI",
-   "source_type": "rumor",
-   "text": "GenLayer quote-posted Aero's 'Cleared for landing' with 👀 (official tease, no details). Third-party accounts say GEN will launch on Aero (Base DEX) with TGE likely in December; not confirmed by GenLayer. Still no dated launch day, audit or official token address; any GEN token now is fake.",
-   "at": "2026-11-24T08:04:08-06:00",
-   "url": "https://x.com/GenLayer/status/2125164101970371028"
   }
  ],
  "digest": {
