@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-26T16:19:48-06:00",
+ "generated_at": "2026-11-26T20:18:58-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-26T16:19:48-06:00",
-  "next_scan": "2026-11-26T20:00:00-06:00",
+  "last_scan": "2026-11-26T20:18:58-06:00",
+  "next_scan": "2026-11-27T08:00:00-06:00",
   "activity": [
-   "4 PM scan: X watchlist accounts (quantum batch + AI batch), AI and quantum keyword searches since noon CT, SafeTrade tickers, web check of flop.finance/testnet",
-   "AI: GenLayer teased 'THE DAY is set' (official, no date yet). Dataline teased 'something very big is almost here' (official). Hayes says free testnet compute qualifies for mainnet FLOP, but the official page still says unscored",
-   "Quantum: no launches. PearlBridge (community bridge, not confirmed as Pearl Research Labs) posted its WPRL token address; Retium ID NFT mint (not a points campaign)",
-   "SafeTrade 48 bases via CoinGecko, unchanged since noon, no AI or quantum adds"
+   "8 PM scan: X watchlist accounts (quantum batch + AI batch), AI and quantum keyword searches since 4 PM CT, SafeTrade tickers via CoinGecko",
+   "AI: no official watchlist posts since 4 PM; keyword results were agent-memecoin launch bots and Motes farming threads (repeats)",
+   "Quantum: no launches. Quip community posts about 100k testnet blocks and paper-mode swaps (third-party, not official); Asentum farm posts (repeat); small PQ testnet leads (Galdrion, NyxSynth) too thin to vet",
+   "SafeTrade 48 bases via CoinGecko, unchanged since 4 PM (FLUX/PLS/ZER are rotation, not new), no AI or quantum adds"
   ],
-  "x_reads_left_today": 970
+  "x_reads_left_today": 996
  },
  "watchlist": [
   {
