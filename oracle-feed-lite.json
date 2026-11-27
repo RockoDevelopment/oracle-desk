@@ -1,17 +1,16 @@
 {
- "generated_at": "2026-11-27T08:10:19-06:00",
+ "generated_at": "2026-11-27T12:23:42-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-27T08:10:19-06:00",
-  "next_scan": "2026-11-27T12:00:00-06:00",
+  "last_scan": "2026-11-27T12:23:42-06:00",
+  "next_scan": "2026-11-27T16:00:00-06:00",
   "activity": [
-   "8 AM morning report: X watchlist accounts (quantum batch + AI batch), quantum, AI and campaign keyword searches since Thu 8:18 PM CT, X News, lead lookups (Galdrion, NyxSynth, Bitcoin Quantum), CoinGecko markets and categories, SafeTrade tickers, GitHub commits, flop.finance/testnet",
-   "AI: Flop testnet update (official): ~2.1M wallets, outside miners can join, vouchers still off; Hayes speaks in Bangkok Fri 10:15 PM CT. TermiX x402 API Marketplace is live on BNB Chain. DATA teases its Sui migration",
-   "Quantum: Quantus says Tue 12/1 is the last day for testnet miners to claim the QTC airdrop (official mobile wallet only). Bitcoin Quantum (BTQ Technologies) moving its testnet to ML-DSA-87 (new radar lead). QMS testnet status update",
-   "SafeTrade 46 bases via CoinGecko (+NEB, SOH; -ARB, FLUX, SAFE, ZCL vs Thu 4 PM), no AI or quantum adds",
-   "Rejected: Galdrion (6-follower PQ L1 stub), NyxSynth (2-follower PQ AI testnet with pseudo-science claims), Laserbeam waitlist (referral-link AI trading app)"
+   "Noon scan: X watchlist accounts (quantum batch + AI batch), SafeTrade/launchpad accounts, quantum and AI keyword searches since 8 AM CT, SafeTrade tickers via CoinGecko",
+   "AI: no new official posts from GenLayer, Flop, DATA, TermiX, Fraction AI, Dataline, Crynux, Ritual or Axis since 8 AM. Teneo repeats that TGE info is coming soon (no date). Motes Genesis/airdrop shill threads (repeat)",
+   "Quantum: QuipSwap passes $3.5M in post-quantum swaps (official). Quantus founder reminds testnet miners to claim before Tue 12/1. Bitcoin Quantum invites testnet users to try Dilithium P2MR addresses (no rewards stated). Soqucoin explainers",
+   "SafeTrade 46 bases via CoinGecko, unchanged since 8 AM, no AI or quantum adds"
   ],
-  "x_reads_left_today": 986
+  "x_reads_left_today": 975
  },
  "watchlist": [
   {
@@ -580,7 +579,7 @@
    "market_cap": null,
    "volume_24h": null,
    "dex_route": "No token yet; any QUIP token is a scam",
-   "next_milestone": "External chain audit, then mainnet and TGE (all undated). Developer-site network figures refreshed (GitHub Fri 11/27). Testnet passed 100k blocks Fri 11/20 (official)",
+   "next_milestone": "External chain audit, then mainnet and TGE (all undated). Developer-site network figures refreshed (GitHub Fri 11/27). Testnet passed 100k blocks Fri 11/20 (official). QuipSwap passed $3.5M in post-quantum swaps (official Fri 11/27)",
    "milestone_date": null,
    "links": [
     {
@@ -590,7 +589,7 @@
    ],
    "upgrade_if": "Dated TGE, audit, mainnet",
    "downgrade_if": "More TGE slips",
-   "last_update": "2026-11-27T08:10:19-06:00",
+   "last_update": "2026-11-27T12:23:42-06:00",
    "price": null,
    "logo": "logos/quip-network.png",
    "website": "https://quip.network"
@@ -1635,7 +1634,7 @@
    "at": "2026-11-27T08:10:19-06:00"
   }
  ],
- "snapshot_note": "8 AM morning report Fri 11/27 ~8:15 AM CT. No priority (0/3). 1 new open campaign (Quantus testnet-miner claim to Tue 12/1). X since Thu 8:18 PM CT; CoinGecko + SafeTrade tickers ~8:05 AM CT (46 bases, no niche adds). Not financial advice.",
+ "snapshot_note": "Noon scan Fri 11/27 ~12:30 PM CT. No priority (0/3). No new open campaigns; Quantus testnet-miner claim still open to Tue 12/1. X since 8 AM CT; SafeTrade tickers ~12:25 PM CT (46 bases, no niche adds). Not financial advice.",
  "deadlines": [
   {
    "project": "Flop Network",
