@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-27T16:20:10-06:00",
+ "generated_at": "2026-11-27T20:25:19-06:00",
  "status": {
   "state": "idle",
-  "last_scan": "2026-11-27T16:20:10-06:00",
-  "next_scan": "2026-11-27T20:00:00-06:00",
+  "last_scan": "2026-11-27T20:25:19-06:00",
+  "next_scan": "2026-11-28T08:00:00-06:00",
   "activity": [
-   "4 PM scan: X watchlist accounts (quantum batch + AI batch), SafeTrade/launchpad accounts, quantum and AI keyword searches since noon CT, SafeTrade tickers via CoinGecko",
-   "AI: Crynux Node v3.8.0 brings video generation live on the network, with a Video Generation API (official). GenLayer pitches its onchain jury for agent commerce (no new date). No new posts from Flop, DATA, TermiX, Fraction AI, Ritual, Axis, Verona, Teneo or Konnex since noon. Motes Genesis/airdrop shill threads (repeat)",
-   "Quantum: Soqucoin weighs in on a reported Zhejiang University subexponential elliptic-curve discrete-log claim (Ledger CTO says Bitcoin 256-bit keys are practically unaffected; research still under review). Quip explains QVRF quantum randomness. Retium promotes a paid Whisk (WSK) presale (not a free campaign; Retium team unconfirmed). Asentum farm posts (repeat, rejected)",
-   "SafeTrade 46 bases via CoinGecko (SAFE back, ZER dropped; ticker churn), no AI or quantum adds"
+   "8 PM scan: X watchlist accounts (quantum batch + AI batch), SafeTrade and Hayes accounts, quantum and AI keyword searches since 4:20 PM CT, SafeTrade tickers via CoinGecko",
+   "AI: no new official posts from Flop, DATA, TermiX, Fraction AI, Ritual, Axis, Crynux, Teneo, Konnex or GenLayer (one repost) since 4 PM. Arthur Hayes speaks on the Bangkok main stage Fri 10:15 PM CT. Motes Genesis shills and Sei agent-launchpad memecoins (not passing the filter)",
+   "Quantum: no new official posts from Quantus, Quip, Soqucoin, QRL, Verona, QMS or Abelian since 4 PM. Third-party only: Quip testnet Node Manager and Docker routes, Cronos v1.9 opt-in quantum-safe validator keys (repeat), Ethereum Glamsterdam on Hoodi testnet Mon 12/15 with post-quantum debate for Hegota. Asentum farm posts and Retium WSK presale (repeats)",
+   "SafeTrade 46 bases via CoinGecko, unchanged since 4 PM; no AI or quantum adds"
   ],
-  "x_reads_left_today": 969
+  "x_reads_left_today": 995
  },
  "watchlist": [
   {
@@ -127,7 +127,7 @@
    ],
    "upgrade_if": "Named-firm audit; more venues",
    "downgrade_if": "Chain halt; insider unlock pressure",
-   "last_update": "2026-11-27T20:00:35-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "price": 29.34,
    "logo": "logos/quantus.png",
    "website": "https://www.quantus.com",
@@ -252,7 +252,7 @@
    ],
    "upgrade_if": "Named-firm audit; real DEX liquidity on Base/BSC; more CEX listings",
    "downgrade_if": "Heavy airdrop or issuance selling; bridge or chain incident",
-   "last_update": "2026-11-27T20:00:35-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "price": 0.02610115,
    "logo": "logos/ritual.png",
    "website": "https://ritual.net",
@@ -381,7 +381,7 @@
    ],
    "upgrade_if": "Dated TGE + official Arbitrum token address + audit",
    "downgrade_if": "TGE slips past October",
-   "last_update": "2026-11-27T08:10:19-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "price": null,
    "logo": "logos/genlayer.png",
    "website": "https://genlayer.com"
@@ -484,7 +484,7 @@
    ],
    "upgrade_if": "Migration date + audited Sui on-chain code",
    "downgrade_if": "Migration delays",
-   "last_update": "2026-11-27T20:00:35-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "price": 0.083097,
    "logo": "logos/data-network.png",
    "website": "https://www.datafdn.org",
@@ -589,7 +589,7 @@
    ],
    "upgrade_if": "Dated TGE, audit, mainnet",
    "downgrade_if": "More TGE slips",
-   "last_update": "2026-11-27T12:23:42-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "price": null,
    "logo": "logos/quip-network.png",
    "website": "https://quip.network"
@@ -692,7 +692,7 @@
    ],
    "upgrade_if": "Official Nov 11 confirmation",
    "downgrade_if": "Date moves",
-   "last_update": "2026-11-27T08:10:19-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "price": null,
    "logo": "logos/fraction-ai.png",
    "website": "https://fractionai.xyz"
@@ -843,7 +843,7 @@
    ],
    "upgrade_if": "DEX liquidity, CMC listing, audit",
    "downgrade_if": "Pool centralization returns or partner claims don't hold up",
-   "last_update": "2026-11-27T20:00:35-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "price": 0.00015341,
    "logo": "logos/soqucoin.png",
    "website": "https://soqu.org",
@@ -956,7 +956,7 @@
    ],
    "upgrade_if": "Verified team, audit",
    "downgrade_if": "Heavy unlocks, more lock-up breaches, or no on-chain vesting published",
-   "last_update": "2026-11-27T20:00:35-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "price": 0.080745,
    "logo": "logos/axis-robotics.png",
    "website": "https://axisrobotics.ai",
@@ -1069,7 +1069,7 @@
    ],
    "upgrade_if": "Testnet opens on time and runs stably; published airdrop rules; named engineering team; audit",
    "downgrade_if": "Delays; look-alike tokens",
-   "last_update": "2026-11-27T08:10:19-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "price": null,
    "logo": "logos/flop-network.png",
    "website": "https://flop.finance"
@@ -1167,7 +1167,7 @@
    "links": [],
    "upgrade_if": "Deeper liquidity, audit",
    "downgrade_if": "Liquidity stays thin",
-   "last_update": "2026-11-27T20:00:35-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "price": 0.00054359,
    "logo": "logos/crynux.png",
    "website": "https://crynux.io",
@@ -1267,7 +1267,7 @@
    "links": [],
    "upgrade_if": "Dated TGE",
    "downgrade_if": "Revenue fades",
-   "last_update": "2026-11-27T08:10:19-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "price": null,
    "logo": "logos/termix.png",
    "website": "https://termix.ai"
@@ -1369,7 +1369,7 @@
    "links": [],
    "upgrade_if": "Official dated TGE + verified token address",
    "downgrade_if": "Second missed date",
-   "last_update": "2026-11-27T08:10:19-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "price": null,
    "logo": "logos/dac-chain.png",
    "website": "https://www.dachain.tech"
@@ -1481,7 +1481,7 @@
    ],
    "upgrade_if": "Published audit of the PQ account upgrade, official docs naming the parameter sets, and an official DEX route",
    "downgrade_if": "PQ claims turn out marketing-only, or the paid promo wave is the only demand",
-   "last_update": "2026-11-27T20:00:35-06:00",
+   "last_update": "2026-11-27T20:25:19-06:00",
    "logo": "logos/verona.png",
    "website": "https://verona.dev",
    "cg_id": "verona",
@@ -1634,7 +1634,7 @@
    "at": "2026-11-27T08:10:19-06:00"
   }
  ],
- "snapshot_note": "4 PM scan Fri 11/27 ~4:25 PM CT. No priority (0/3). No new open campaigns; Quantus testnet-miner claim still open to Tue 12/1. X since noon CT; SafeTrade tickers ~4:20 PM CT (46 bases, no niche adds). Not financial advice.",
+ "snapshot_note": "8 PM scan Fri 11/27 ~8:30 PM CT. No priority (0/3). No new open campaigns; Quantus testnet-miner claim still open to Tue 12/1. X since 4:20 PM CT; SafeTrade tickers ~8:28 PM CT (46 bases, unchanged). Not financial advice.",
  "deadlines": [
   {
    "project": "Flop Network",
